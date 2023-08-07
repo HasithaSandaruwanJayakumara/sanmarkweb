@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Square Integrations
+  description: Sanmark Solutions has a team of experts with years of experience in Square integrations. Our expertise means we can provide you with a solution tailored to your needs.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Seamless Integrations
+  description: Our Square integrations are designed to be seamless, minimising disruption to your existing systems and processes. This means that you can get up and running quickly with minimal downtime.
+  image: assets/img/values/img75.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customised Solutions
+  description: We understand that every business is unique, so we provide customised solutions tailored to your specific needs.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img34.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Affordable Prices
+  description: We believe that technology should be accessible to all businesses, which is why we offer affordable prices for our Square integration services.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Rapid Response
+  description: We understand that time is of the essence, which is why we provide rapid response times and work efficiently to get your Square integration up and running as soon as possible.
+  image: assets/img/values/img76.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Dedicated Support
+  description: Our dedicated support team is here to help you every step of the way, from initial consultation to ongoing support.
+  image: assets/img/values/img69.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Flexibility
+  description: Our Square integrations are designed to be flexible, allowing you to quickly adapt to changes in your business's needs over time.
+  image: assets/img/values/img39.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Scalability
+  description: Whether you are a small business just starting out or an established enterprise, our Square integrations are designed to scale with your business, ensuring that you always have the needed resources.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Ease of Use
+  description: Our Square integrations are user-friendly and intuitive, making it easy for your employees to use and quickly get up to speed.
+  image: assets/img/values/img67.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Secure and Reliable
+  description: Our Square integrations are built with security and reliability in mind, ensuring that your sensitive financial data is always protected and that your business can continue to operate even in the face of technical issues.
+  image: assets/img/values/img40.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

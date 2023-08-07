@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: High-Quality Talent
+  description: Our team of Bootstrap developers is very knowledgeable and experienced, and they have a track record of providing businesses in numerous industries with high-quality software solutions.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective Staffing
+  description: Our software staff augmentation services are designed to be cost-effective for businesses of all sizes.
+  image: assets/img/values/img88.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Resource Allocation
+  description: If you hire Bootstrap developers through our staff augmentation services, we ensure that they work exclusively on your project.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img86.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Collaborative Approach
+  description: Our strategy for hiring additional workers is extremely collaborative and customised to each client's unique requirements.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Flexible Staff Augmentation Options
+  description: We offer flexible staff augmentation options that allow you to scale your team up or down quickly and easily to meet your project needs.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Expertise
+  description: Our team of developers have extensive experience in a wide range of programming languages, including Bootstrap.
+  image: assets/img/values/img91.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels. We can accommodate your needs by using internationally popular communication tools.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Customer Satisfaction
+  description: We take pride in our work and are committed to delivering the best possible outcomes for our clients.
+  image: assets/img/values/img10.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparent Pricing
+  description: We offer competitive rates for our Bootstrap staff augmentation service and will provide you with precise hourly or monthly rates before starting any work.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Access to a Diverse Skill Set
+  description: Our developers can bring fresh ideas and insights to your project and can help you solve complex technical challenges.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

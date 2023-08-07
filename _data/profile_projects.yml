@@ -1,0 +1,154 @@
+- group: 1
+  image: assets/img/profile/HIUS-Img.webp
+  title: "Hospital Information Updating System (HIUS)"
+  content: "COVID-19 was a hugely challenging pandemic the world had to face. As the spread accelerated, it was difficult for countries to overcome this pandemic. As the records granted by WHO, this virus is still alive in the world anywhere."
+  button: READ MORE
+  link: /notable-projects/hospital-information-updating-system-hius/
+
+- group: 1
+  image: assets/img/profile/Bidder-img.webp
+  title: "Bidder.com.au"
+  content: "Deployed URL: https://www.bidder.com.au/ Bidder.com.au has been designed and developed by Sanmark Solutions for an Australian client. This system facilitates real-time communication and negotiation in a property transaction. This has been designed to handle all the aspects of online property transactions eg: property listing, property approval, property bidding, and live auction. Among the client requirements, high […]"
+  button: READ MORE
+  link: /notable-projects/bidder-com-au/
+
+- group: 1
+  image: assets/img/profile/zubits.com_.webp
+  title: "Zubits.ca"
+  content: "Zubits.ca is an online shop selling magnetic shoe closures. These magnetic items called “Zubits” allows quickly putting on shoes without tying, knotting and lacing. This site was developed using WordPress as the platform, and eCommerce functionality is provided by the WooCommerece plugin."
+  button: READ MORE
+  link: /notable-projects/zubits-ca/
+
+- group: 1
+  image: assets/img/profile/TPV.webp
+  title: "The Three by TPV"
+  content: "The Three by TPV is a tourism-oriented group of businesses based in the Southern Province of Sri Lanka. We have developed separate websites for all of their websites following a single unique theme. We tried to express the special uniqueness of their business through these websites, and our client is happy about the outcome."
+  button: READ MORE
+  link: /notable-projects/the-three-by-tpv/
+
+- group: 1
+  image: assets/img/profile/maruads.lk_.webp
+  title: "Maruads.lk"
+  content: "MaruAds.lk is a classifieds ads project started by Sanmark. It wad developed using Laravel PHP Framework for both the front and back ends."
+  button: READ MORE
+  link: /notable-projects/maruads-lk/
+
+- group: 1
+  image: assets/img/profile/marin.webp
+  title: "Keto Adapted Calculator"
+  content: "Deployed URL: https://mariamindbodyhealth.com/keto-calculator This is a calculator that helps people adjust their eating habits by suggesting better diet plans that result in weight loss by taking in user provided parameters."
+  button: READ MORE
+  link: /notable-projects/keto-adapted-calculator/
+
+- group: 1
+  image: assets/img/profile/grade1.lk_.webp
+  title: "Grade1.lk"
+  content: "Deployed URL: https://grade1.lk It is sometimes hard to collect some rare supplies required by your kid’s school as parents of primary class kids. Believe us, because we ourselves have gone through the drill. We’d do anything to support our kids’ education, but a little help is always welcome. We developed an online shopping cart and official website […]"
+  button: READ MORE
+  link: /notable-projects/grade1-lk/
+
+- group: 1
+  image: assets/img/profile/stf.net_.au_.webp
+  title: "Specialized Threaded Fasteners"
+  content: "Specialized Threaded Fasteners is a client from Western Australia, Australia."
+  button: READ MORE
+  link: /notable-projects/specialized-threaded-fasteners/
+
+- group: 2
+  image: assets/img/profile/p-jentschura.ca_.webp
+  title: "p-jentschura.ca"
+  content: "Our client Stephan Wilmes is the founder of the YouInFocusProducts Corp in Canada. This website was built to assist his efforts in bringing in Jentschura International GmbH products to Canada. URL: https://p-jentschura.ca/"
+  button: READ MORE
+  link: /notable-projects/p-jentschura-ca/
+
+- group: 2
+  image: assets/img/profile/primetimebeauty.com_.webp
+  title: "Primetime Beauty"
+  content: "Primetime Beauty is a beauty related website built by us for a client in USA."
+  button: READ MORE
+  link: /notable-projects/primetime-beauty/
+
+- group: 2
+  image: assets/img/profile/kocovie.com_.webp
+  title: "KocoVie"
+  content: "KocoVie is a coconut based hair care product brand in Canada. We built their website."
+  button: READ MORE
+  link: /notable-projects/kocovie/
+
+- group: 2
+  image: assets/img/profile/ceylonesecinnamon.com_.webp
+  title: "Ceylonese Cinnamon"
+  content: "Ceylonese Cinnamon Plantation and Exports Pvt Ltd is located in Sri Lanka where true Ceylon cinnamon grows. They are part of their parent’s company, SD Trading Company which has been producing fine cinnamon for over 27 years"
+  button: READ MORE
+  link: /notable-projects/ceylonese-cinnamon/
+
+- group: 2
+  image: assets/img/profile/harvestgroundimport.com_.webp
+  title: "Harvest Ground Import Export"
+  content: "Harvest Ground Import Export Ltd is a Canadian farm products company. We made their website."
+  button: READ MORE
+  link: /notable-projects/harvest-ground-import-export/
+
+- group: 2
+  image: assets/img/profile/bgagencies.com_.webp
+  title: "BG Agencies"
+  content: "BG Agencies is an engraving and a trophy designer in Western Australia, Australia. We made their official website."
+  button: READ MORE
+  link: /notable-projects/bg-agencies/
+
+- group: 2
+  image: assets/img/profile/suriyasena.com_.webp
+  title: "Eric Suriyasena Batiks"
+  content: "Mr. Eric Suriyasena is a prominent batic artist in Sri Lanka. He needed a professional website where he can display his marvellous creations to the world. We designed him a modern website that can showcase his artistic works to the world. The website has sections for his profile, art collection, fashion collection, and home collection. […]"
+  button: READ MORE
+  link: /notable-projects/eric-suriyasena-batiks/
+
+- group: 2
+  image: assets/img/profile/srilankachamotours.com_.webp
+  title: "Sri Lanka Chamo Tours"
+  content: "Sri Lanka Chamo Tours is a service that brings you the best of Sri Lanka. They arrange the perfect holiday for you in Sri Lanka. They wanted a great website that will bring them more customers. They wanted a website where they can easily change content. So, we implemented WordPress with a custom theme."
+  button: READ MORE
+  link: /notable-projects/sri-lanka-chamo-tours/
+
+- group: 2
+  image: assets/img/profile/peakpodiatry.com_.au_.webp
+  title: "Peak Podiatry"
+  content: "Peak Podiatry is an Australia based Perth’s premier sports and family podiatry practice service. We developed their site to highlight all the services they offer to their customers so that potential customers can contact them for services with great confidence in them. We’re continuing to provide Peak Podiatry with ongoing services like blog and newsletter […]"
+  button: READ MORE
+  link: /notable-projects/peak-podiatry/
+
+- group: 2
+  image: assets/img/profile/aradanahotels.com_.webp
+  title: "Aradhana Group of Hotels"
+  content: "Aradhana Hotels is a group of hotels including Aradhana of Hikkaduwa, Green Shadow of Hikkaduwa, and Cinnamon Breeze of Ampegama. They wanted a way to let more people find their reception halls. We have been able to get Aradhana Group of Hotels to a prominent search result location, and because of that many people have […]"
+  button: READ MORE
+  link: /notable-projects/aradhana-group-of-hotels/
+
+- group: 2
+  image: assets/img/profile/visitcolombo.com_.webp
+  title: "Visit Colombo"
+  content: "VisitColombo.com is a website dedicated to tourists who plan on visiting Sri Lanka, especially Colombo City. This highly informative website contains in-depth details about interesting places in the city, like places to see, eat and stay. We have developed the website in a responsive manner, so once you load it in your smart device, it […]"
+  button: READ MORE
+  link: /notable-projects/visit-colombo/
+
+- group: 2
+  image: assets/img/profile/mysportslk.webp
+  title: "Mysports.lk"
+  content: "MySports.lk is an online sporting goods marketplace developed by Sanmark. It allows the vendor to list the products they have for sale and the customers can order them by adding them to their shopping cart and checking-out."
+  button: READ MORE
+  link: /notable-projects/mysports-lk/
+
+- group: 2
+  image: assets/img/profile/phonebook.lk_.webp
+  title: "Phonebook.lk"
+  content: "Deployed URL: https://phonebook.lk PhoneBook.lk is a public service provided by Sanmark. It allows people to quickly find phone numbers of various organizations in Sri Lanka. It is designed to work on all kinds of devices, including PCs, tabs, and smartphones so that anyone can access the phone numbers they want wherever they are. When you’re using PhoneBook.lk […]"
+  button: READ MORE
+  link: /notable-projects/phonebook-lk/
+
+- group: 2
+  image: assets/img/profile/distrosharp.webp
+  title: "Distro #"
+  content: "Distro# is a software provided by Sanmark as a service. It is designed to support you with every aspect of managing your product distribution agency. Distro# will assist you from buying goods from vendors, and storing them in your stocks, to selling the goods to your customers. You can keep track of flow of your […]"
+  button: READ MORE
+  link: /notable-projects/distrosharp/
+  

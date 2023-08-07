@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Access to High-Quality Developers
+  description: Our developers have years of experience building high-quality mobile apps using React Native and can fill any gaps in your existing team's skillset.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective Staffing
+  description: Our software staff augmentation services are designed to be cost-effective for businesses of all sizes.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Resource Allocation
+  description: When you hire React Native developers through our staff augmentation services, we ensure that they work exclusively on your project.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img86.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Collaborative Approach
+  description: Proper staff augmentation requires an ability to collaborate effectively with clients.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Flexible Staff Augmentation Options
+  description: Experience the innovative approach to staff augmentation with our flexible options that give you complete control over scaling your team up or down according to your project requirements.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels. We can accommodate your needs by using internationally popular communication tools.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customer Satisfaction
+  description: We take pride in our work and are committed to delivering the best possible outcomes for our clients.
+  image: assets/img/values/img10.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Transparent Pricing
+  description: We offer competitive rates for our React Native staff augmentation service and will provide you with precise hourly or monthly rates before starting any work.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Faster Time-to-Market
+  description: Our developers can help to fill any gaps in your existing team's skills or capacity, allowing you to complete projects faster and more efficiently.
+  image: assets/img/values/img56.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Access to a Diverse Skill Set
+  description: Our developers can bring fresh ideas and insights to your project and can help you solve complex technical challenges.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

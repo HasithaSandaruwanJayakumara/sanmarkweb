@@ -1,0 +1,110 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise
+  description: Sanmark Solutions has a team of experienced AngularJS developers who are knowledgeable and skilled in delivering high-quality development outcomes.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description:  Our AngularJS development services are tailored to meet the unique needs of businesses, ensuring that you get the results you need.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Support
+  description:  With Sanmark Solutions, businesses can expect dedicated support from our AngularJS developers at every step.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective
+  description: Our AngularJS development services are cost-effective, offering businesses a valuable return on investment.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Streamlined Workflow
+  description: We use cutting-edge AngularJS tools and features to streamline workflows, reducing delays and increasing efficiency.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Flexibility
+  description: Our AngularJS development services are flexible, allowing businesses to respond quickly to changing requirements and market conditions.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Agile Methodology
+  description: We follow an agile development methodology, ensuring that projects are delivered on time and to budget.
+  image: assets/img/values/img77.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Risk Management
+  description: Our AngularJS development services minimise risks and help businesses avoid common development pitfalls, saving time and resources.
+  image: assets/img/values/img78.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Collaboration
+  description: Our developers work closely with businesses to understand their unique requirements, providing guidance and support at every step.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Commitment to Quality
+  description: Sanmark Solutions is committed to delivering high-quality AngularJS development services, ensuring that businesses receive the best possible outcomes.
+  image: assets/img/values/img80.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

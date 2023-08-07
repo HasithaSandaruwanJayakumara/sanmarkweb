@@ -1,0 +1,71 @@
+<section class="blog-area pt-100 pb-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center pb-40">
+                <style>
+                    .news-title h3 {
+                        color: #000;
+                        font-size: 36px !important;
+                        font-weight: bolder;
+                        font-family: "Open Sans", sans-serif;
+                    }
+
+                    .news-title h2 {
+                        font-size: 20px !important;
+                        font-weight: 600 !important;
+                        color: #104cba !important;
+                    }
+
+                    .news-title h2::before {
+                        background: #114CBA !important;
+                    }
+                </style>
+                <div class="section-title service-title news-title">
+                    <h2>{{ page.news.title }}</h2>
+                    <h3>{{ page.news.text }}</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for news in site.news limit:"3" %}
+            <div class="col-xl-4 col-lg-4 col-md-6 mb-30" >
+                <div class="blog-wrapper home-blog-wrapper white-bg" style="height:450px; max-height: max-content;">
+                    <div class="blog-thumb overflow-hidden">
+
+                        <img src="{{ news.post_image  | relative_url }}" width="{{ news.width }}" height="{{ news.height }}"
+                            alt="{{news.title}}" style="height:210px; object-fit: cover;" />
+
+                    </div>
+                    <div class="m-3">
+
+                        <h4 class="link-box">
+                            <a href="{{news.permalink | relative_url }}">
+                                {{news.title}}
+
+                            </a>
+                        </h4>
+                        <span class="d-flex align-items-center">
+                            <span class="lnr lnr-calendar-full pr-3"></span>
+                            {{ news.date | date_to_long_string }}
+                        </span>
+                        <p class="mt-10 mb-10 ">
+
+                            {{ news.paragraph }}
+                        </p>
+
+                    </div>
+
+                    <div class="link-box home-blog-link m-3">
+                        <a href="{{news.permalink | relative_url }}">{{ news.button }}</a>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="row ">
+            <div class="col-12 button-col">
+                <a href="{{ site.baseurl }}/news/"><button class="button-about grow_skew_forward d-block" id="btn1">{{ page.news.button }}</button></a>
+            </div>
+        </div>
+    </div>
+</section>

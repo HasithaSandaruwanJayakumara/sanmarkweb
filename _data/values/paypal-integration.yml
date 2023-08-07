@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Tailored for Your Business
+  description: Sanmark Solutions can help you get the most out of your investment by offering tailored integration services. With our expert guidance, you'll be able to make the most of PayPal's features and capabilities, saving you time and money in the long run.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Get Fast and Reliable Support
+  description: Our team of developers is always available to help you with any questions or issues. Whether you need help setting up PayPal, integrating it with your existing systems, or troubleshooting any problems, we're here to help.
+  image: assets/img/values/img70.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Stay Ahead of the Competition
+  description: By choosing Sanmark Solutions for your PayPal integration needs, you'll set yourself apart. Our services help you stay ahead of the curve and make the most of the latest technological advancements.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img25.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Unmatched Experience
+  description: With years of experience in the industry, our team has the knowledge and expertise to help you get the most out of PayPal. We've seen it all and know what works and doesn't. You can trust us to deliver the best solutions for your business.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Customisable Solutions
+  description: Whether you're a small business owner or a large enterprise, Sanmark Solutions can provide you with the customisation you need. Our experts can help you integrate PayPal in a way that works best for your unique business needs and goals.
+  image: assets/img/values/img54.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Seamless Integration
+  description: Our team of experts can help you seamlessly integrate PayPal into your existing systems and workflows, ensuring a smooth and efficient experience for you and your customers.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Scalable Solutions
+  description: As your business grows, our PayPal integration services can grow with you. Whether you need to add new features, integrate with new systems, or handle increased transactions, we can help you keep up with the demands of your growing business.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Streamlined Operations
+  description: With PayPal integration, you'll be able to streamline your financial operations and save time and money. Our services will help you automate many financial processes, freeing time and resources for other important tasks.
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Responsive Customer Service
+  description: Sanmark Solutions offers responsive customer service, ensuring that clients receive timely and professional support throughout the integration process and beyond.
+  image: assets/img/values/img72.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Stay Compliant with Regulations
+  description: PayPal is a trusted, secure platform for online payments. With Sanmark Solutions, you can be sure that your integration complies with all relevant regulations and standards, protecting your business and your customers.
+  image: assets/img/values/img73.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

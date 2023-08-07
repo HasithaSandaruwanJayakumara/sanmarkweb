@@ -1,0 +1,26 @@
+- title: "<b> Agility: </b> With microservice, the teams are small, nimble and autonomous. They clearly understand their services and can make decisions quickly, resulting in faster development cycles. This means you'll see a significant boost in overall productivity and performance. " 
+  id: one
+- title: "<b> Scalability on Demand: </b> Microservice architecture enables each service to be scaled independently, allowing teams to match infrastructure needs with the demand of each application feature. This helps teams accurately measure a feature's cost and maintain availability, even when a service experiences a spike in demand. " 
+  id: one
+- title: "<b> Fault Isolation: </b> Microservice architecture allows for smaller, more focused components that are less likely to have wide-reaching vulnerabilities. This improves security by isolating faults and reducing the impact of a security breach. " 
+  id: one
+- title: "<b> Team Collaboration: </b> Microservice architecture allows for better team collaboration, as small cross-functional teams can work independently on different components of an application. This fosters a culture of innovation and creativity. " 
+  id: one
+- title: "<b> Digital Transformation: </b> Microservice can help businesses in Australia to improve their digital transformation journey. By breaking down monolithic applications into smaller, more manageable services, your business can become future-ready and responsive to change. " 
+  id: one
+- title: "<b> Technological Flexibility: </b> Microservice allows teams to choose the best tool for the job instead of being limited to a one-size-fits-all approach. This allows teams to pick the technology that best suits their specific needs and keep up with the latest advancements in their field. " 
+  id: one
+- title: "<b> Reusable Code: </b> Breaking down software into smaller, clearly defined chunks means teams can use functions across different purposes. Teams can repurpose a service written for one function for another feature. This means developers can create new capabilities without starting from scratch, saving time and effort. " 
+  id: one
+- title: "<b> Tough as Nails: </b> Microservice makes apps more resilient to failure. Instead of one component bringing the whole show down, the app just loses that feature if a service fails. This keeps the rest of the app up and running and keeps you in business. " 
+  id: one
+- title: "<b> Speedy Turnaround: </b> Get ahead of the competition with faster time-to-market. Microservices allow for swift development and deployment of new features without the risk of conflicts or outages. " 
+  id: one
+- title: "<b> Top-notch Data Security: </b> Microservice improves data security by breaking down systems into smaller pieces and using secure APIs to connect them. Protects sensitive data from intrusions and allows for compliance with data security standards. " 
+  id: one
+
+
+
+
+
+

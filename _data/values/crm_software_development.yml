@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Expertise
+  description: We have a track record of delivering high-quality CRM software solutions.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: We tailor our CRM software to align perfectly with your business operations and goals.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Industry-Specific Software
+  description: Our CRM solutions cater to the unique needs of various industries.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img93.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Seamless Integration
+  description: We ensure smooth integration with your existing systems for a hassle-free transition.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Advanced Features
+  description: Our CRM software is equipped with advanced features to streamline your business processes.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Data Security
+  description: We prioritise the security of your sensitive business and customer data.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Ongoing Support
+  description: We offer comprehensive support and maintenance services post-implementation.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proactive Approach
+  description: We proactively identify and address any potential issues to ensure smooth operations.
+  image: assets/img/values/img94.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cost-Effectiveness
+  description: Our CRM software solutions offer excellent value for your investment.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Client-Centric Approach
+  description: We prioritise your needs and work closely with you throughout the development process.
+  image: assets/img/values/img95.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise
+  description: We specialise in Node.js backend development with a team of experienced developers who have a deep understanding of the Node.js ecosystem and have worked on various projects using this technology. Our clients can expect expert and specialised Node.js development services.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Flexibility
+  description: We offer flexible engagement models, such as hourly or project-based, to suit clients' budgets and needs. We can work with businesses of all sizes and provide them with a solution that best suits their needs.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customer-Centric Approach
+  description: We take a customer-centric approach to our work. We prioritise customer satisfaction and work closely with clients to understand your specific needs and tailor our services to meet those needs.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img28.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Communication and Collaboration
+  description: We believe in open communication with clients throughout the development, providing timely updates and progress reports. Our team is also available for regular meetings and check-ins to ensure the project meets the client's requirements.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Post-Deployment Support
+  description: We provide post-deployment support and maintenance to ensure the application runs smoothly and efficiently. Our team is available to address any issues or bugs that may arise.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Tailored Solutions
+  description: We understand that every business is unique and work closely with our clients to understand their specific needs and tailor our services to meet those needs.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Continuous Improvement
+  description: We are dedicated to staying up-to-date with the latest advancements in Node.js and web development technologies to provide our clients with cutting-edge solutions and continuously improve our services.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Agile Development
+  description: We follow Agile development methodologies, which allow us to deliver projects faster, be more responsive to changes, and ensure a higher degree of collaboration between our team and the client.
+  image: assets/img/values/img17.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Innovative Solutions
+  description: Our team is dedicated to staying up-to-date with the latest advancements in Node.js and web development technologies. We bring this knowledge to our clients to provide them with innovative, cutting-edge solutions that meet their needs.
+  image: assets/img/values/img27.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Strong Partnerships
+  description: We believe in building solid partnerships with our clients, which is why we take a customer-centric approach and work closely with them to understand their specific needs and tailor our services to meet those needs.
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

@@ -1,0 +1,71 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experience
+  description: We are well-experienced in providing software solutions for diverse industries, using many different technologies and methodologies. 
+  image: assets/img/values/custom_software_development_values/value_1.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Core Values
+  description: The heart of our collaborations lie in transparency, shared values and a focus on your success.
+  image: assets/img/values/custom_software_development_values/value_2.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Proven Workflow
+  description: We follow a proven workflow from project conception to completion, that ensures efficiency and on-time delivery.
+  image: assets/img/values/custom_software_development_values/value_3.webp
+  image_bg_color: rgba(136, 108, 255, 1)
+  image_padding: 19px 19px 21px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Development & Maintenance
+  description: We not only develop highly effective software solutions for your business, but we help you maintain it over the years and upgrade and improve on it as required.
+  image: assets/img/values/custom_software_development_values/value_4.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparency
+  description: Our projects are transparent throughout and we are always open to communication. 
+  image: assets/img/values/custom_software_development_values/value_5.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Competitive Pricing
+  description: We offer highly competitive, unbeatable pricing for custom software development solutions.
+  image: assets/img/values/custom_software_development_values/value_6.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(255, 63, 0, 0.1)
+  title: Expertise & Skills
+  description: Our team is up to date on the latest technology and developments when it comes to software development, and offer a high level of expertise and skill. 
+  image: assets/img/values/custom_software_development_values/value_7.webp
+  image_bg_color: rgba(255, 63, 0, 1)
+  image_padding: 18px 18px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Happy Clients
+  description: We have completed over 500 projects and are proud to have many happy clients behind us.
+  image: assets/img/values/custom_software_development_values/value_8.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Long Term Commitment
+  description: We are a company that is growing and developing every day, and we are in it for the long run!
+  image: assets/img/values/custom_software_development_values/value_9.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-right

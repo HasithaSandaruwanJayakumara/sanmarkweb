@@ -1,0 +1,69 @@
+<section class="blog-area grey-bg pt-100 pb-70 values-section">
+    <div class="container">
+        <div class="row" data-aos="fade-up" data-aos-once="true">
+            <div class="col-xl-12 text-center pb-40">
+                <div class="values-title">
+                    <h2>Values</h2>
+                    <h3>{{ include.hedding_two }}</h3>
+                </div>
+            </div>
+        </div>
+
+        {% if include.paragraph_one %}
+        <div class="row" data-aos="fade-up" data-aos-once="true">
+            <div class="col-xl-12 text-center pb-40">
+                <div>
+                    <p style="color:black; font-size:17px">{{ include.paragraph_one }} </p>
+                    <p style="color:black; font-size:17px; padding-top: 15px;">{{ include.paragraph_four }} </p>
+                </div>
+            </div>
+        </div>
+        {% endif %} 
+
+        <div class="row">
+            {% for link in include.links %}
+            <div class="col-xl-6 col-lg-6 col-md-6 mb-30 d-flex align-items-stretch" data-aos="{{ link.aos_animation }}" data-aos-once="true">
+                <div class="blog-wrapper home-blog-wrapper my-value" style="background:{{ link.card_bg_color }}; padding-left:45px;">
+                    <div class="row g-0 value-card px-2" >
+                        <div class="value-image col-2" style="align-items: center !important;">
+                            <img src="{{ link.image | relative_url }}" alt="" width=75 height=75  style="background:{{ link.image_bg_color }}; padding:{{ link.image_padding }}"/>
+                        </div>
+
+                        <div class="col-10 value">
+                            <div class="blog-content home-blog">
+                                <h2 class="blog-title" style="font-size:22px; font-weight:400">
+                                    {{link.title}}
+                                </h2>
+                                <p style="font-size:16px; padding-right:8px">{{link.description}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        {% if include.paragraph_two %}
+            <div class="row">
+                <div class="col-xl-12 pt-30 pb-10">
+                    <div>
+                        <p style="font-size:16px">{{ include.paragraph_two }} </p>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+
+        {% if include.paragraph_three %}
+            <div class="row">
+                <div class="col-xl-12">
+                    <div>
+                        <p style="font-size:16px">{{ include.paragraph_three }} </p>
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+
+    </div>
+</section>
+
+

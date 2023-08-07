@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Mobile App Development
+  description: With years of experience in the industry, our team of skilled app developers deeply understands mobile app development technologies, trends, and best practices. We have developed a range of apps across different platforms and industries, and our portfolio speaks for our expertise.
+  image: assets/img/values/img1.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: At Sanmark Solutions, we understand that every business has unique needs. That's why we offer customised mobile app development solutions tailored to meet your specific requirements. Whether you need an app for a particular platform or a hybrid one that works across multiple platforms, we have got you covered.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Effective Project Management
+  description: Our project management processes are designed to ensure that your mobile app development project is delivered on time and within budget. We use Agile methodology to ensure your project is managed effectively and delivered to the highest standards.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img19.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Quality Assurance
+  description: At Sanmark Solutions, we believe in delivering quality work that meets and exceeds your expectations. Our QA engineers rigorously test your app before it is released to ensure it is bug-free and works seamlessly on all devices.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Post-launch Support
+  description: Our mobile app development services continue beyond launch. We provide ongoing support and maintenance services to ensure your app continues performing at its best. Our support team is always available to help you with any issues or add new features and functionality to your app.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Cost-Effective Mobile App Development
+  description: At Sanmark Solutions, we offer cost-effective mobile app development services without compromising quality. Our flexible pricing models and streamlined processes allow us to deliver high-quality apps at an affordable cost, making our services accessible to businesses of all sizes.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Strong Focus on User Experience
+  description: Our team strongly emphasises user experience when developing mobile apps. We understand that an app's success depends on its ability to provide a seamless and intuitive user experience, which is why we put so much effort into designing user-friendly interfaces and intuitive navigation.
+  image: assets/img/values/img28.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: State-of-the-Art Technology and Tools
+  description: We use the latest technology and tools in mobile app development to ensure that our clients' apps are high-performing, secure, and scalable. Our team stays up-to-date with the latest advancements in the industry to ensure that our clients receive the best possible app development services.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Innovative Approach
+  description: Stay ahead of the competition with our cutting-edge approach to mobile app development that leverages the latest technologies and trends.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Transparent Communication
+  description: Enjoy clear and consistent communication throughout the development process, with regular updates and progress reports to keep you informed.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Track Record
+  description: With years of experience in the industry, Sanmark Solutions has a solid track record of delivering successful ERP software solutions. Our vast portfolio demonstrates our commitment to providing high-quality and efficient ERP systems.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 14px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Deep Technical Expertise
+  description: Our team of skilled software engineers and developers possess deep technical expertise in ERP software development.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Scalable Solutions
+  description: We understand that as your business grows, so do your system needs. That's why we design scalable ERP solutions that can easily accommodate new users and functions.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img71.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Custom-Tailored Systems
+  description: Every business has unique needs and challenges. At Sanmark Solutions, we offer customisable ERP systems to cater to your specific business requirements and processes.
+  image: assets/img/values/img55.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Client-Centric Approach
+  description: Our work doesn't end at delivery. We follow a client-first approach and offer robust post-implementation support, ensuring your ERP system continues to function optimally.
+  image: assets/img/values/img99.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Comprehensive ERP Software Development
+  description: We offer comprehensive ERP software development services to companies in Melbourne and Sydney, covering everything from strategy formulation and design through implementation, testing, and support.
+  image: assets/img/values/img126.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Enhanced Decision-Making
+  description: Our ERP systems are built to offer real-time data analysis capabilities, a crucial component in today's dynamic corporate environment, to enable informed and fast decision-making.
+  image: assets/img/values/img114.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Improved Customer Service
+  description: With our ERP solutions, your employees gain access to accurate and timely information, which can significantly enhance your customer service levels.
+  image: assets/img/values/img10.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Increased Operational Efficiency
+  description: By integrating various business functions into one system, our ERP software solutions enhance operational efficiency and productivity across your entire organisation.
+  image: assets/img/values/img101.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Strategic Business Partner
+  description: More than just a service provider, Sanmark Solutions serves as a strategic partner for your business. We understand your business goals and work alongside you to achieve them through our expert ERP software solutions.
+  image: assets/img/values/img107.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

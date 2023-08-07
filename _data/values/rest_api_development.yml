@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Agile Development Methodologies
+  description: We use agile development methodologies to deliver your API as quickly as possible without sacrificing quality.
+  image: assets/img/values/img17.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Range of Support Options
+  description: We offer a range of support options, including maintenance and bug fixing, to ensure that your API continues to function smoothly over time.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Flexible Engagement Models
+  description: We offer flexible engagement models to fit your budget and business needs in Sydney and Melbourne.
+  image: assets/img/values/img7.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Competitive Pricing
+  description: Our prices are competitive, making it easy for you to get the quality REST API development you need in these cities.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Dedicated Project Manager
+  description: Each project is assigned a dedicated manager to ensure smooth communication and efficient project delivery.
+  image: assets/img/values/img16.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Extensive Quality Assurance Process
+  description: We have an extensive process to ensure that your API meets the highest quality standards.
+  image: assets/img/values/img1.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Experienced Developers
+  description: Our developers have a wealth of experience building high-quality REST APIs.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 17px 17px 17px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Track Record
+  description: We have a proven track record of delivering successful REST API projects for many clients. 
+  image: assets/img/values/img15.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Industry-leading Tools and Technologies
+  description: We use industry-leading tools and technologies to build top-quality REST APIs. 
+  image: assets/img/values/img14.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Ongoing Support and Maintenance
+  description: We offer ongoing support and maintenance to ensure that your API continues to function smoothly over time.  
+  image: assets/img/values/custom_software_development_values/value_9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise and Experience
+  description: Our team of experienced full-stack developers has the skills and knowledge to handle all aspects of web application development. We have a track record of delivering high-quality products that meet the specific requirements of our clients.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Commitment to Quality
+  description: We are committed to providing our clients with the highest quality full-stack web application development services. From the initial consultation to the final delivery, we work closely with you to understand your needs and deliver a product that exceeds your expectations.
+  image: assets/img/values/img28.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Customer Service and Support
+  description: We pride ourselves on providing exceptional customer service and support. We are always available to answer any questions and provide ongoing support to ensure that your full-stack web application runs smoothly.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img41.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Tailored Solutions
+  description: We understand that every business is unique, so we offer customised solutions to meet your business's specific needs.
+  image: assets/img/values/img36.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Up-to-Date with the Latest Technologies
+  description: We stay up-to-date with the latest technologies and best practices in full-stack web application development, so our clients can benefit from the most advanced features and functionality.
+  image: assets/img/values/img42.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Scalability
+  description: Our full-stack web application development approach is highly scalable and can quickly adapt to the changing needs of your business. As your business grows and evolves, your web application can grow and develop with it without significant redesigns or rebuilds.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Responsive Design
+  description: Our full-stack web applications are designed with a responsive design that makes them optimised for all devices, ensuring a seamless user experience.
+  image: assets/img/values/img44.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Security
+  description: Security is a top priority for us. Our full-stack web applications are designed with the latest security measures to ensure that customer data is kept safe and secure at all times.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Core Values
+  description: The heart of our collaborations lie in transparency, shared values and a focus on your success.
+  image: assets/img/values/img45.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Long-Term Commitment
+  description: We are a company that is growing and developing every day, and we are in it for the long run!
+  image: assets/img/values/img46.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

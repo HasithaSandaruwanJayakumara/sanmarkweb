@@ -1,0 +1,31 @@
+<section class="pb-60 pt-100" style="background-color: rgb(231,237,248); overflow-x: hidden; position:relative">
+    
+    <div class="location-title" style="background-image:url( {{ page.office_location_bg_image | relative_url }} );">
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center mb-40">
+                <div class="section-title service-main-title">
+                    <h2 class="">OUR OFFICE LOCATIONS</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br><br>
+    <div class="row location-card-row">
+        {% for office_location in site.data.office_locations %}
+        <div class="col-xl-3 col-md-6 text-center" >
+            <div class="location-card">
+                <div class="card-content">
+                    <i class="{{ office_location.icon }}" aria-hidden="true"></i>
+                  <p class="card-heading">{{ office_location.address }}</p>
+                  <p class="card-para">{{ office_location.contact }}</p>
+                  <hr>
+                  <h6><a href="{{office_location.link}}"><button class="card-btn">{{ office_location.branch }}</button></a></h6>
+                </div>
+              </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>

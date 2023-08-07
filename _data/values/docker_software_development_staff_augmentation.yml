@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: High-Quality Talent
+  description: Our team of Docker developers is highly qualified, experienced, and has a track record of providing businesses in numerous industries with high-quality software solutions.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective Staffing
+  description: We offer software staff augmentation services that are affordable for companies of all sizes.
+  image: assets/img/values/img88.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Resource Allocation
+  description: When you hire Docker developers through our staff augmentation services, we ensure that they work exclusively on your project.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img86.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Collaborative Approach
+  description: The collaborative approach is one of our main staff augmentation strategies. Therefore we committed to working together with each client to meet their needs.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Flexible Staff Augmentation Options
+  description: We are dedicated to providing flexible staff augmentation options that let you scale your team up or down without difficulty to easily meet your project requirements.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Expertise
+  description: Our staff of engineers is highly skilled in a variety of programming languages, including Docker.
+  image: assets/img/values/img91.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels. We can accommodate your needs by using internationally popular communication tools.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Customer Satisfaction
+  description: We take pleasure in what we do and are dedicated to giving our clients the greatest results.
+  image: assets/img/values/img28.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparent Pricing
+  description: We offer competitive rates for our staff augmentation services and will provide you with clear hourly or monthly rates before starting any work.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Access to a Diverse Skill Set
+  description: Our developers can bring fresh ideas and insights to your project and can help you solve complex technical challenges.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

@@ -1,0 +1,23 @@
+<section class="cta-area landmark-area" style="padding:0">
+    <div class="container">
+        <div class="row" style="padding: 30px 0px 30px 0px">
+            
+                <div class="col-md-6 landmark-image {{ page.landmark.image_align }} " data-aos="fade-in" data-aos-delay="150" data-aos-once="true">
+                    <img src= "{{ page.landmark.image | relative_url }}" class="img-fluid" width={{ page.landmark.image_width }} height={{ page.landmark.image_height }}>
+                </div>
+
+                <div class="col-md-6 landmark-description" data-aos="fade-in" data-aos-delay="250" data-aos-once="true">
+                    <div>
+                    <h2 style="line-height:1.4;">{{ page.landmark.description_line1 }}<br>
+                        {{ page.landmark.description_line2 }}<br>
+                        {{ page.landmark.description_line3 }}</h2>
+                    </div>
+                    <div class="landmark-join">
+                        <button class="btn landmark-button"><a href="#contact-section" class="landmark-a">{{ page.landmark.join }}</a></button>
+                    </div>
+                </div>
+            
+        </div>
+    </div>
+</section>
+

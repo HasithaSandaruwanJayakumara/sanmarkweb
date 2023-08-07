@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Professionals with Experience
+  description: Across various sectors, our team's expertise as web designers and developers has led us to deliver high-quality web solutions by meeting the exclusive requirements of each business.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Approach
+  description: We believe that each business has its own distinct needs and goals. That's why we take the time to understand your objectives, industry, and target audience before crafting a customised web design and development plan that suits your brand perfectly.
+  image: assets/img/values/img82.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Responsive Design
+  description: Our talented team creates mobile-friendly websites with responsive capabilities so you can maintain a consistent visual identity throughout users' experience with your brand online, providing optimal user experiences for all who visit your site.
+  image: assets/img/values/img84.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: E-commerce Expertise
+  description: Our team comprises highly skilled individuals who have expertise in developing resilient e-commerce websites that are easy to use. These websites have the ability to generate additional online sales, augment brand presence and reach new potential customers.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: SEO Best Practices
+  description: We incorporate SEO best practices into our web design and development process, improving your website's search engine visibility and driving more organic traffic to your site.
+  image: assets/img/values/img10.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Integration with Content Management Systemsarency
+  description: To achieve the CMS requirement of each client individually; we have ensured that we integrate seamlessly with various platforms such as WordPress, Shopify, and Magento. Our platform is flexible enough to fit in every requirement category while maintaining its seamless presence as it blends harmoniously with existing workflow processes.
+  image: assets/img/values/img85.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Ongoing Support
+  description: After the launch of your website, our dedication to your success does not diminish; we persist in offering continuous upkeep, maintenance, and updates. This guarantees that your website continues to be relevant and secure while also performing at top-notch levels.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Pricing Transparency
+  description: At Sanmark Solutions, we believe in providing clear and upfront pricing. We provide a selection of web design and development packages made to fit organisations of different shapes and sizes and financial constraints.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customer Satisfaction
+  description: Your satisfaction is our top focus. Throughout the entire web design and development process, we collaborate closely with you to make sure the finished product surpasses your expectations and supports the growth of your company in the cutthroat online market.
+  image: assets/img/values/img74.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Targeted Expertise for Sydney & Melbourne
+  description: Our crew is highly knowledgeable about the particular requirements and tastes of companies in Sydney and Melbourne. This specialised knowledge enables us to develop web solutions that connect with your local audience, ensuring that your website successfully targets your target market.
+  image: assets/img/values/img95.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Tailor-Made Solutions
+  description: We collaborate closely with you to fully comprehend your operations, aims, and needs in order to create software solutions that are exactly in line with your corporate goals.
+  image: assets/img/values/img60.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 1px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cutting-Edge Technologies
+  description: Our software development techniques integrate the most advanced tools and inventive technologies to ensure that your business maintains a competitive edge.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Quality Assurance
+  description: To guarantee that our software solutions uphold the highest levels of quality and performance, Sanmark Solutions has stringent quality control procedures in place.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img80.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Client-Centric Approach
+  description: We follow a client-centric approach in all our projects, ensuring we deliver software solutions that bring tangible value to your business.
+  image: assets/img/values/img95.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalable Solutions
+  description: Because our logistics software solutions are adaptable, you can quickly adapt and grow as your business does.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Ongoing Support
+  description: We offer continuing technical support and upkeep services to make sure your programme operates without a hitch at all times.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective Services
+  description: At Sanmark Solutions, we strive to provide cost-effective services without compromising on quality.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Trusted Partner
+  description: With a proven track record of success, Sanmark Solutions is a trusted partner for businesses in Melbourne and Sydney.
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Industry-Specific Knowledge
+  description: At Sanmark Solutions, we pride ourselves on our deep understanding of the logistics and transportation industry.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Smooth Integration
+  description: Our logistics software seamlessly integrates with your existing systems for a smooth transition, minimising disruptions and allowing immediate benefits from our advanced solutions.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

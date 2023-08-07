@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expert PHP Developers
+  description: At Sanmark Solutions, our experienced PHP developers are highly skilled in creating custom solutions tailored to your unique needs, ensuring a high-quality final product.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Focused on Melbourne and Sydney
+  description: We specialise in providing PHP development solutions for businesses based in Melbourne and Sydney, with a deep understanding of the local market and customer needs.
+  image: assets/img/values/img31.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Scalability and Flexibility
+  description: Our PHP development solutions are highly scalable and flexible, allowing for easy and efficient expansion as your business grows.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img10.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective
+  description: We provide cost-effective PHP development services without compromising quality. We understand the importance of staying within budget.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Dedicated Project Manager
+  description: Each project is assigned a dedicated project manager, ensuring clear communication and timely completion of the project.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: User-Friendly Interface
+  description: We design user-friendly interfaces for our PHP applications, ensuring a seamless user experience for your customers in Melbourne and Sydney.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Ongoing Support
+  description: We provide ongoing support and maintenance for our PHP development solutions, ensuring that your website stays up-to-date and runs smoothly.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Results
+  description: Our team has a proven track record of delivering successful PHP development projects for businesses in Melbourne and Sydney.
+  image: assets/img/values/img27.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data Security
+  description: The security of your data and customer information are essential to us. We ensure that all PHP development solutions are secure and compliant with industry standards.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Customizable
+  description: We offer customisable PHP development solutions that can be tailored to meet the specific needs of your business in Melbourne and Sydney.
+  image: assets/img/values/img32.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

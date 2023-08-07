@@ -1,0 +1,91 @@
+<nav id="mobile-menu">
+  <ul>
+    {% for link in site.data.navigation %} {% assign active = nil %} {% for
+    sublink in link.submenu %} {% if page.url contains sublink.url %} {% assign
+    active = 'active' %} {% endif %} {% endfor %} {% if page.url contains
+    link.url %} {% assign active = 'active' %} {% endif %}
+
+    <li>
+      <a href="{{link.url | relative_url }}">{{link.text}}{% if link.submenu %}<i class="icofont-simple-down"></i>{%
+        endif %}</a>
+      {% if link.submenu %}
+      <ul class="sub-menu">
+        {% for sublink in link.submenu %}
+        <li>
+          <a href="{{sublink.url | relative_url}}">{{sublink.text}}{% if
+            sublink.subcatogary %}<i class="icofont-simple-right pl-2"></i>{% endif %} </a>{% if
+          sublink.subcatogary %}
+          <style>
+            @media (max-width:1340px) {
+              #sub-catogary {
+                width: 270px !important;
+                left: 100% !important;
+              }
+              .sub-menu{
+                width: 270px !important;
+                left: -50px !important;
+              }
+            }
+            @media (min-width:992px) {
+              #sub-catogary {
+                position: absolute;
+                width: 300px;
+                top: 0;
+                left: 100%;
+                background: #fff;
+                z-index: 2;
+                opacity: 0;
+                visibility: hidden;
+                transition: 0.3s;
+                border-top: 3px solid #091D3E;
+              }
+
+              .sub-menu li:hover #sub-catogary {
+                opacity: 1;
+                visibility: visible;
+                top: 20%;
+              }
+
+              #sub-catogary li a {
+                padding: 10px 15px;
+                text-align: left;
+                font-weight: 600;
+                position: relative;
+                font-size: 13px;
+              }
+
+              #sub-catogary li a::before {
+                position: absolute;
+                left: 6px;
+                color: #232323;
+                content: "-";
+                transition: .3s;
+                opacity: 0;
+              }
+
+              #sub-catogary li:hover a {
+                padding-left: 20px;
+              }
+
+              #sub-catogary li:hover a:before {
+                opacity: 1;
+                left: 10px;
+              }
+            }
+          </style>
+          <ul class="sub-menu" style="left: 100%" id="sub-catogary">
+            {% for subcatogary in sublink.subcatogary %}
+            <li>
+              <a href="{{subcatogary.url | relative_url}}">{{subcatogary.text}}</a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</nav>

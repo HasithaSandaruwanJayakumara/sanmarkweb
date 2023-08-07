@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expert Professionals
+  description: Our team consists of top expert experts in Azure, AWS, and other leading cloud platforms. Our priority is to offer first class services to companies situated in Melbourne and Sydney through our expert consulting services.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Vendor-Agnostic Approach
+  description: We offer unbiased advice and support for multiple cloud platforms, ensuring businesses receive the best possible solution tailored to their needs and goals.
+  image: assets/img/values/img110.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Localised Expertise
+  description: Focusing on the Melbourne and Sydney markets, Sanmark Solutions provides dedicated and localised support, ensuring businesses receive the personalised attention they need.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img74.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Comprehensive Migration Support
+  description: We offer end-to-end migration consulting services, ensuring a smooth and hassle-free transition to the cloud while maintaining data integrity and minimising business disruption.
+  image: assets/img/values/img10.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Customised Cloud Solutions
+  description: Our cloud consulting services offer customised solutions to address the particular requirements and objectives of each business, helping them to improve cloud performance, cut expenses, and increase security.
+  image: assets/img/values/img111.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Sustainable Cloud Solutions
+  description: We prioritise sustainable and eco-friendly cloud solutions, promoting responsible and energy-efficient computing practices in Melbourne and Sydney.
+  image: assets/img/values/img112.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Security and Compliance Focus
+  description: Our cloud consulting team prioritises the security and compliance of your cloud infrastructure, addressing potential risks and implementing robust measures to safeguard your data and applications.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Cost Optimisation
+  description: Our cloud consulting services include cost analysis and optimisation, ensuring your business gets the most value out of your cloud investment while maintaining budgetary constraints.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Training and Knowledge Transfer
+  description: Our cloud consulting team is committed to empowering your in-house IT team with the knowledge and skills needed to manage and maintain your cloud infrastructure effectively.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Customer-Centric Focus
+  description: Our primary mission is to put our clients first by tailoring top notch cloud consulting services that surpass their expectations. By prioritising their satisfaction we establish a foundation of trust and mutual success that cultivates enduring relationships.
+  image: assets/img/values/img95.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

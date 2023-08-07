@@ -1,0 +1,45 @@
+- card:
+  hover_text: "Engaging.io"
+  url: "/success-stories/engaging-io/"
+  image: "/assets/img/portfolio/engaging_project.webp"
+  alt: "engaging_project"
+  tag1: "*"
+  tag2: "cat-two"
+- card:
+  hover_text: "Hospital Information Updating System (HIUS)"
+  url: "/success-stories/hospital-information-updating-system-hius/"
+  image: "/assets/img/portfolio/hius_project.webp"
+  alt: "hius_project"
+  tag1: "*"
+  tag2: "cat-one"                
+- card:
+  hover_text: "Logical Increments"
+  url: "/success-stories/logical-increments/"
+  image: "/assets/img/portfolio/logical_increments_project.webp"
+  alt: "logical_increments_project"
+  tag1: "*"
+  tag2: "cat-two"
+- card:
+  hover_text: "Bidder.com.au"
+  url: "/success-stories/bidder-com-au/"
+  image: "/assets/img/portfolio/bidder_projrct.webp"
+  alt: "bidder_projrct"
+  tag1: "*"
+  tag2: "cat-four"
+- card:
+  hover_text: "The Three by TPV"
+  url: "/success-stories/the-three-by-tpv/"
+  image: "/assets/img/portfolio/tpv_project.webp"
+  alt: "tpv_project"
+  tag1: "*"
+  tag2: "cat-three"
+- card:
+  hover_text: "Dorian Solutions"
+  url: "/success-stories/dorian-solutions/"
+  image: "/assets/img/portfolio/dorian_solutions_project.webp"
+  alt: "dorian_solutions_project"
+  tag1: "*"
+  tag2: "cat-two"
+
+
+  

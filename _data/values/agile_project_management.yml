@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Agile Methodologies
+  description: At Sanmark Solutions, our expert Agile Project Managers possess deep knowledge and experience in implementing Agile methodologies, ensuring that your project is executed with the highest level of efficiency and effectiveness.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Client-Centric Approach
+  description: We prioritise your unique requirements and goals, providing tailored Agile Project Management services that not only meet but exceed your expectations while keeping your project on track and within budget.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Local Market Understanding
+  description: Our experience in targeting Melbourne and Sydney markets allows us to better understand the specific needs and challenges of businesses in these areas, ensuring that our Agile Project Management services align with your regional objectives.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img114.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cross-Industry Experience
+  description: Our team has successfully managed Agile projects across a diverse range of industries, enabling us to apply proven best practices and adapt our approach to your specific business context.
+  image: assets/img/values/img91.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Effective Communication
+  description: Sanmark Solutions emphasises transparent communication and collaboration, ensuring that all stakeholders are kept informed and involved throughout the project lifecycle, resulting in better decision-making and optimised outcomes.
+  image: assets/img/values/img72.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Proven Track Record
+  description: Our extensive portfolio of successful Agile projects in Melbourne and Sydney demonstrates our commitment to delivering exceptional results and the trust our clients have placed in our Agile Project Management services.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Scalable Solutions
+  description: We provide Agile Project Management services that can be scaled to accommodate projects of any size or complexity, ensuring that your organisation is equipped to handle growth and change with ease.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Comprehensive Support
+  description: Our Agile Project Management services include ongoing support and guidance from our dedicated team, helping you address challenges, mitigate risks, and maintain project momentum.
+  image: assets/img/values/img69.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 7px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Focus on Innovation
+  description: Sanmark Solutions places great emphasis on cultivating an innovative culture. We urge our Agile Project Managers to think outside the box and seek out novel ideas and approaches. This approach enables us to deliver advanced solutions that help your business stay ahead of the competition.
+  image: assets/img/values/img115.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Commitment to Agile Success
+  description: Our ultimate aspiration is for you to experience resounding Agile victory, and we pledge our unwavering support in every stride towards attaining exceptional outcomes that bring enduring benefits to your organisation.
+  image: assets/img/values/img35.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 7px
+  aos_animation: fade-left

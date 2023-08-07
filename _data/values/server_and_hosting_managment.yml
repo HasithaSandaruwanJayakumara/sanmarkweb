@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Extensive Experience
+  description: Sanmark Solutions has a wealth of experience in providing server and hosting management services to a diverse range of industries, ensuring a deep understanding of the unique requirements of businesses in Melbourne and Sydney.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: Our server and hosting management services are meticulously designed to cater to the unique requirements of each client, providing a superior digital infrastructure that is characterised by unrivalled performance, foolproof security, and steadfast reliability.
+  image: assets/img/values/img54.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Robust Security Measures
+  description: We prioritise security in all our hosting services, implementing advanced measures such as firewalls, intrusion detection systems, and regular security updates to protect your data and digital infrastructure.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img92.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Scalable Solutions
+  description: Our server and hosting management services are designed to grow with your business, ensuring seamless expansion without significant downtime or performance issues.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Efficient Resource Utilisation
+  description: We help businesses effectively allocate and manage server resources, leading to cost savings and peak efficiency in their digital infrastructure.
+  image: assets/img/values/img89.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Cutting-Edge Technology
+  description: Sanmark Solutions stays at the forefront of industry advancements, employing the latest technology and best practices to provide your business with a competitive edge.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Comprehensive Service Offerings
+  description: From cPanel Server Management to Managed VPS or Bare-metal Hosting , our wide range of services caters to businesses of all sizes and technical capabilities, ensuring a suitable solution for every client.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Commitment to Excellence
+  description: We are dedicated to delivering the highest level of service and exceeding client expectations, ensuring that your Melbourne or Sydney business benefits from our expertise in server and hosting management.
+  image: assets/img/values/img1.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Industry Expertise
+  description: Our deep knowledge of various industries enables us to provide targeted server and hosting management services, addressing the specific challenges and requirements of your Melbourne or Sydney business.
+  image: assets/img/values/img74.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Proactive Monitoring
+  description: Our team employs proactive server monitoring to detect and resolve potential issues quickly, minimising downtime and maximising your online presence.
+  image: assets/img/values/img85.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

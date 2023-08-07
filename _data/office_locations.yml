@@ -1,0 +1,23 @@
+- icon: fa fa-building
+  address: Ranawiru Mw, Kahatapitiya, Batapola, Galle, Sri Lanka. 80320.
+  contact: "Phone : (+94) 71 601 2109"
+  branch: "HQ : Sri Lanka"
+  link: "tel:+94716012109"
+
+- icon: fa fa-globe
+  address: 101, Henry Street, Pakenham, VIC, Australia. 3810.
+  contact: Let's Meet!
+  branch: Melbourne, Australia
+  link: "https://calendly.com/sanmark"
+
+- icon: fa fa-globe
+  address: 42, Moree Avenue, Westmead, NSW. Australia. 2145.
+  contact: Let's Meet!
+  branch: Sydney, Australia
+  link: "https://calendly.com/sanmark"
+
+- icon: fa fa-globe
+  address: 2/29, McBean Street, Yeppoon, QLD, Australia. 4703.
+  contact: Let's Meet!
+  branch: Yeppoon, Australia
+  link: "https://calendly.com/sanmark"

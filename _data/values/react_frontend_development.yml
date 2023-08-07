@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in React Development
+  description: Our team has extensive experience delivering high-quality web apps using React. We stay up-to-date with the latest trends to provide the best solution for your business.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Tailored Solutions
+  description:  We understand that every business has unique needs and goals. That's why we take a tailored approach to React development to ensure that your web application meets the specific needs of your business, resulting in increased customer engagement, retention and conversion.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Continuous Support
+  description: We don't just build and deliver web applications. We also offer continuous support and maintenance services to keep your web application up-to-date, secure and running smoothly. This leads to less downtime, better security and improved customer satisfaction, resulting in successful client partnerships.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-effective Solutions
+  description: At Sanmark Solutions, we understand the importance of cost-effectiveness in business. Our experienced developers use efficient and scalable methods to build React web applications, which leads to cost savings and smooth execution of your business operations. We strive to provide cost-effective solutions that deliver value and ROI for your business.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Transparent Communication
+  description: We value transparent communication with our clients and keep them informed throughout the development process. Our dedicated project managers will update you on the progress and provide regular reports, ensuring that your web application is delivered on time and within budget. We believe in building long-term partnerships with our clients, and open communication is key to that.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Commitment To Quality
+  description: At Sanmark Solutions, we are committed to delivering high-quality web applications that meet the unique needs of your business. Our team of experienced developers follows industry best practices. They use a structured approach to development, ensuring that your React front-end application is built to the highest standards and delivers the best possible user experience for your customers.
+  image: assets/img/values/img19.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Expertise In Latest Technologies
+  description: At Sanmark Solutions, we stay up-to-date with the latest technologies, such as React and its ecosystem, to provide the best solutions for your business. Our team of experts deeply understands the framework and its capabilities. They can leverage that knowledge to deliver high-performing, modern and cutting-edge web applications for your business.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Dedicated Project Management
+  description: Our dedicated project managers ensures that your project is managed efficiently and all the requirements are met on time and within budget. We understand the importance of clear and timely communication. Our project managers will keep you informed throughout the development process, so you're always aware of the progress of your project.
+  image: assets/img/values/img27.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data Security
+  description: Data security is of the utmost importance for any business. At Sanmark Solutions, we take the security of your data very seriously. Our team follows industry best practices and adheres to strict data security protocols to ensure that your web application and customer data are safe and secure.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Post-launch Support
+  description: We understand that launching a web application is just the beginning. That's why we provide post-launch support to ensure that your web application runs smoothly and any issues are addressed promptly. Our team of developers will be available to help you with any ongoing maintenance and updates, giving you peace of mind that your web application is in good hands.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-left

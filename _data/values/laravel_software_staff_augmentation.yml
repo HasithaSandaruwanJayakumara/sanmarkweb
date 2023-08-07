@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Extensive experience in Laravel Development
+  description: Our team of skilled developers has worked with this robust framework for years and created exceptional web applications.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Flexible Staff Augmentation Options
+  description:  We offer flexible staff augmentation options to help you scale your workforce up or down based on the project's requirements.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Affordable Staffing
+  description:  We offer affordable software staff augmentation services for companies of all sizes. You may cut prices on overhead expenses like pay, benefits, and training by only employing extra help when you need it.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Dedicated Resource Allocation
+  description: If you hire Laravel developers through our staff augmentation services, we ensure they work exclusively on your project. This indicates that you have a committed resource who is committed to your project's success.
+  image: assets/img/values/img41.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Collaborative Approach
+  description: Working closely with our clients is important to understand their unique needs and goals. We encourage open communication throughout the engagement to ensure we deliver exactly what you need.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels that allow you to stay in touch with your dedicated Laravel developers throughout the engagement. We can accommodate your needs by using internationally popular communication tools.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customer Satisfaction Guarantee
+  description: Sanmark Solutions takes great pleasure in its dedication to client satisfaction. We won't be satisfied until you are thrilled with the work we completed for you.
+  image: assets/img/values/img74.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Transparent Pricing
+  description: We believe in being upfront and transparent about our pricing. We offer competitive rates for our software staff augmentation services and will provide you with clear hourly or monthly rates before starting any work.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proven Track Record
+  description: We have a proven track record of success in the software development industry. Our satisfied clients include businesses of all sizes and industries.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Access to a Diverse Skill Set
+  description: By hiring experienced Laravel developers from Sanmark Solutions, you'll have access to a diverse skill set with a wide range of technical expertise. Our developers can bring fresh ideas and insights to your project and can help you solve complex technical challenges.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left

@@ -1,0 +1,83 @@
+<section class="portfoilo-area pt-100 pb-70" style="{% if page.recent_project.background_color != null %}background-color: {{page.recent_project.background_color}};{%else%} background-color: #F8F9FA ; {%endif%}">
+  <div class="container">
+    {% if page.portfolio_status == "portfolios carousel" %}
+    <div class="row">
+      <div class="col-xl-12 text-center mb-40">
+          <div class="section-title service-main-title custom-mobile-hr">
+              <h2 class="">HIGHLIGHTING THE INNOVATIVE WORK OF OUR TEAM​</h2>
+          </div>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-xl-12 text-center pb-40">
+          <div class="">
+              <h3 class="font-weight-bold">Our Recent Projects</h3>
+          </div>
+      </div>
+  </div>
+  {% else %}
+    <div class="row">
+      
+      <div class="col-xl-12 text-center pb-40">
+        <style>
+          .service-title h3 {
+            display: block;
+            padding: 0px !important;
+            font-size: 36px !important;
+            font-weight: bolder;
+            font-family: "Open Sans", sans-serif;
+          }
+          .service-title h2 {
+            font-size: 20px;
+            font-weight: 600;
+            color: #104cba;
+          }
+          .service-title h2::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            width: 60px;
+            height: 2px;
+            background: #114cba;
+            top: 30px;
+            right: 0;
+            margin: auto;
+          }
+        </style>
+        <div class="section-title service-title">
+          <h2 class="mb-5">{{ page.success_stories.title }}</h2>
+          <h3>{{ page.success_stories.text }}</h3>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    
+    {%if include.links %}
+    {% include components/carousel_slider.html %}
+    <p class="text-center py-3 font-weight-bold">{{ page.recent_project.text }}</p>
+    {%else%}
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <div class="portfolio-menu mb-55">
+          <button class="active" data-filter="*">
+            {{ page.success_stories.link1 }}
+          </button>
+          <button class="p-item" data-filter=".cat-one">
+            {{ page.success_stories.link2 }}
+          </button>
+          <button class="p-item" data-filter=".cat-two">
+            {{ page.success_stories.link3 }}
+          </button>
+          <button class="p-item" data-filter=".cat-three">
+            {{ page.success_stories.link4 }}
+          </button>
+          <button class="p-item" data-filter=".cat-four">
+            {{ page.success_stories.link5 }}
+          </button>
+        </div>
+      </div>
+    </div>
+    {% include components/success_storices_card.html %}
+    {%endif%}
+  </div>
+</section>

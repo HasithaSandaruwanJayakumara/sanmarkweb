@@ -1,0 +1,47 @@
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: In-House Talent
+  description: We already have experienced personnel with expertise in their chosen areas who are working on active projects, so you know you are getting people who are talented and up-to-date on the latest developments. 
+  image: assets/img/values/augmentation_services_values/In-House-Talent-2.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Vast Range of Expertise
+  description: We have a wide range of personnel with diverse talents and expertise, who are ready to step in and help boost your team.
+  image: assets/img/values/augmentation_services_values/Vast-Range-Of-Expertise-1.webp
+  image_bg_color: rgba(136, 108, 255, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experience
+  description: We are well-experienced in providing software solutions for diverse industries, using many different technologies and methodologies.
+  image: assets/img/values/custom_software_development_values/value_1.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 19px 19px 21px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Legally Binding
+  description: We enter into a legally binding contract with you regarding your staffing needs, so you can be assured of our continuing services to you no matter what.
+  image: assets/img/values/augmentation_services_values/Legally-Binding-2.webp
+  image_bg_color: rgba(136, 108, 255, 1)
+  image_padding: 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Flexible
+  description: We are very flexible when it comes to offering software teams for hire and will assist you with whatever you need, whether you want to expand or shrink your team over time. You can even switch staff members as you require, if you feel that someone is not a good fit for your project. 
+  image: assets/img/values/img7.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Affordable
+  description: We assure you of the best pricing in the market for top talent.
+  image: assets/img/values/custom_software_development_values/value_6.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

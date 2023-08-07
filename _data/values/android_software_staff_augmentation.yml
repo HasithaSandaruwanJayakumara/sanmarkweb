@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: High-Quality Talent
+  description: Our  Android development team is highly skilled and experienced and also we can ensure that they have a proven track record of delivering high-quality Android development projects.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective Staffing
+  description: Our developers have high skills and experience, Therefore, we can ensure that our software staff augmentation services are cost-effective for businesses of all sizes.
+  image: assets/img/values/img88.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Resource Allocation
+  description: When you hire Android developers through our staff augmentation services, we ensure that they work exclusively on your project.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img86.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Collaborative Approach
+  description: Our approach to staff augmentation is highly collaborative and we are ready to collaborate on each client's specific needs.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Flexible Staff Augmentation Options
+  description: We provide flexible staff augmentation options that allow scaling up or down your team to satisfy the needs of your project easily and quick.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Expertise
+  description: Our developers are experts in Android project development with extensive experience in various projects.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels. We can accommodate your needs by using internationally popular communication tools.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Customer Satisfaction
+  description: The satisfaction of our customers is always our top focus. Thus, we pledged to give them the finest results we could.
+  image: assets/img/values/img102.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparent Pricing
+  description:  We offer competitive rates for our staff augmentation services and will provide you with precise hourly or monthly rates before starting any work.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Access to a Diverse Skill Set
+  description: Our developers can bring fresh ideas and insights to your project and can help you solve complex technical challenges.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

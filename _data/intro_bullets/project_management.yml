@@ -1,0 +1,22 @@
+- title: "Planning"
+  id: one
+- title: "Scheduling"
+  id: one
+- title: "Executing"
+  id: one
+- title: "Monitoring "
+  id: one
+- title: "Delivering"
+  id: one
+- title_two: "Removing non-developmental tasks from the team."
+  id: two
+- title_two: "Getting to know the team and motivating them."
+  id: two
+- title_two: "Ensuring there are no changes to the tasks assigned to team members."
+  id: two
+- title_two: "Ensuring team members are organised."
+  id: two
+- title_two: "Effectively delegating work in order to streamline productivity."
+  id: two
+- title_two: "Creating a breakdown of the work plan and assigning smaller tasks to ensure faster completion."
+  id: two

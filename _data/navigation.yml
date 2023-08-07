@@ -1,0 +1,158 @@
+#Please use the main menu items under the "text"
+
+
+- text: Home
+  url: /
+- text: Services
+  url: #
+  submenu:
+  - text: Custom Software Development
+    url: /custom-software-development/
+    subcatogary:
+    - text: Laravel Web Application Development
+      url: /laravel-web-application-development/
+    - text: REST API Development
+      url: /rest-api-development/
+    - text: Flutter App Development
+      url: /flutter-app-development/
+    - text: Angular Frontend Development
+      url: /angular-frontend-development/
+    - text: React Frontend Development
+      url: /react-frontend-development/
+    - text: Python Software Development
+      url: /python-software-development/
+    - text: Node.js Backend Development
+      url: /nodejs-backend-development/
+    - text: PHP Web App Development
+      url: /php-web-application-development/
+    - text: JavaScript App Development
+      url: /javascript-app-development/
+    - text: Java Software Engineering
+      url: /java-software-engineering/
+    - text: Full Stack Web Application Development
+      url: /full-stack-web-application-development/
+    - text: Bootstrap Web Design
+      url: /bootstrap-web-design/
+    - text: Microservice Software Development
+      url: /microservice-software-development/
+    - text: Serverless Development
+      url: /serverless-development/
+    - text: Android App Development
+      url: /android-app-development/
+    - text: Mobile App Development
+      url: /mobile-app-development/
+    - text: Web Application Development
+      url: /web-application-development/
+    - text: Software Architecture
+      url: /software-architecture/
+    - text: Stripe Integration
+      url: /stripe-integration/
+    - text: Paypal Integration
+      url: /paypal-integration/
+    - text: Square Integration
+      url: /square-integration/
+  - text: Software Staff Augmentation Services
+    url: /software-staff-augmentation/
+    subcatogary:
+    - text: Laravel Software Staff Augmentation
+      url: /laravel-software-staff-augmentation/
+    - text: Flutter Software Staff Augmentation
+      url: /flutter-software-staff-augmentation/
+    - text: AngularJS Software Staff Augmentation
+      url:  /angularjs-software-staff-augmentation/
+    - text: Angular Software Staff Augmentation
+      url: /angular-software-staff-augmentation/
+    - text: React Software Staff Augmentation
+      url: /react-software-staff-augmentation/
+    - text: React Native Software Staff Augmentation
+      url: /react-native-staff-augmentation/
+    - text: Python Software Staff Augmentation
+      url: /python-software-staff-augmentation/
+    - text: Node.js Software Staff Augmentation
+      url: /nodejs-software-staff-augmentation/
+    - text: PHP Software Staff Augmentation
+      url: /php-software-staff-augmentation/
+    - text: JavaScript Software Staff Augmentation
+      url: /javascript-staff-augmentation/
+    - text: Java Software Staff Augmentation
+      url: /java-software-staff-augmentation/
+    - text: Bootstrap Software Staff Augmentation
+      url: /bootstrap-staff-augmentation/
+    - text: Docker Software Staff Augmentation
+      url: /docker-software-development-staff-augmentation/
+    - text: Android Software Staff Augmentation
+      url: /android-software-staff-augmentation/
+    - text: UI/UX Software Staff Augmentation
+      url: /ui-ux-staff-augmentation/
+  - text: Web Design and Ecommerce Development
+    url: /web-design-and-ecommerce-development/
+    subcatogary:
+    - text: E-Commerce Development
+      url: /ecommerce-website-development/
+    - text: Web Design and Development
+      url: /web-design-and-development/
+  - text: Software Teams for Hire
+    url: /software-teams-for-hire/
+  - text: Cloud Infrastructure Management Services
+    url: /cloud-infrastructure-management/
+    subcatogary:
+    - text: Server and Hosting Management
+      url: /server-and-hosting-management/
+    - text: Virtual Desktop Management
+      url: /virtual-desktop-management/
+    - text: Cloud Consulting
+      url: /cloud-consulting/
+    - text: DNS Management
+      url: /dns-management/
+    - text: Email Management
+      url: /email-management/
+    - text: Software Maintenance and Support Services
+      url: /software-maintenance-support-services/
+  - text: Industrial Software and Data Solutions
+    url: /industrial-solutions/
+    subcatogary:
+    - text: CRM Software Development
+      url: /crm-software-development/
+    - text: POS Software Development
+      url: /pos-software-development/
+    - text: E-Learning Software Development
+      url: /e-learning-software-development/
+    - text: Learning Management Software
+      url: /learning-management-software/
+    - text: Supply Chain Software
+      url: /supply-chain-software/
+    - text: Business Process Management Software
+      url: /business-process-management-software/
+    - text: Booking Software
+      url: /booking-software-solutions/
+    - text: Healthcare Software Development
+      url: /healthcare-software-development/
+    - text: ERP Software Development
+      url: /erp-software-development/
+    - text: Logistic Software Development
+      url: /logistic-software-development/
+    - text: Real-Estate Software Development
+      url: /real-estate-software-development/
+    - text: HRM Software
+      url: /hrm-software/
+    - text: Hospitality Hotel Software Development
+      url: /hospitality-hotel-software-development/
+    - text: Scheduling Software
+      url: /scheduling-software/
+  - text: Software Project Management
+    url: /software-project-management/
+    subcatogary:
+    - text: Scrum Project Management
+      url: /scrum-project-management/
+    - text: Agile Project Management
+      url: /agile-project-management/
+  - text: UI/UX Design
+    url: /ui-ux-design/
+- text: Profile
+  url: /profile/
+- text: Success Stories
+  url: /success-stories/
+- text: Testimonials
+  url: /testimonial/
+- text: Contact
+  url: /contact/

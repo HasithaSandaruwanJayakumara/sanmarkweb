@@ -1,0 +1,54 @@
+<section class="about-area pb-60 pt-100">
+    <div class="container">
+        <div class="row ">
+            <div class="col-xl-6 col-lg-6 order-md-2 mb-2 order-2 order-lg-1">
+                <div class="section-title">
+                    <style>
+                        h2::before {
+                            background: #114CBA !important;
+                        }
+
+                        .about-heading {
+                            font-size: 20px;
+                            color: #114CBA;
+                        }
+
+                        .about-text {
+                            font-weight: bolder;
+                            font-size: 36px;
+                            font-family: "Open Sans", sans-serif;
+                        }
+                    </style>
+                    <h2 class="about-heading ">{{ page.About.title }}</h2>
+                </div>
+                <div>
+                    <h2 class="about-text">{{ page.About.text }}</h2>
+                </div>
+                <div class="about-content mt-20">
+                    <p>{{ page.About.paragraph_one }}</p>
+                    <p>{{ page.About.paragraph_two }}</p>
+                    <p>{{ page.About.paragraph_three }}</p>
+                </div>
+            </div>
+            <div class="col-xl-6 col-lg-6 md-margin mb-2 d-flex justify-content-center align-items-end order-md-1 order-1 order-lg-2 ">
+
+                <div class="about-img">
+                    <img src="{{ page.About.image | relative_url }}" width="400" height="400" class="img-fluid" alt="">
+                </div>
+
+            </div>
+            <div class="col-xl-12 col-lg-12  md-margin order-md-3 order-3 order-lg-3">
+                <div class="about-content">
+                    <p>{{ page.About.paragraph_four }}</p>
+                    <p>{{ page.About.paragraph_five }}</p>
+                    <p>{{ page.About.paragraph_six }}</p>
+                </div>
+                <div>
+                    <a href="{{ site.baseurl }}/profile/">
+                        <button class="button-about grow_skew_forward" id="btn1">{{ page.About.button }}</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,15 @@
+<div class="pb-20">
+    <ul class="row" style="{{ include.ltr_bullet_class }}">
+        {% if include.links %}
+        {% for bullets in include.links %}
+        {% if bullets.id == "two" %}
+        <li class="d-flex py-2 col-lg-12 col-md-12" no_wrapper=true>
+            <span class="gradient-icon-one"><i class="fas fa-check-circle"
+                    style="font-size:20px; margin-top: 2px;"></i></span>
+            <span class="px-3" style="color:#7e7e7e;">{{ bullets.title_two }}</span>
+        </li>
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+    </ul>
+</div>

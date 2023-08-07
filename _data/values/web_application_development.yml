@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experienced Team of Web App Developers
+  description: Our web app developers have more than a decade of experience creating custom web apps that meet Melbourne and Sydney-based businesses' unique needs.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Innovative Solutions
+  description: We stay ahead of the curve by constantly researching and implementing the latest web technologies to ensure our clients receive the most innovative solutions for their businesses.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Excellent Customer Service
+  description: Our priority is to provide excellent customer service, from the initial consultation to the final delivery and beyond.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img28.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Affordable Services
+  description: Our web application development services are affordable, making them accessible to businesses of all sizes.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Seamless Integration
+  description: Our web applications seamlessly integrate processes with existing systems.
+  image: assets/img/values/img55.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: On-Time Delivery
+  description: We have a proven track record of delivering projects on time and within budget.
+  image: assets/img/values/img56.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Right Consultancy
+  description: We tackle your business problems like ours and work to add significant value to your business. From strategy development to implementation, we'll be with you every step of the way to ensure success.
+  image: assets/img/values/img35.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Industry-Specific Solutions
+  description: Our team has expertise in various industries, allowing us to offer industry-specific solutions that meet the unique needs of each business.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Ongoing Support
+  description: Our team provides ongoing support and maintenance to ensure your web application runs smoothly.
+  image: assets/img/values/img28.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Focus on Quality and Security
+  description: We focus on quality and security in our web application development services, supported by the latest security features and combining the best technical solutions
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

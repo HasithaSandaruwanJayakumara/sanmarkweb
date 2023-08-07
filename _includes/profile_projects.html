@@ -1,0 +1,112 @@
+<section class="pt-80 pb-20" style="background-color: rgb(231,237,248);">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 text-center mb-40">
+                <div class="section-title service-main-title">
+                    <h2 class="">NOTABLE PROJECTS​</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-12 text-center mb-40">
+                <div class="">
+                    <h3 class="font-weight-bold">A Quick Look at the Projects Sanmark Team has Worked On.</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="">
+        <div>
+            {% for profile_projects in site.data.profile_projects %}
+                {% if profile_projects.group == 1 %}
+                    <div class="container pb-60">
+                        <div class="row">
+                            <div class="col-lg-3 notable-project">
+                                <div class="image-container">
+                                    <a target="" href="{{ profile_projects.link | relative_url }}">
+                                        <img class="notable-project-img"
+                                            src="{{profile_projects.image | relative_url }}" alt="" width="255px" height="118.59px"
+                                            />
+                                    </a>
+                                    <div class="overlay">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-9 notable-project">
+                                <a target="" href="{{ profile_projects.link | relative_url }}">
+                                    <h4>{{ profile_projects.title }}</h4>
+                                </a>
+                                <p>{{ profile_projects.content }}</p>
+                                <div>
+                                    <a href="{{ profile_projects.link | relative_url }}" class="project-readmore-button" target="">{{
+                                        profile_projects.button }}</a>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="collapse" id="projects-group-2">
+            {% for profile_projects in site.data.profile_projects %}
+                {% if profile_projects.group == 2 %}
+                    <div>
+                        <div class="">
+                            <div class="container pb-60">
+                                <div class="row">
+                                    <div class="col-lg-3 notable-project">
+                                        <div class="image-container">
+                                            <a target="" href="{{ profile_projects.link | relative_url  }}">
+                                                <img class="notable-project-img"
+                                                    src="{{profile_projects.image | relative_url }}" alt="" width="255px"
+                                                    height="118.59px" />
+                                            </a>
+                                            <div class="overlay">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-9 notable-project">
+                                        <a target="" href="{{ profile_projects.link | relative_url  }}">
+                                            <h4>{{ profile_projects.title }}</h4>
+                                        </a>
+                                        <p>{{ profile_projects.content }}</p>
+                                        <div>
+                                            <a href="{{ profile_projects.link | relative_url  }}" class="project-readmore-button" target="">{{
+                                                profile_projects.button }}</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+        <div class="project-loading">
+            <button class="btn-primary" type="button" data-toggle="collapse" data-target="#projects-group-2" aria-expanded="false" aria-controls="collapseExample">
+                Show More
+             </button>
+        </div>
+    </div>
+
+<script>
+    $(document).ready(function() {
+
+  
+$('[data-toggle="collapse"]').click(function() {
+  $(this).toggleClass( "active" );
+  if ($(this).hasClass("active")) {
+    $(this).text("Show Less");
+  } else {
+    $(this).text("Show More");
+  }
+});
+  
+
+});
+
+</script>
+
+</section>

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Customised Solutions
+  description: At Sanamark Solutions, we understand that every business has unique email management needs. Your organisational requirements are addressed by specifically designed, efficient and effective solutions due to our personalised approach.
+  image: assets/img/values/img60.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 3px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Expert Support
+  description: Our team of email management specialists is dedicated to providing you with exceptional support and assistance. We ensure a seamless experience, from the initial consultation to ongoing maintenance and continuous improvement in your email management process.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Seamless Integration
+  description: By using our efficient email management services that effortlessly combine with popular platforms like Gmail and Outlook, you can significantly streamline your inbox organisational tasks while managing your emails in a single location effectively.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img25.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Enhanced Security
+  description: The implementation of state-of-the-art security measures is what enables us to prioritise keeping both sensitive data and business reputation safe. Our dedicated commitment to ensuring email communications' privacy and security guarantees protection from any potential cyber-attacks or other forms of online risks, allowing you peace of mind while entrusting us with your essential information.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalable Solutions
+  description: As your business grows, our email management services can adapt to accommodate your changing needs. We offer scalable solutions that ensure continued efficiency and security, regardless of the size or complexity of your organisation.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 6px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Improved Collaboration
+  description: Our email management services are designed to enhance collaboration within your team. By implementing a robust and organised email management system, your team can access important information quickly and work together more effectively.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 4px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Time-Saving Automation
+  description: Utilise our advanced automation features to save time and resources. Our email management services automate routine tasks like sorting, categorising, and archiving emails, allowing your team to focus on more important tasks and priorities.
+  image: assets/img/values/img89.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Optimised Email Marketing
+  description: Boost the performance of your email marketing campaigns with our expert guidance and powerful tools. We help you manage your campaigns, track results, and optimise performance, resulting in higher engagement rates and improved ROI.
+  image: assets/img/values/img116.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data-Driven Insights
+  description: Benefit from our data-driven approach that offers valuable insights into your email communications. Our advanced analytics and reporting tools enable you to make informed decisions and optimise your email management strategies for maximum efficiency.
+  image: assets/img/values/img117.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Trusted Partner
+  description: With Sanamark Solutions, you gain a reliable and experienced partner committed to helping your business succeed. Our proven track record of delivering top-tier email management services to Melbourne and Sydney businesses ensures that you can trust us with your vital email communications.
+  image: assets/img/values/img69.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

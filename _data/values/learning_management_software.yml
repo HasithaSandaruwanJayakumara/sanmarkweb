@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Experience
+  description: Leveraging our vast industry experience, Sanmark Solutions has emerged as a frontrunner in LMS software development, consistently delivering robust and trustworthy solutions across business sizes.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customer-Centric Approach
+  description: Sanmark Solutions always places its customers at the core. We guarantee a high standard of customer service, ensuring a smooth transition and beneficial implementation of your LMS.
+  image: assets/img/values/img99.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Innovation and Quality
+  description: Committed to excellence, Sanmark Solutions offers innovative and high-grade LMS software, enriched with the latest technologies and features to elevate the learning experience.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img104.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Comprehensive Support
+  description: Understanding the necessity of continued support, Sanmark Solutions offers constant customer service and technical support for our LMS, standing by you at every stage.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Customisable Solutions
+  description: Acknowledging that every organisation has unique requirements, Sanmark Solutions delivers customisable LMS platforms, tailored to align with your specific learning objectives.
+  image: assets/img/values/img104.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Scalability
+  description: Designed to grow with your organisation, our LMS software offered by Sanmark Solutions is capable of easy scalability to cater to your evolving needs.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Integration Capabilities
+  description: Our LMS software at Sanmark Solutions integrates effortlessly with your organisation's other systems, paving the way for a more holistic and efficient learning framework.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: User-Friendly Interface
+  description: Prioritising usability, Sanmark Solutions designs LMS software featuring an intuitive, easy-to-navigate interface, promising a seamless learning experience.
+  image: assets/img/values/img105.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Commitment to Excellence
+  description: Above all, Sanmark Solutions upholds its dedication to excellence, striving to provide the best LMS software and service, meeting and exceeding clients' learning and development needs.
+  image: assets/img/values/img106.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Competitive Pricing
+  description: Committed to offering exceptional value, Sanmark Solutions delivers superior LMS software solutions at competitive prices, making top-notch learning and development tools accessible for businesses of all sizes without straining their budget.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

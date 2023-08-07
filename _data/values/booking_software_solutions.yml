@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Streamline Appointment Management
+  description: Our software simplifies the process of scheduling appointments, saving you time and effort. Say goodbye to manual booking systems and hello to seamless digital scheduling.
+  image: assets/img/values/img122.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Reduce No-Shows
+  description: Our automated reminders and notifications help minimise the occurrence of no-shows, ensuring that your business operates at maximum capacity and efficiency.
+  image: assets/img/values/img123.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Mobile-Friendly and Accessible
+  description: Our software systems are mobile-friendly, allowing you and your clients to access and manage appointments on the go. Never miss a booking opportunity or important update, even when you're away from the office.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img44.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Enhance Customer Experience
+  description: Our booking software products provide a seamless experience for your clients, allowing them to easily schedule appointments, receive reminders, and enjoy a hassle-free interaction with your business.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Increase Booking Accuracy
+  description: Avoid double bookings and scheduling conflicts with our advanced software that ensures accurate appointment management, leading to improved customer satisfaction.
+  image: assets/img/values/img124.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 10px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Efficient Resource Allocation
+  description: Optimise your resources by effectively managing staff availability, room bookings, and equipment usage, resulting in improved operational efficiency.
+  image: assets/img/values/img125.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Secure Data Management
+  description: We prioritise the security of your data. Our booking software employs robust security measures to protect your sensitive information, providing you with peace of mind.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Tailor-made for Your Business
+  description: Our booking software systems are highly flexible and can be tailored to fit the specific requirements of your business, accommodating unique workflows and preferences.
+  image: assets/img/values/img115.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Scalable Solution
+  description: Our software products are designed to grow with your business. Whether you have a small startup or a large enterprise, our booking software can scale to meet your expanding needs without compromising performance.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Reliable Support and Maintenance
+  description: As your dedicated partner, we provide ongoing support and maintenance for the software we create, ensuring its smooth operation and addressing any concerns or issues that may arise.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

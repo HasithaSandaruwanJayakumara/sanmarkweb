@@ -1,0 +1,12 @@
+<section class ="privacy-policy" >
+    <div class="container"> 
+        <p >{{ page.privacy_policy.last_updated }}</p>
+        <p >{{ page.privacy_policy.description }}</p>
+        {% for list in page.privacy_policy.list %}
+            <h2 data-aos="fade-in" data-aos-delay="150" data-aos-once="true" data-aos-easing="ease-in">{{ list.title }}</h2>
+            {% for description in list.description %}
+               <p data-aos="fade-in" data-aos-delay="150" data-aos-once="true" data-aos-easing="ease-in">{{ description.p}}</p>
+            {% endfor %}
+        {% endfor %}
+    </div>
+</section>

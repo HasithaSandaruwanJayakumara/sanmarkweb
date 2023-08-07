@@ -1,0 +1,63 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: High Quality
+  description: We are 100% committed to delivering high-quality, reliable and efficient custom software solutions for your requirements. We have many satisfied clients in Australia that value us for the peace of mind that our services provide them. 
+  image: assets/img/values/img1.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Fast Delivery
+  description: We promise to give you the best with no delays. Our software engineers have years of experience in handling time-sensitive deliverables with care. Our teams use accurate project planning methods to deliver your project on time with high quality.
+  image: assets/img/values/img2.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Efficient Communication
+  description: We always make sure we get your requirements precisely right. Our communication systems are fully updated and convenient, and our teams are excellent at communicating professionally.
+  image: assets/img/values/img3.webp
+  image_bg_color: rgba(136, 108, 255, 1)
+  image_padding: 19px 19px 21px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Affordable Pricing
+  description: Affordability is a crucial factor when choosing the provider for your software needs. Sanmark takes pride in providing the highest quality services with an affordable price tag.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Experience
+  description: We are a company with 14 years of software industry experience and have successfully completed projects for various industries and clients. With our expertise, our engineers can work on any type of project and complete it on time. 
+  image: assets/img/values/img5.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: High Security
+  description: We follow security best practices to ensure that your data, requirements, and business secrets are safe with us while we work with you and even after that. Security is an essential part of all the software systems we design and develop.
+  image: assets/img/values/img6.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(255, 63, 0, 0.1)
+  title: Flexibility
+  description: We are flexible in achieving your ideas, focusing on the quality of the project result. You can freely present your ideas anytime to achieve the best result. 
+  image: assets/img/values/img7.webp
+  image_bg_color: rgba(255, 63, 0, 1)
+  image_padding: 18px 18px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Updated Technology
+  description: Technology in the world is changing rapidly. At Sanmark, we are up to date with what the technology has to offer and leverage it for the full benefit of our valued clients.
+  image: assets/img/values/img8.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 19px
+  aos_animation: fade-left

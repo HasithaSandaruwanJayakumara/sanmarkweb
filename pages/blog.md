@@ -1,0 +1,72 @@
+---
+layout: page
+pagination:
+  enabled: true
+permalink: "/blog/"
+title: Blog
+
+
+hero_second_image: "assets/img/slider/hero-second-image.webp"
+hero_hedding_one: Blog
+hero_background_color: rgba(16, 42, 84, 0.8)
+opacity: 0.8
+hero_hedding_one_font_size: 48px
+
+
+animation1: hedding-animation
+animation2: hero_second_image-animation
+
+background_color: '#ffffff'
+status: 'breadcrumb'
+
+#seo
+description: "Here we publish articles that will help your business succeed to the next level. Stay in touch with us by subscribing to our newsletters."
+---
+
+<div class="basic-blog-area gray-bg pt-100 pb-100">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 blog-post-items">
+        {% for post in paginator.posts %}
+        <div class="blog-wrapper mb-40">
+          <div class="blog-thumb">
+            <a href="{{post.url | relative_url}}">
+              <img
+                class="img-fluid"
+                width="610"
+                height="305"
+                src="{{post.post_image | relative_url }}"
+                alt="{{post.title}}"
+              />
+            </a>
+          </div>
+          <div class="meta-info d-flex justify-content-around">
+            <div class="d-flex align-items-center">
+              <span class="lnr lnr-calendar-full pr-3" style="color: #2e59c7 !important;"></span>
+              {{ post.date | date_to_long_string }}
+            </div>
+            <div class="d-flex align-items-center">
+              <span class="lnr lnr-user pr-3" style="color: #2e59c7 !important;"></span>
+              <a href="{{ site.baseurl }}/author/{{ post.author | slugify }}">{{ post.author }}</a>
+            </div>
+          </div>
+          <div class="blog-content">
+            <h2 class="blog-title">
+              <a href="{{post.url | relative_url}}">{{post.title}}</a>
+            </h2>
+          </div>
+          <div class="blog-detail">
+          <p>{{post.excerpt | strip_html | truncatewords:"30"}}</p>
+          </div>
+          <div class="link-box">
+            <a href="{{post.url | relative_url}}" style="color: #fff;"><button class="button-about grow_skew_forward" id="btn1">{{ post.button }}</button></a>
+          </div>
+        </div>
+        {% endfor %} {% include pagination.html %}
+      </div>
+      <div class="col-lg-4 sm-mt sidebar-blog right-side">
+        {% include sidebar.html %}
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in HR Software Development
+  description: Sanmark Solutions brings extensive expertise in HR software development, with a proven track record of delivering successful solutions to clients in Melbourne and Sydney.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 14px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Tailored Solutions for Your Needs
+  description: Sanmark Solutions specialises in developing customised HR software solutions that align with your specific needs and workflows.
+  image: assets/img/values/img100.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Industry Knowledge and Best Practices
+  description: Our team stays current on the most recent business trends and HR management best practices. We use our expertise to create innovative software solutions that address the changing requirements of your HR department.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img80.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Seamless Integration
+  description: Sanmark Solutions ensures seamless integration of the HR software with your existing systems and processes. This allows for a smooth transition and minimal disruption to your HR operations.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 8px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalability for Business Growth
+  description: We have developed our HR software solutions in a way that enables them to expand concurrently with your business. Our flexible offerings are capable of accommodating your developing HR necessities
+  image: assets/img/values/img46.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Data Security and Confidentiality
+  description: We prioritise the security and confidentiality of your HR data. Sanmark Solutions implements robust security measures to protect your sensitive information from unauthorised access, ensuring the highest level of data security.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: User-Friendly Interface
+  description: Our HR software comes equipped with an incredibly user-friendly interface, which will be meticulously developed to ensure effortless and straightforward utilisation by not only HR experts but also other employees.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Ongoing Support and Maintenance
+  description: Sanmark Solutions provides dedicated support and maintenance services to ensure the smooth functioning of your HR software. You can rest easy knowing that our team is available to provide prompt assistance should any issues arise.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Timely Delivery and Cost-Efficiency
+  description: Sanmark Solutions ensures timely delivery of your HR software solution, while also offering cost-effective options tailored to your budgetary constraints.
+  image: assets/img/values/img103.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Client Satisfaction
+  description: We prioritise open communication, a collaborative approach, and customer feedback throughout the development process to ensure that the final HR software solution meets or exceeds your expectations.
+  image: assets/img/values/img74.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

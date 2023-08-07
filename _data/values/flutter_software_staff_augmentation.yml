@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experienced Developers
+  description: Partner with Sanmark Solutions for access to a team of experienced Flutter developers. Our developers have years of experience creating beautiful, feature-rich apps and have the knowledge and abilities to realise your vision.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Quality Results
+  description:  Experience high-quality results with Sanmark Solutions. Our developers are committed to producing excellent results and offering knowledgeable help and direction at every stage.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cutting-Edge Technology
+  description:  Stay ahead of the curve with Sanmark Solutions. Our developers are well-versed in the latest Flutter technology and can leverage its capabilities to create functional and visually appealing apps.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Efficient Process
+  description: Streamline your Flutter development process with Sanmark Solutions. Our developers work efficiently to ensure your project is completed on time and within budget.
+  image: assets/img/values/img19.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Tailored Solutions
+  description: Get tailored solutions with Sanmark Solutions. Our programmers collaborate extensively with clients to comprehend their particular objectives and provide satisfying solutions.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Transparent Communication
+  description: Stay informed with transparent communication from Sanmark Solutions. Our developers keep clients informed every step of the way and are committed to open and honest communication.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Competitive Pricing
+  description: Save on costs with competitive pricing from Sanmark Solutions. We offer competitive pricing without compromising quality, making us a cost-effective choice for Flutter development.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(102, 102, 102, 0.1)
+  title: Expert Support
+  description: Get professional assistance from Sanmark Solutions. Our developers are available to help and provide guidance even after your project is finished, ensuring you always have access to the resources you need to succeed.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(102, 102, 102, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Future-Proof Solutions
+  description: Protect your investment with future-proof solutions from Sanmark Solutions. Our developers create apps designed to stand the test of time, ensuring your investment is protected for the future.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Scalability
+  description: Grow your business with scalable solutions from Sanmark Solutions. Our Flutter developers create apps designed to grow your business and can easily be scaled as needed.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-left

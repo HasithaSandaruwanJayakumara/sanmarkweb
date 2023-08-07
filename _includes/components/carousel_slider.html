@@ -1,0 +1,120 @@
+<div class="row">
+    <div class="col-12">
+        <style>
+            .testomonials-title h2 {
+                font-weight: bolder;
+                font-size: 36px;
+            }
+
+            .testimonial-prv button,
+            .testimonial-next button {
+                border: none;
+                background: none;
+            }
+
+            .testimonial-prv {
+                position: absolute;
+                top: 40%;
+                right: 95%;
+            }
+
+            .testimonial-next {
+                position: absolute;
+                top: 40%;
+                left: 95%;
+            }
+
+            @media (max-width:768px) {
+                .testimonial-prv {
+                    right: 98%;
+                }
+
+                .testimonial-next {
+                    left: 98%;
+                }
+            }
+
+            @media (max-width:600px) {
+                .testimonial-prv {
+                    right: 90%;
+                }
+
+                .testimonial-next {
+                    left: 90%;
+                }
+            }
+        </style>
+       
+    </div>
+
+    <div class="col-11" id="carouselTwo" style="position: relative; margin: 0 auto;">
+        <div class="testimonial-prv">
+            <button class="customPrevBtn" style="border:none;">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                    height="44px" width="27px" viewBox="0 0 296 580" style="enable-background:new 0 0 296 580;"
+                    xml:space="preserve">
+                    <style type="text/css">
+                        .st0 {
+                            fill: #015AFF;
+                        }
+                    </style>
+                    <g>
+                        <g>
+                            <path class="st0" d="M289.8,59.2L63.1,285.9c-2.2,2.2-2.2,5.9,0,8.1l228.6,228.6c2.6,2.6,4.1,6.2,4.1,10v41.5
+            c0,5.1-6.2,7.7-9.8,4.1L1.8,294.1c-2.2-2.2-2.2-5.9,0-8.1L286,1.7c3.6-3.6,9.8-1.1,9.8,4.1v38.8C295.9,50.1,293.7,55.3,289.8,59.2
+            z" />
+                        </g>
+                        <g>
+                            <path class="st0"
+                                d="M202.7,215.9l-73,71.8c-1.3,1.3-1.3,3.4,0,4.7l73,71.8c0.6,0.6,1,1.5,1,2.3v10.2c0,2.9-3.5,4.4-5.6,2.3
+                l-88.2-86.7c-1.3-1.3-1.3-3.4,0-4.7l88.2-86.7c2.1-2,5.6-0.6,5.6,2.3v10.2C203.7,214.4,203.4,215.3,202.7,215.9z" />
+                        </g>
+                    </g>
+                </svg> </button>
+        </div>
+      
+
+            <div id="owl-demo" class="owl-carousel owl-theme {{include.class_one}}">
+                {% for link in include.links %}
+                
+                <div class="item">
+                    <!-- add this to links and images relative_url -->
+                    <a href="#"><img src="{{ link.image | relative_url }}"  alt="{{ link.name }}" width="292" height="135" clas="img-fluid"></a>
+                    <h5 class="text-white mt-2">{{ link.name }}</h5>
+                    <div class="{{include.class_two}}">
+                    <h6 class="text-white ">{{ link.hover_text }}</h6>
+                </div>
+                </div>
+                    
+               
+                {% endfor %}
+              </div>
+        
+        <div class="testimonial-next">
+            <button class="customNextBtn" style="border:none;">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                    height="44px" width="27px" viewBox="0 0 296 580" style="enable-background:new 0 0 296 580;"
+                    xml:space="preserve">
+                    <style type="text/css">
+                        .st0 {
+                            fill: #015AFF;
+                        }
+                    </style>
+                    <g>
+                        <g>
+                            <path class="st0"
+                                d="M6.2,59.2l226.7,226.7c2.2,2.2,2.2,5.9,0,8.1L4.3,522.7c-2.6,2.6-4.1,6.2-4.1,10v41.5c0,5.1,6.2,7.7,9.8,4.1
+                l284.2-284.2c2.2-2.2,2.2-5.9,0-8.1L10,1.7C6.3-1.9,0.1,0.6,0.1,5.8v38.8C0.1,50.1,2.3,55.3,6.2,59.2z" />
+                        </g>
+                        <g>
+                            <path class="st0"
+                                d="M93.3,215.9l73,71.8c1.3,1.3,1.3,3.4,0,4.7l-73,71.8c-0.6,0.6-1,1.5-1,2.3v10.2c0,2.9,3.5,4.4,5.6,2.3
+                l88.2-86.7c1.3-1.3,1.3-3.4,0-4.7L97.9,201c-2.1-2-5.6-0.6-5.6,2.3v10.2C92.3,214.4,92.6,215.3,93.3,215.9z" />
+                        </g>
+                    </g>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+</div>

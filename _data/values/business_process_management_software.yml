@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in BPM
+  description: At Sanmark Solutions, we bring years of experience and knowledge in Business Process Management.
+  image: assets/img/values/img96.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: Our team develops tailored BPM software that is unique to your business, ensuring a perfect fit for your process management needs.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Scalable Software
+  description: Our BPM software is designed to grow with your business. Regardless of how complex your processes become or how much your user base expands.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Seamless Integration
+  description: Our BPM tools are designed to effortlessly integrate with your existing systems, ensuring a smooth flow of information across your organisation.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Advanced Technology
+  description: At Sanmark Solutions, we leverage the latest technological advancements to provide you with the most efficient and effective BPM solutions.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: User-Friendly Design
+  description: Despite the complexity of BPM, our software is easy for your team to embrace and utilise on a regular basis since it is simple to use and intuitive.
+  image: assets/img/values/img44.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Continuous Support
+  description: To guarantee that your software adapts to your changing demands and the changing market environment, we provide ongoing support and maintenance.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Track Record
+  description: We are proud of our track record in delivering successful BPM solutions for businesses across various industries.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Secure Solutions
+  description: We take security seriously. Our BPM software is designed with strong security measures to protect your data and your processes.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Committed Partnership
+  description: We are committed to your success and work with you every step of the way to ensure our BPM software drives your business towards your goals.
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left

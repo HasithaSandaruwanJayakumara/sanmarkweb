@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise
+  description: Our team of developers is highly skilled and experienced in the latest Android development technologies and practices. We deeply understand the Android ecosystem and know how to create user-friendly, efficient, and effective apps.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customisation
+  description: We understand that every business is unique and that one size does not fit all. That's why we take a custom approach to Android app development, working closely with you to understand your business needs and goals and creating a solution tailored to your specific requirements.
+  image: assets/img/values/img54.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data-Driven
+  description: We use a data-driven approach to Android app development, which allows us to make informed decisions, track and measure the success of your app, and personalise the user experience.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img25.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Proven Track Record
+  description: We have a proven track record of delivering high-quality, successful Android apps for businesses of all sizes and across various industries.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Maintenance and Support
+  description: We provide ongoing maintenance and support for your app to ensure that it continues to perform well and meet the needs of your business and customers.
+  image: assets/img/values/img41.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Cost-Effective
+  description: We can develop your Android app cost-effectively, which means you can get the functionality you need without breaking the bank. We work with you to understand your budget and create a solution that works for you.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cross-Platform Compatibility
+  description: We can create Android apps compatible with different platforms and devices, which means that your app can reach a wider audience.
+  image: assets/img/values/img44.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Integration with Other Systems
+  description: To create a seamless and efficient workflow, we can integrate your Android app with other systems and platforms, such as your website or other software.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: User-Centered Design
+  description: We prioritise the user experience in our Android app development process, and we design apps that are intuitive and easy to use, which means that your customers will be more likely to engage with your app and keep coming back.
+  image: assets/img/values/img28.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Security
+  description: We understand the importance of security when it comes to Android app development, and we take the necessary measures to ensure that your app is secure and protected from potential threats.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

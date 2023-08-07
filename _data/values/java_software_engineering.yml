@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expert Team of Java Software Developers
+  description: At Sanmark Solutions, we have a team of highly skilled Java software developers with the expertise and experience to deliver high-quality solutions that meet your unique needs.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Latest Technologies and Frameworks
+  description: We use the latest Java frameworks and technologies to ensure that your solutions are scalable, secure, and reliable. This allows us to deliver cutting-edge solutions that give you a competitive edge in the market.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customised Solutions
+  description: Our goal is to understand the unique needs of your business and provide customised solutions that meet those needs. This allows us to tailor our services to your specific requirements and deliver a solution tailored to your business needs.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img34.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Proven Track Record of Success
+  description: Sanmark Solutions has a proven track record of delivering high-quality Java software development solutions to businesses in Melbourne and Sydney. We have a long list of satisfied customers who have benefited from our expertise in Java software development.
+  image: assets/img/values/img35.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Excellent Communication and Project Management
+  description: We understand the importance of keeping our clients informed and involved every step of the way. Our project managers will work closely with you to ensure that your project is on track, meets all deadlines, and delivers the desired results.
+  image: assets/img/values/img36.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Post-Delivery Support
+  description: We offer post-delivery support to ensure that the solutions we deliver continue to meet your needs and that any issues are quickly resolved. Our team of experts will be available to provide support and make any necessary updates to the software.
+  image: assets/img/values/img37.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective Solutions
+  description: Our Java software development solutions are designed to be cost-effective while still providing the highest quality. We use the latest tools and technologies to ensure that our solutions are efficient and cost-effective without compromising on quality.
+  image: assets/img/values/img38.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Various Industries
+  description: Sanmark Solutions has years of experience working with businesses across various industries. Our team of Java software developers is equipped with knowledge and skills to cater to the unique needs of each industry.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Flexible Engagement Models
+  description: We offer flexible engagement models to cater to our client's unique requirements. Whether you need a dedicated team of developers, a project-based engagement, or a fixed-price contract, we have a model that can fit your needs.
+  image: assets/img/values/img39.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Quality Assurance and Testing
+  description: Our dedicated team of quality assurance and testing experts ensure that our solutions meet the highest quality standards. We use various testing techniques and tools to identify and resolve issues, ensuring our software is reliable and secure.
+  image: assets/img/values/img40.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

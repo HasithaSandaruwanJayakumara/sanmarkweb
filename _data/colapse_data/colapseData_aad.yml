@@ -1,0 +1,18 @@
+- title: "What are programming languages commonly used in Android app development?"
+  description: "Android app development typically uses Java or Kotlin as the primary programming language. Sanmark Solutions also use Dart and JavaScript."
+  id: "list-item-1"
+- title: "What are the benefits of using the Android operating system for app development?"
+  description: "Android has a large user base and a wide range of devices, which allows for a larger potential audience for your app. Additionally, the Android platform is open-source, which means it is free to use and has a large community of developers constantly improving and updating it."
+  id: "list-item-2"
+- title: "How does Sanmark Solutions ensure the quality of its Android app development services?"
+  description: "We have a thorough and rigorous testing process to ensure that all apps we deliver meet our high standards for quality. We also have a dedicated team of quality assurance professionals who continually monitor and test the apps to ensure they are free of bugs and other technical issues."
+  id: "list-item-3"
+- title: "How long does the Android app development process typically take?"
+  description: "The timeline for Android app development can vary depending on the complexity and scope of the project. We work with you to understand your requirements and timelines and develop a plan that works for you."
+  id: "list-item-4"
+- title: "How much does it cost to develop an Android app with Sanmark Solutions?"
+  description: "The cost of Android app development can vary depending on the complexity and scope of the project. We will provide you with a detailed quote after we understand your requirements. We work with you to understand your budget and create a solution that works for you."
+  id: "list-item-5"
+
+
+

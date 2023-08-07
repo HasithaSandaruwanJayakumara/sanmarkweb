@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Tailored Solutions
+  description: Sanmark Solutions offers customised virtual desktop management solutions that are tailored to your business's specific needs and requirements. In close collaboration with our clients, our team crafts a comprehensive plan that optimises security measures and enhances efficiency in accordance with their business objectives.
+  image: assets/img/values/img109.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Expertise in Virtual Desktop Management
+  description: Our team has garnered years of experience in the virtual desktop management domain. We possess exceptional knowledge and skills to provide unparalleled services that boost productivity, reduce expenses, and increase security measures.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cutting-Edge Technologies
+  description: Sanmark Solutions leverages cutting-edge technologies for Windows and Linux Virtual Desktop Management to provide businesses with seamless integration, centralised management, and optimal performance.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img25.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Robust Security Features
+  description: Our virtual desktop management solutions offer robust security features that protect your devices and data from potential threats. We ensure compliance with industry standards and continuously update our security practices to ensure optimal protection.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Efficient Management
+  description: By adopting our virtual desktop management services, businesses can enjoy more efficient and cost-effective management of their desktop environments, reducing IT complexities and enhancing overall productivity.
+  image: assets/img/values/img89.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Seamless Integration
+  description: Sanmark Solutions offers seamless integration of virtual desktop management solutions with your existing IT infrastructure, ensuring a smooth and hassle-free transition.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Proven Track Record
+  description: Our commitment to customer satisfaction and continuous improvement has earned us a reputation as a reliable and trusted provider of virtual desktop management services in Melbourne and Sydney.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Innovative Solutions
+  description: In order to guarantee that our customers always have access to the most recent developments in virtual desktop management, Sanmark Solutions is devoted to providing cutting-edge solutions that keep up with the quickly changing technological world.
+  image: assets/img/values/img100.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cost-Effective Solutions
+  description: By choosing Sanmark Solutions, businesses can benefit from cost-effective virtual desktop management solutions that deliver maximum value for their investment.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Expert Team
+  description: Our team of professionals comprises experts in virtual desktop management with a passion for delivering top-quality services that empower businesses to reach new heights in productivity and performance.
+  image: assets/img/values/img96.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

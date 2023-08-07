@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Tailored Solutions
+  description: Every business is unique, so we offer tailored Python solutions to meet your needs. Our team takes a consultative approach to all projects to understand your specific goals.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Dedicated Support
+  description: Our team provides dedicated support throughout the project, from initial consultation to deployment and ongoing maintenance. We're committed to ensuring your success and work closely with you to meet your needs.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Flexible Engagement Models
+  description: Whether you need a full-time dedicated developer, a short-term project, or occasional support, we offer flexible engagement models to accommodate your needs. We work with you to understand your requirements and provide the right resources to get the job done.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img28.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective Solutions
+  description: Our goal is to provide cost-effective solutions that deliver value for money without compromising quality. We work with you to understand your budget and provide scalable solutions that can grow with your business.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Proven Methodologies
+  description: Our team of developers follows industry-proven methodologies and best practices to ensure the project's success. We use Agile development methodology, allowing flexibility and regular check-ins to ensure that the project is on track and meeting your needs.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Expertise in Python Development
+  description: Our developers are experts in Python, capable of delivering solutions tailored to your unique business needs.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Commitment to Customer Satisfaction
+  description: At Sanmark Solutions, we're dedicated to providing the highest level of service and support throughout the development process.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Effective Communication
+  description: We value clear and regular communication with our clients. We keep you updated on progress and involve you in important decisions. Our team sets clear targets to ensure the project is completed on time and to your satisfaction.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proven Track Record
+  description: Our past projects and satisfied clients are a testament to our ability to deliver high-quality solutions that improve efficiency, reduce costs, and increase revenue.
+  image: assets/img/values/img27.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Agile Development Approach
+  description: Our Agile development process ensures that your project is delivered on time and on budget, with regular check-ins and adjustments to ensure it meets your evolving needs.
+  image: assets/img/values/img17.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

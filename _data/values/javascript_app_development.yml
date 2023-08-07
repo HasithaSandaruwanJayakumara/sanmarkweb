@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise and Experience
+  description: Sanmark Solutions has a team of experienced and highly skilled developers who specialise in JavaScript app development.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 14px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Dedicated Project Management
+  description: Our dedicated project manager will always turn to you with any questions or concerns and work closely with you throughout the entire development process.
+  image_bg_color: rgba(0, 211, 98, 1)
+  image: assets/img/values/img19.webp
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparent Communication
+  description: We value transparency and open communication. We will keep you informed every step of the way and ensure that you are always aware of the progress of your project.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img24.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective Solutions
+  description: We understand the importance of staying within budget and will work with you to find the most cost-effective solution that meets your needs.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Flexible Engagement Models
+  description: We offer flexible engagement models that allow you to choose the level of involvement that works best for you. Whether you need a full-service solution or just a specific aspect of the project, we can adapt to your needs.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Maintenance and Support
+  description: Our team of experts will work with you to fix bugs and ensure your application's smooth operation with the latest technologies and security patches.
+  image_bg_color: rgba(191, 101, 22, 1)
+  image: assets/img/values/img26.webp
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Quality Assurance
+  description: At Sanmark Solutions, we believe in delivering high-quality solutions. We have a strict quality assurance process that ensures that every solution we provide meets the highest quality standards.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Rapid Development
+  description: We use agile methodologies to deliver solutions quickly and efficiently. You can get your project up and running in the shortest possible time.
+  image: assets/img/values/img17.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data Security
+  description: We understand the importance of data security. Our team of experts will work with you to implement security measures that meet your specific needs and comply with industry standards.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Scalability
+  description: We provide scalable solutions to adapt and grow with your business needs. It ensures that your application can handle increased traffic, and the system can add new features per the requirement.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

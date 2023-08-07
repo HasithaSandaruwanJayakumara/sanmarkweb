@@ -1,0 +1,55 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experience
+  description: We are well-experienced in and up-to-date when it comes to cloud technologies and the latest innovations.
+  image: assets/img/values/img5.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Core Values
+  description: The heart of our collaborations lie in transparency, shared values and a focus on your success.
+  image: assets/img/values/img32.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparency
+  description:  We offer transparency and open communication.
+  image: assets/img/values/img53.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Competitive Pricing
+  description: We offer highly competitive, unbeatable pricing for cloud infrastructure management services.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(255, 63, 0, 0.1)
+  title: Expertise & Skills
+  description: Our team is up to date on the latest technologies and developments when it comes to cloud services, and offer a high level of expertise and skill.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(255, 63, 0, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Happy Clients
+  description: We are proud to have many happy clients behind us.
+  image: assets/img/values/img10.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Long Term Commitment
+  description: We are a company that is growing and developing every day, and we are in it for the long run!
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right

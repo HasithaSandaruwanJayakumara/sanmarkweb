@@ -1,0 +1,53 @@
+<section style="background-color: rgb(231,237,248);">
+    <div class="join-sanmark-card-text career-description mx-auto">
+        <p style="font-size: 16px;">Sanmark is a web application development company in the Southern Sri Lanka, that offers an excellent working environment to people with a taste for software engineering. You will be able to work with like minded geeks in here and gain some great experiences. Sanmark works on a number of different projects with different requirements, so that you will be able to challenge yourself always.</p>
+        <p style="font-size: 16px;">Send your CV to our email address: <a href="mailto:hro@theSanmark.com">hro@theSanmark.com</a></p>
+    </div>
+    
+    <div class="container">
+        {% for careers in site.data.careers %}
+        <div class="row {% cycle 'odd', 'even' %} mb-50">
+          <div style="background-color: #F8FBFF;" class="card career-card col-lg-12" data-aos="fade-in" data-aos-delay="150" data-aos-once="true">
+              <div class="card-body row">
+                    <div class="Profile-description col-lg-6 {%if include.name%}profile-client-para{%endif%} career-list my-auto">
+                        <h2>{{ careers.title }}</h2>
+                            <p>
+                                <ul type="square">{{ careers.content }}</ul>
+                            </p>
+                    </div>
+                    <div class="col-lg-6 text-center">
+                            <div class="my-auto mx-auto">
+                                <img class="img-fluid" src="{{careers.image | relative_url }}" alt="{{ careers.title }}" width="600" height="600"/>
+                            </div>
+                    </div>
+              </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+      <div class="Profile-description join-sanmark-card-text career-description career-list mx-auto">
+        <h2>Special consideration if you posses these:</h2>
+        <ul>
+            <li>Experience in web development.</li>
+            <li>Experience in Version Control Systems (Eg: Git, etc.).</li>
+            <li>Experience in code hosting platforms (GitLab, GitHub, BitBucket, etc.).</li>
+            <li>Experience in Linux OS.</li>
+        </ul>
+        <br>
+        <p style="font-size: 19px;">NOTE : You must be able to work in the office in Batapola, Galle. If you think you’re a right candidate to fill one of the vacancies above, send your CV to our email address : <a href="mailto:hro@theSanmark.com">hro@theSanmark.com</a></p>
+    </div>
+
+
+      <script>
+        var oddElements = document.getElementsByClassName('odd');
+    for (var i = 0; i < oddElements.length; i++) {
+        oddElements[i].style.direction = "ltr";
+    }
+
+    var evenElements = document.getElementsByClassName('even');
+    for (var j = 0; j < evenElements.length; j++) {
+        evenElements[j].style.direction = "rtl";
+    }
+    </script>
+
+</section>

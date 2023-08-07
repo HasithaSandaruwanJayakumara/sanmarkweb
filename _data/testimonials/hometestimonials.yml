@@ -1,0 +1,36 @@
+- card:
+  image: "/assets/img/testimonial/geff_harper.webp"
+  name: "Geff Harper"
+  position: "Head of UX & Design, Engaging.io."
+  address: "North Sydney, NSW, Australia."
+  paragraph: "The team at Sanmark have been a <strong>key part of the recent success and growth</strong> of Engaging.io. Kosala and Buddy are <strong>very responsive </strong> and have <strong>worked very hard</strong> with us to create <strong>a strong partnership</strong> and an <strong>impressive team</strong> of developers. The development team are <strong>very well skilled</strong>, conscientious and have the ability to <strong>think holistically</strong> when <strong>problem solving</strong> (a huge asset for software engineering) and they <strong>work seamlessly with our own team</strong>. I can thoroughly recommend Sanmark."
+- card:
+  image: "/assets/img/testimonial/orion_bukantis.webp"
+  name: "Orion Bukantis"
+  position: "CEO and Co-founder of LogicalIncrements.com"
+  paragraph: "I needed some web development done, and started looking around for dev shops. I put out requests, sorted through nearly a hundred applicants, interviewed a dozen, and ended up choosing Sanmark. Thousands of hours later, I am still very happy with them. They do excellent work, with honest accounting. Highly recommended!"
+  address: "Seattle, Washington, United States"
+- card:
+  image: "/assets/img/testimonial/nyoli_Scobie.webp"
+  name: "Nyoli Scobie"
+  position: "Founder of Truly Tea."
+  address: "Byron Bay, NSW, Australia."
+  paragraph: "Hello, my name is Nyoli. I am the owner of Truly Tea in Byron Bay, Australia. I’ve been working with Sanmark <strong>for many years now</strong>. Whenever I need anything done, I just have to send a quick email, and the <strong>very efficient staff jump right on to it</strong>. I don’t have any issues. They are very <strong>open and honest</strong>. And I am <strong>most grateful</strong> for that. And I would <strong>recommend Sanmark to anyone</strong>. And don’t be afraid to contact me anytime. Thank you!"
+- card:
+  image: "/assets/img/testimonial/chris_bastin.webp"
+  name: "Chris Bastin"
+  position: "Owner of Bidder.com.au"
+  address: "Brighton, VIC, Australia."
+  paragraph: "Sanmark have undertaken a <strong>complicated IT project</strong> from scratch for us. The entire team have proven to be <strong>professional, reliable and skilled</strong>. They are a <strong>pleasure to deal with</strong> and we continue to <strong>use their services for new features</strong> and updates to our platform."
+- card:
+  image: "/assets/img/testimonial/indika_gunawardena.webp"
+  name: "Indika Gunawardena"
+  position: "Tourism Entrepreneur and Owner of VisitColombo.com"
+  address: "Colombo, Sri Lanka"
+  paragraph: "I am very happy that I decided to use Sanmark for our web development. They produced an excellent standard of work within the agreed time scale. It was an absolute pleasure to work with them."
+- card:
+  image: "/assets/img/testimonial/tivon_prasad.webp"
+  name: "Tivon Prasad"
+  position: "Tourism Directory."
+  address: "Galle, Sri Lanka"
+  paragraph: "We are so happy that we decided to use Sanmark to design our website. Words we can’t express our appreciation for all the help and advice the sanmark team has given us. Kosala and Ranga were always there to listen to our never-ending requests and worked extremely hard to get everything done according to our wishes. The best thing was that they understood why we wanted things done in our specific way. The sanmark team did their best and has now made us a very satisfied customer. We are very grateful for all the hard work and time everyone has put into our website. The entire team has been absolutely awesome. Thilina created a sophisticated logo that receives a lot of appreciation. Our special thanks to him. We hope that Galletown.lk and Sanmark will be working as a team for many years to come. Thank you so much."

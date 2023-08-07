@@ -1,0 +1,280 @@
+<section class="pt-60 {{ page.faq.padding_bottom }} faq-section"
+    style="background-color:#E7EDF8;  background: {{ include.background_color }}; overflow: hidden;">
+
+    <style>
+        .main-title h2 {
+            color: #104cba;
+            background-clip: text;
+            font-size: 20px;
+            padding-top: 40px;
+            font-weight: 600;
+        } 
+
+        .main-title p {
+            font-size: 33px;
+            line-height: 1.4;
+            color: #000;
+            padding-top: 40px;
+            font-weight: bolder;
+        }
+
+        .intro-section-title h2 {
+            color: #104cba;
+            background-clip: text;
+            font-size: 20px;
+            padding-top: 40px;
+            font-weight: 600;
+        }
+
+        .intro-section-title p {
+            font-size: 33px;
+            line-height: 1.4;
+            color: #000;
+            padding-top: 40px;
+            font-weight: bolder;
+        }
+
+        .intro_image {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .three-paras p {
+            font-size: 16px;
+        }
+    </style>
+
+    {% if include.image %}
+    <div class="container">
+
+        <div class="row" style="align-items: center; direction: {{ include.rtl_class }};">
+
+            {% case include.content %}
+            {% when "paragraph" %}
+                <div class="col-lg-4 intro-image-div" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                    data-aos-once="true">
+                    <img src="{{ include.image | relative_url }}" width="418" height="339" class="intro_image"
+                        alt="intro_image">
+                </div>
+
+            <div class="col-lg-8" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                data-aos-once="true">
+                <div class="main-title" id="bullet-title">
+                    <h2>{{ include.title }}</h2>
+                    <p>{{ include.hedding }}</p>
+                </div>
+
+                <div class="three-paras">
+                    <p class="mb-4">
+                        {{ include.paragraph_one }}
+                    </p>
+                    <p class="mb-4">
+                        {{ include.paragraph_two }}
+                    </p>
+                    <p class="mb-4">
+                        {{ include.paragraph_three }}
+                    </p>
+                </div>
+                {% include components/two_line_list.html %}
+                <p class="mb-4">
+                    {{ include.paragraph_four }}
+                </p>
+            </div>
+
+            {% when "two_paragraph" %}
+            <div class="col-lg-4 intro-image-div" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                data-aos-once="true">
+                <img src="{{ include.image | relative_url }}" width="418" height="339" class="intro_image"
+                    alt="intro_image">
+            </div>
+
+            <div class="col-lg-8 pb-5" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                data-aos-once="true">
+                <div class="main-title" id="bullet-title">
+                    <h2 id="underline">{{ include.title }}</h2>
+                    <p>{{ include.hedding }}</p>
+                </div>
+
+                <div class="three-paras">
+                    <p class="mb-4">
+                        {{ include.paragraph_one }}
+                    </p>
+                    <p class="mb-4">
+                        {{ include.paragraph_two }}
+                    </p>
+                    <p class="">
+                        {{ include.paragraph_three }}
+                    </p>
+                    <p class="">
+                        {{ include.paragraph_three_sub }}
+                    </p>
+                </div>
+                {% include components/one_line_list.html %}
+                <div class="three-paras">
+                    <p class="">
+                        {{ include.paragraph_four }}
+                    </p>
+                    {% include components/sub_one_line_list.html %}
+                    <p class="" style="">
+                        {{ include.paragraph_five }}
+                    </p>
+                    <p class="">
+                        {{ include.paragraph_six }}
+                    </p>
+                    <p class="">
+                        {{ include.paragraph_seven }}
+                    </p>
+                </div>
+            </div>
+
+            {% when "no_paragraph" %}
+            <div class="col-lg-4 intro-image-div" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                data-aos-once="true">
+                <img src="{{ include.image | relative_url }}" width="418" height="339" class="intro_image"
+                    alt="intro_image">
+            </div>
+
+            <div class="col-lg-8 pb-5" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                data-aos-once="true">
+                <div class="main-title" id="bullet-title">
+                    <h2>{{ include.title }}
+
+                    </h2>
+                    <p>{{ include.hedding }}</p>
+                </div>
+                <span class='bullet_ltr'> {% include components/one_line_list.html %}</span>
+            </div>
+            {% when "call_to_action_contact" %}
+            <div class="col-lg-5 intro-image-div mb-20" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                data-aos-once="true">
+                <img src="{{ include.image | relative_url }}" width="490" height="490" class="intro_image"
+                    alt="intro_image">
+            </div>
+
+            <div class="col-lg-7 pb-5 mb-20 d-flex align-items-cnter" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out"
+                data-aos-once="true">
+                <div class="three-paras">
+                    <p class="mb-4">
+                        {{ include.paragraph_one }}
+                    </p>
+                    <p class="mb-4">
+                        {{ include.paragraph_two }}
+                    </p>
+                    <p class="">
+                        {{ include.paragraph_three }}
+                    </p>
+                    <p class="">
+                        {{ include.paragraph_three_sub }}
+                    </p>
+                    <div>
+                        <a href="#contact-section" class="slider-btn">{{ include.button }}</a>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="col-lg-12 " data-aos-delay="200" data-aos-easing="ease-in-out"
+            data-aos-once="true">
+                <div class="three-paras">
+                    <div class="mb-10">
+                            <h2  style="color: #2B386D; font-size: 25px; font-weight: bolder;">{{ include.heading_one }}</h2>
+                        <p class="mb-4">
+                            {{ include.heading_one_paragraph }}
+                        </p>
+                    </div>
+                    <div class="mb-10">
+                            <h2  style="color: #2B386D; font-size: 25px; font-weight: bolder;">{{ include.heading_two }}</h2>
+                        <p class="mb-4">
+                            {{ include.heading_two_paragraph_one }}
+                        </p>
+                        <p class="mb-4">
+                            {{ include.heading_two_paragraph_two }}
+                        </p>
+                    </div>
+                    <div class="mb-10">
+                        <h2  style="color: #2B386D; font-size: 25px; font-weight: bolder;">{{ include.heading_three }}</h2>
+                        <ul class="ml-5" style="list-style: disc;">
+                                <li class="mb-2" style="color: #535B6E;">{{ include.heading_three_list_item_one }}</li>
+                                <li class="mb-2" style="color: #535B6E;">{{ include.heading_three_list_item_two }}</li>
+                                <li class="mb-2" style="color: #535B6E;">{{ include.heading_three_list_item_three }}</li>
+                                <li class="mb-2" style="color: #535B6E;">{{ include.heading_three_list_item_four }}</li>
+                                <li class="mb-2" style="color: #535B6E;">{{ include.heading_three_list_item_five }}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            {% when "expanded" %}
+            <div class="col-lg-5 intro-image-div">
+                <img src="{{ include.image | relative_url }}" width="418" height="339" class="intro_image"
+                    alt="intro_image">
+            </div>
+
+            <div class="col-lg-7">
+                <div class="main-title">
+                    <h2>{{ include.title }}</h2>
+                    <p>{{ include.hedding }}</p>
+                </div>
+                {% include components/expanded_component.html %}
+            </div>
+
+            {% endcase %}
+
+        </div>
+    </div>
+
+    {% elsif page.faq_quections == true %}
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-12">
+                {% include components/expanded_component.html %}
+            </div>
+        </div>
+    </div>
+    {%else%}
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 mb-20">
+                <div class="intro-section-title">
+                    <h2>{{ include.title }}​</h2>
+                    <p>{{ include.hedding }}</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="three-paras">
+            <p class="mb-4">
+                {{ include.paragraph_one }}</p>
+            <p class="mb-4">
+                {{ include.paragraph_two }}
+            </p>
+            <p class="mb-4">
+                {{ include.paragraph_three }}
+            </p>
+        </div>
+        {% include components/two_line_list.html %}
+    </div>
+    {%endif%}
+
+    {% if include.status %}
+    {% case include.status %}
+    {% when "double-circle" %}
+    {% include components/background_circle.html %}
+    {% when "one-circle" %}
+    {% include components/one_circle_background.html %}
+    {% when "one-circle_faq_main" %}
+    {% include components/one_circle_background_faq_main.html %}
+    {% endcase %}
+    {% endif %}
+
+</section>
+
+<script>
+    var oddElements = document.getElementsByClassName('odd');
+    for (var i = 0; i < oddElements.length; i++) {
+        oddElements[i].style.direction = "ltr";
+    }
+
+    var evenElements = document.getElementsByClassName('even');
+    for (var j = 0; j < evenElements.length; j++) {
+        evenElements[j].style.direction = "rtl";
+    }
+</script>

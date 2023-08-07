@@ -1,0 +1,16 @@
+<section style="background-color: rgb(231,237,248);">
+    <div class="profile-section">
+        {% for profile_description in site.data.profile_description %}
+        <div class="Profile-description">
+                  <h2>{{ profile_description.title }}</h2>
+                  <p>{{ profile_description.content }}</p>
+                  <div>
+                      {%if profile_description.button%}
+                      <a href="{{ site.baseurl }}/contact" class="slider-btn">{{ profile_description.button }}</a>
+                      {%endif%}
+                  </div>
+              <br>
+              </div>
+        {% endfor %}
+    </div>
+</section>

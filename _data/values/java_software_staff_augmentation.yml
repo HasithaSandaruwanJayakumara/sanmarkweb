@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise
+  description: Experienced specialists with years of industry knowledge make up our team of Java software developers. They can assist you in overcoming even the most difficult development issues because they have a thorough understanding of the most recent Java technologies.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Quality
+  description: The highest standards of quality delivery are our first priority at Sanmark Solutions in whatever we do. Our programmers are committed to writing high-quality, scalable, and maintainable code.
+  image: assets/img/values/img80.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cost-effective
+  description: By working with Sanmark Solutions, you may spend less on hiring, educating, and integrating new developers and only pay for the time and services you really use.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img50.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Scalability
+  description: Without the trouble of hiring and training additional staff members, you can swiftly scale up or down your team as your business needs change with the help of our Java Software Staff Augmentation services.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Faster Time-to-Market
+  description: You may quicken the development process and get your products to market faster by working with our team of skilled Java software developers.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Access to the Latest Technologies
+  description: Our developers are knowledgeable about the most recent Java technologies and frameworks, and you can benefit from the most advanced solutions for your company.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Lower Risk
+  description: By working with Sanmark Solutions, you may lower the risks of recruiting new developers, such as high turnover rates, low productivity, and cultural mismatches.
+  image: assets/img/values/img78.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Focus on Core Business
+  description: By adding developers from Sanmark Solutions to your software team, you can put more of your attention toward core company operations like sales, marketing, and customer service.
+  image: assets/img/values/img82.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: More Flexibility
+  description: With the help of our Java Software Staff Augmentation services, you may employ developers for one-time or ongoing projects and change the composition of your team as necessary.
+  image: assets/img/values/img48.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Communication
+  description: From our perspective, good and effective communication is a crucial and essential part of every project's success. Because of this, we collaborate closely with our clients to ensure that everyone is working together throughout the development process.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

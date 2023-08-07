@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Bootstrap
+  description: Our developers are highly experienced in using Bootstrap to create responsive and mobile-friendly websites optimised for all devices and browsers.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Core Values
+  description: The heart of our collaborations lie in transparency, shared values and a focus on your success.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customised Solutions
+  description: We offer customised solutions tailored to your business's specific needs, ensuring that your website reflects your brand and meets your business objectives.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img10.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Current Technology
+  description: We stay up-to-date with the latest Bootstrap version, so your website is built with the most advanced technology.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Local Knowledge
+  description: We deeply understand Melbourne and Sydney's business environment, allowing us to provide solutions tailored to the local market.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Cost-Effective
+  description: Bootstrap web development can save time and resources, eliminating the need to code responsive design elements from scratch and making it a cost-effective solution for your business.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Scalability
+  description: Bootstrap is built to be scalable and integrated with other web technologies such as Angular, React and Vue.js, making it a versatile tool for web development that can grow with your business.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: SEO-Friendly
+  description: Bootstrap's lightweight and fast-loading code helps improve a website's SEO, making it more likely to be found by search engines.
+  image: assets/img/values/img47.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Support
+  description: Our team provides dedicated support throughout the development process and after the launch to ensure your website runs smoothly.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Long-Term Commitment
+  description: We are a company that is growing and developing every day, and we are in it for the long run!
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

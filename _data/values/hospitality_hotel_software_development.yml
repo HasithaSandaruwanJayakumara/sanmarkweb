@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Streamline Operations
+  description: Our tailored software solutions enable you to streamline various aspects of your operations, from reservations management and check-ins to housekeeping and billing. Experience enhanced efficiency and productivity throughout your hotel.
+  image: assets/img/values/img127.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Personalised Guest Experiences
+  description: Leverage our software to create unforgettable guest experiences. Utilise guest profiles, preferences, and history to deliver personalised services, anticipate needs, and exceed expectations, fostering loyalty and positive reviews.
+  image: assets/img/values/img91.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Maximise Revenue
+  description: Optimise revenue streams with our revenue management tools. Utilise data-driven insights to set competitive pricing, manage inventory effectively and identify revenue opportunities to maximise profitability.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img128.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Efficient Property Management
+  description: Our comprehensive property management systems (PMS) provide a centralised platform to manage reservations, room inventory, guest communications, and reporting. Gain real-time visibility and control over your property's operations.
+  image: assets/img/values/img125.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Enhanced Guest Communication
+  description: Communicate seamlessly with your guests throughout their journey. Our software solutions offer integrated communication channels, including messaging, email, and mobile notifications, ensuring prompt and personalised interactions.
+  image: assets/img/values/img72.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Seamless Integration
+  description: We understand the importance of integration with other systems. Our software solutions seamlessly integrate with third-party tools such as revenue management, CRM, and channel managers, creating a unified and efficient ecosystem.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Robust Security Measures
+  description: Trust in our robust security measures to protect your sensitive guest data. We prioritise data security, and  compliance with industry standards, and implement encryption protocols to ensure data confidentiality.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Scalable Solutions
+  description: Our software solutions are scalable, adapting to your business's growth and evolving needs. As your hotel expands, add new features and functionalities seamlessly, allowing for continuous improvement and flexibility.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 7px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Training and Support
+  description: We go beyond software implementation by offering comprehensive training and ongoing support. Our team ensures your staff is proficient in utilising the software, and we provide timely assistance whenever you need it.
+  image: assets/img/values/img16.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Customisation for Your Unique Needs
+  description: We understand that every hotel is unique. Our software solutions are highly customisable to cater to your specific requirements, allowing you to configure features, workflows, and interfaces that align with your business objectives.
+  image: assets/img/values/img7.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 7px
+  aos_animation: fade-left

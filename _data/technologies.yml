@@ -1,0 +1,80 @@
+- image: "assets/img/technologies/LARAVEL.webp"
+  name: "LARAVEL"
+  
+- image: "assets/img/technologies/DBEVER.webp"
+  name: "DBEVER"
+
+- image: "assets/img/technologies/NPM.webp"
+  name: "NPM"
+
+- image: "/assets/img/technologies/COMPOSER.webp"
+  name: "COMPOSER"
+
+- image: "/assets/img/technologies/SSH.webp"
+  name: "SSH"
+
+- image: "/assets/img/technologies/DIGITALOCEAN.webp"
+  name: "DIGITALOCEAN"
+
+- image: "/assets/img/technologies/REDMINE.webp"
+  name: "REDMINE"
+
+- image: "/assets/img/technologies/SLACK.webp"
+  name: "SLACK"
+  
+- image: "/assets/img/technologies/GIT-LAB.webp"
+  name: "GIT LAB"
+
+- image: "/assets/img/technologies/GIT.webp"
+  name: "GIT"
+
+- image: "/assets/img/technologies/WORDPRESS.webp"
+  name: "WORDPRESS"
+
+- image: "/assets/img/technologies/PHANTOM-JS.webp"
+  name: "PHANTOM JS"
+
+- image: "/assets/img/technologies/IONIC.webp"
+  name: "iCONIC"
+
+- image: "/assets/img/technologies/NODE-JS.webp"
+  name: "NODE JS"
+
+- image: "/assets/img/technologies/LIVEWIRE.webp"
+  name: "LIVEWIRE"
+
+- image: "/assets/img/technologies/BOOTSTRAP.webp"
+  name: "BOOTSTRAP"
+
+- image: "/assets/img/technologies/TAILWIND.webp"
+  name: "TAILWIND"
+
+- image: "/assets/img/technologies/SASS.webp"
+  name: "SASS"
+
+- image: "/assets/img/technologies/CSS3.webp"
+  name: "CSS3"
+
+- image: "/assets/img/technologies/HTML5.webp"
+  name: "HTML5"
+
+- image: "/assets/img/technologies/TYPESCRIPT.webp"
+  name: "TYPESCRIPT"
+
+- image: "/assets/img/technologies/JAVASCRIPT.webp"
+  name: "JAVASCRIPT"
+
+- image: "/assets/img/technologies/FIREBASE.webp"
+  name: "FIREBASE"
+
+- image: "/assets/img/technologies/MONGODB.webp"
+  name: "MONGODB"
+
+- image: "/assets/img/technologies/MYSQL.webp"
+  name: "MYSQL"
+
+- image: "/assets/img/technologies/PHP.webp"
+  name: "PHP"
+
+- image: "/assets/img/technologies/ANGULAR.webp"
+  name: "ANGULAR"

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Customisable Solutions
+  description: We believe that one size doesn't fit all when it comes to scheduling software. Devotedly, our crew aims to provide tailor-made scheduling solutions that impeccably fit the specific necessities and aims of all businesses we associate with.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Years of Experience
+  description: With our solid track record in software development, we bring years of experience to the table. Our experienced team has faced diverse challenges and created numerous successful solutions, ensuring quality and reliability.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Innovation-Driven
+  description: At Sanmark Solutions, we are dedicated to continuous innovation. We strive to stay ahead of the curve, integrating the best features of popular software while creating unique, innovative solutions of our own.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img129.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Advanced Features
+  description: We pride ourselves on offering software solutions with sophisticated capabilities while maintaining an emphasis on ease of use.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalable Solutions
+  description: As your company expands, our software can be adapted to meet new demands and complexities, ensuring you're always well-equipped for success.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: High-Quality Products
+  description: Above all things, quality is our top priority. We make sure our scheduling software satisfies the highest requirements of quality, dependability, and security from the initial concept to the finished product.
+  image: assets/img/values/img80.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Excellent Customer Support
+  description: Our utmost concern at this organisation is ensuring that our customers are satisfied with their experience. We have a superb customer support team that provides assistance during the implementation process and beyond.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Cost-Effective Solutions
+  description: We provide affordable scheduling software options without sacrificing functionality or quality. We are committed to providing cost-effective solutions that improve your company.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 7px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proven Track Record
+  description: Our success is reflected in the success of our clients. With a proven track record of satisfied customers, you can trust Sanmark Solutions to deliver superior scheduling software solutions that will transform your business operations.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Security Focus
+  description: We prioritise the security of your data. We incorporate the latest security measures into our scheduling software to ensure your business and customer data remains safe and secure, giving you peace of mind.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 7px
+  aos_animation: fade-left

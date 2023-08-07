@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Scrum Framework
+  description: Our team of qualified project managers and scrum masters brings years of expertise and knowledge to the Scrum methodology, guaranteeing that your project stays on track and achieves the intended results.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Adaptive Methodologies
+  description: We stay up-to-date with the latest Scrum and Agile methodologies, continuously adapting our strategies and techniques to deliver the most effective project management solutions for your business.
+  image: assets/img/values/img113.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proven Track Record
+  description: Sanmark Solutions has a proven track record of successful Scrum Project Management implementations across diverse industries, showcasing our ability to handle a wide range of unique challenges.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img87.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Tailored Approach
+  description: We work closely with your team to understand your specific needs and goals, crafting customised Scrum Project Management solutions that align with your business objectives.
+  image: assets/img/values/img82.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Seamless Tool Integration
+  description: Our proficiency in using popular project management tools like Jira Scrum Boards and Trello Scrum ensures seamless integration with your existing systems, enhancing your team's productivity and collaboration.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Transparent Communication
+  description: We place a high priority on open and honest communication, encouraging a successful and enthusiastic team environment that propels project success and guarantees that all stakeholders are informed.
+  image: assets/img/values/img72.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Dedicated Customer Service
+  description: We take great satisfaction in providing outstanding customer support and collaborating closely with your team to address any issues and offer direction throughout the project lifecycle.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Scalable Solutions
+  description: Our Scrum Project Management services are designed to scale with your business, ensuring that we can accommodate your evolving needs and support your growth.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Commitment to Success
+  description: At Sanmark Solutions, we are dedicated to empowering your business to achieve Agile success by providing comprehensive Scrum Project Management services that drive efficiency, innovation, and results.
+  image: assets/img/values/img35.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Competitive Pricing
+  description: Sanmark Solutions offers high-quality Scrum Project Management services at competitive prices, ensuring that your business receives exceptional value while maximising return on investment.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

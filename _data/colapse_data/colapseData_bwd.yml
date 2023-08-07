@@ -1,0 +1,18 @@
+- title: "What is Bootstrap, and how is it used in web development?"
+  description: "Bootstrap is a popular open-source framework used to create responsive and mobile-friendly websites. It is built with HTML, CSS, and JavaScript, making it a versatile tool for web development. The framework includes pre-designed components such as forms, buttons, and navigation menus that can be easily customised to fit the project's needs. Bootstrap is widely used for WordPress theme development, allowing for the fast and efficient creation of mobile-friendly themes."
+  id: "list-item-1"
+- title: "Is Bootstrap only for building small websites, or can it be used for large projects too?"
+  description: "Bootstrap is built to be scalable and integrated with other web technologies such as Angular, React and Vue.js, making it a versatile tool for web development that can grow with your business. It can be used for small or large projects."
+  id: "list-item-2"
+- title: "Can I customise the design of my website using Bootstrap?"
+  description: "Yes, Bootstrap includes pre-designed components such as forms, buttons, and navigation menus that can be easily customised to fit the project's needs. Additionally, Bootstrap's CSS classes and JavaScript plugins can be modified to achieve a unique look and feel for your website."
+  id: "list-item-3"
+- title: "Can Sanmark Solutions help me with customising my existing website using Bootstrap?"
+  description: "Yes, Our team of experienced developers can help customise your existing website using Bootstrap to make it responsive, mobile-friendly and improve user experience."
+  id: "list-item-4"
+- title: "Does Sanmark Solutions provide post-launch support for websites developed using Bootstrap?"
+  description: "Yes, Sanmark Solutions provides dedicated support throughout the development process and after the launch to ensure your website runs smoothly."
+  id: "list-item-5"
+
+
+

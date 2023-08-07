@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: A Team of Expert Angular Developers
+  description: With Sanmark Solutions, you can trust that your project is in the hands of a team of expert Angular developers who have a proven track record of delivering successful projects. We have the skills and experience to help you succeed, no matter the size or complexity of your project.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Ongoing Support and Maintenance
+  description: We understand that your business doesn't stop evolving when your web application is launched. That's why we provide ongoing support and maintenance to ensure that your application remains up-to-date and performs well over time. We'll be there to help you resolve any issues and make updates as needed.
+  image: assets/img/values/img18.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Tailored Solutions
+  description: We understand that every business is unique, which is why we take a tailored approach to Angular frontend development. We work closely with you to understand your specific business needs and goals and deliver solutions that meet your requirements.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Fast and Reliable Results
+  description: At Sanmark Solutions, we're committed to delivering fast and reliable results. We understand that time is of the essence and we'll work efficiently to deliver your project on time and on budget.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Transparent And Collaborative Approach
+  description: We believe that open communication and collaboration are key to delivering the best possible results. We'll keep you informed every step of the way and encourage your input and feedback throughout the development process.
+  image: assets/img/values/img24.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Flexible Engagement Models
+  description: We understand that different projects have different needs, which is why we offer flexible engagement models. Whether you are looking for a full-time, dedicated team, or a project-based approach, we have the flexibility to accommodate your requirements. This allows you to find the right fit for your project, budget, and timeline.
+  image: assets/img/values/img19.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Latest Technology Stack
+  description: We are always up-to-date with the latest trends and technologies in Angular development. We are knowledgeable and experienced in the use of latest Angular version, other related technologies and libraries like TypeScript, RxJS, and Bootstrap, which ensures that your application is built on a stable and maintainable codebase and take advantage of the latest features and performance improvements.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Quality Assurance
+  description: Quality is at the forefront of everything we do at Sanmark Solutions. We have a dedicated Quality Assurance team that guarantees that your application is thoroughly tested and that any issues are identified and resolved before the final release. Additionally, our development team adopts industry-standard software development methodologies such as Agile, which ensures that the deliverables are of high quality and meet the requirement.
+  image: assets/img/values/img1.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data Security and Privacy
+  description: Your data security and privacy is of paramount importance to us. We understand that client data is sensitive and we take all necessary measures to protect it. From using robust encryption techniques to regular security audits, we make sure that your data is safe and secure at all times.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective Solutions
+  description:  At Sanmark Solutions, we understand that cost is a key consideration when it comes to development projects. That's why we offer cost-effective solutions that provide value for money. We use an agile development approach and employ techniques such as code reuse and automation to minimize costs and deliver the best results for your budget.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

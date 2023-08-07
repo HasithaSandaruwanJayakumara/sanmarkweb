@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experienced and Expert PHP Developers
+  description: Our developers' expertise lies in working with the most current PHP frameworks and associated technologies. This allows us to deliver exceptional quality services that align perfectly with your specifications.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Flexible and Customisable Service
+  description: Our PHP staff augmentation service is versatile and adaptable to satisfy the individual requirements of our customers. We collaborate closely with our clients to comprehend their needs.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cost-Effective Solution
+  description: Our PHP staff augmentation service is a cost-effective solution for companies that need to expand their development team without incurring the high costs associated with hiring additional employees.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img50.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Security Best Practices
+  description: Our team of expert developers follows industry best practices for secure coding and data protection. Your project will remain securely fortified and your valuable data will receive the utmost protection throughout its journey.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalable Development Team
+  description: You have the freedom to scale your development team up or down as necessary, depending on the needs and timeframes of your projects, with our PHP staff augmentation service.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Fast Turnaround Times
+  description: We can swiftly allocate a team of proficient developers who are poised to commence work on your project immediately. This valuable service offers you the opportunity to shorten development time and expedite the launch of your product in the market.
+  image: assets/img/values/img41.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Increased Productivity
+  description: Our PHP staff augmentation service can help you to increase productivity by providing you with a team of developers who have the expertise and experience needed to deliver high-quality code efficiently.
+  image: assets/img/values/img90.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Reduced Risk
+  description: Our PHP staff augmentation service can help to reduce your project risk by providing you with a team of developers who have a proven track record of delivering high-quality code and meeting project deadlines.
+  image: assets/img/values/img78.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Access to a Wider Talent Pool
+  description: By choosing Sanmark Solutions for PHP staff augmentation, you can access a wider talent pool of experienced PHP developers who have the expertise needed to deliver high-quality solutions.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Increased Agility
+  description: By providing you with a group of developers who can quickly adapt to shifting business requirements and market situations, our PHP staff augmentation service can help you boost your agility.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

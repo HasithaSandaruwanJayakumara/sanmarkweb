@@ -1,0 +1,19 @@
+- title: "What is serverless development?"
+  description: "Serverless development is a cloud-native model allowing developers to build and run applications without managing servers. The infrastructure is provided by a cloud provider and is fully managed, so developers can focus on writing code and building features."
+  id: "list-item-1"
+- title: "How does serverless development differ from traditional server-based development?"
+  description: "In traditional server-based development, developers must provision, scale, and manage servers to run their applications. With serverless development, developers don't have to worry about managing servers and can focus on building and deploying their applications. Additionally, serverless development is typically more cost-effective and can be more scalable."
+  id: "list-item-2"
+- title: "What are the most popular use cases for serverless development?"
+  description: "Some of the most popular use cases for serverless development include web and mobile app development, real-time processing, data processing, and IoT applications."
+  id: "list-item-3"
+- title: "Is serverless development suitable for all types of applications?"
+  description: "Serverless development is suitable for many applications but may not be the best fit for all types of workloads. It's generally best suited for stateless, event-driven workloads that can be broken down into small, independent work units."
+  id: "list-item-4"
+- title: "Why should I choose Sanmark Solutions for my serverless development needs in Melbourne and Sydney?"
+  description: "Sanmark Solutions offers expert serverless development services and a dedicated team with experience in various industries. We provide tailored solutions, ongoing support, and a commitment to delivering high-quality results."
+  id: "list-item-5"
+
+
+
+

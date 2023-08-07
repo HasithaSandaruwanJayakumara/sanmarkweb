@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Expertise
+  description: Our developers have extensive experience working with Flutter and deeply understand its capabilities and limitations. They have the skills and knowledge to build apps that deliver the best possible results for your business.
+  image: assets/img/values/project_management_values/experience.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: We work closely with our clients to understand their specific needs and goals and develop customised solutions tailored to their unique requirements. We believe no two businesses are the same, and we strive to provide personalised service that meets your needs.
+  image: assets/img/values/img18.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Fast Turnaround Times
+  description: We understand the importance of time in the business world and work efficiently to deliver high-quality Flutter apps promptly. We use agile development methodologies to ensure we meet deadlines and exceed our client's expectations.
+  image: assets/img/values/img17.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Exceptional Customer Service
+  description: At Sanmark Solutions, we believe in building long-term relationships with our clients and are committed to providing excellent customer service at every stage of the app development process. Our developers are responsive, reliable, and easy to work with, and we are always available to answer questions or address concerns.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Competitive Pricing
+  description: We offer competitive pricing for our Flutter app development services, and we are transparent about our costs so that our clients know exactly what they are paying for. We believe you should get the best value for your money, and we work hard to deliver high-quality apps at a fair and reasonable price.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Scalability
+  description: Our Flutter apps are designed to be scalable, which means they can quickly adapt and grow as your business expands and evolves. This helps you avoid the need for costly and time-consuming redevelopment in the future.
+  image: assets/img/values/img19.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Security
+  description: We prioritise security in all Flutter app development projects. We use industry-standard practices and technologies to ensure that your app is secure and protected against threats.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 17px 17px 17px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Maintenance and Support
+  description: We offer ongoing maintenance and support services to ensure that your Flutter app stays up-to-date and performs at its best. Our developers are available to address any issues or bugs that may arise and to provide ongoing support and guidance.
+  image: assets/img/values/img13.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Future Updates and Enhancements
+  description: We understand that the needs of your business may change over time, and we are always available to help you make updates and enhancements to your Flutter app as needed. We are committed to supporting our clients long-term and work with you to ensure that your app stays relevant and effective for your business.
+  image: assets/img/values/img14.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Bespoke Solutions
+  description: Every business is different, and we understand that your Flutter app needs to be tailored to meet your company's specific needs and goals. We work closely with you to understand your business, your target audience, and your goals, and we develop customised Flutter app solutions tailored to your unique needs.
+  image: assets/img/values/img21.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

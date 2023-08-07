@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "purgecss": "^5.0.0"
+  },
+  "scripts": {
+    "build": "purgecss --css assets/css/*.css --content _site/**/*.html --output _site/assets/css/"
+  }
+}

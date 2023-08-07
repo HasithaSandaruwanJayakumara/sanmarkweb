@@ -1,0 +1,88 @@
+<section class="blog-area pt-100 pb-70">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12 text-center pb-40">
+        <style>
+          .news-title h3 {
+            color: #000;
+            font-size: 36px !important;
+            font-weight: bolder;
+            font-family: "Open Sans", sans-serif;
+          }
+
+          .news-title h2 {
+            font-size: 20px !important;
+            font-weight: 600 !important;
+            color: #104cba !important;
+          }
+
+          .news-title h2::before {
+            background: #114cba !important;
+          }
+        </style>
+        <div class="section-title service-title news-title">
+          <h2>{{ page.blog.title }}</h2>
+          <h3>{{ page.blog.text }}</h3>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      {% for blog in site.posts limit:"3" %}
+      <div class="col-xl-4 col-lg-4 col-md-6 mb-30">
+        <div
+          class="blog-wrapper home-blog-wrapper white-bg"
+          style="height: 500px; max-height: max-content"
+        >
+          <div class="blog-thumb overflow-hidden">
+            <img
+              src="{{ blog.post_image | relative_url }}"
+              width="{{ blog.width }}"
+              height="{{ blog.height }}"
+              alt="{{blog.title}}"
+              style="height: 210px; object-fit: cover"
+            />
+          </div>
+          <div class="m-3">
+            <h4 class="link-box">
+              <a href="{{ blog.permalink | relative_url }}"> {{blog.title}} </a>
+            </h4>
+            <div
+              class="d-flex align-items-center justify-content-between icon-area"
+            >
+              <style>
+                .icon-area .lnr {
+                  color: #2e59c7 !important;
+                  font-weight: bolder;
+                  font-size: 15px;
+                }
+              </style>
+              <div class="d-flex align-items-center">
+                <span class="lnr lnr-calendar-full pr-3"></span>
+                {{ blog.date | date_to_long_string }}
+              </div>
+              <div class="d-flex align-items-center">
+                <span class="lnr lnr-user pr-3"></span>
+                {{ blog.author }}
+              </div>
+            </div>
+            <p class="mt-10 mb-10">{{ blog.paragraph }}</p>
+          </div>
+
+          <div class="link-box home-blog-link m-3">
+            <a href="{{ blog.permalink | relative_url }}">{{ blog.button }}</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row">
+      <div class="col-12 button-col">
+        <a href="{{ site.baseurl }}/blog/"
+          ><button class="button-about grow_skew_forward d-block" id="btn1">
+            {{ page.blog.button }}
+          </button></a
+        >
+      </div>
+    </div>
+  </div>
+</section>

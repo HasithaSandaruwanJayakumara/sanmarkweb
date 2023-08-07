@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Local Markets
+  description: We leverage this expertise to deliver POS software solutions that are tailored to the specific requirements of your target market.
+  image: assets/img/values/img96.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions for Your Business
+  description: Our POS software development process is highly customisable, ensuring that the solution we deliver perfectly aligns with your business goals, enhances your operations, and meets the specific needs of your Melbourne or Sydney-based business.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Industry-Leading Development Practices
+  description: At Sanmark Solutions, we follow industry best practices in our development process. From initial design to implementation and deployment, we adhere to rigorous standards to ensure that our POS software solutions are of the highest quality, reliable, and robust.
+  image: assets/img/values/img97.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Seamless Integration
+  description: Our POS software seamlessly integrates with various hardware devices, payment gateways, and third-party applications commonly used in Melbourne and Sydney.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalability For Business Growth
+  description: We design our POS software solutions with scalability in mind. our software can easily accommodate your growing needs, ensuring that your system can scale up seamlessly without compromising performance.
+  image: assets/img/values/img48.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Dedicated Support and Maintenance
+  description: Our dedicated support team is readily available to address any issues, answer your questions, and provide prompt assistance to ensure that your POS software runs smoothly and efficiently.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Data Security and Compliance
+  description: We prioritise the security of your business and customer data. Our POS software incorporates advanced security measures.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Track Record
+  description: Sanmark Solutions has a proven track record of successfully delivering POS software solutions to businesses in Melbourne and Sydney.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Continuous Innovation
+  description: Our team constantly explores new technologies and updates our solutions to incorporate the latest features and functionalities, ensuring that you have access to cutting-edge POS software.
+  image: assets/img/values/img98.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Client-Centric Approach
+  description: At Sanmark Solutions, we prioritise our clients and their satisfaction. We take the time to comprehend the particular needs, objectives, and difficulties of your organisation.
+  image: assets/img/values/img99.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left

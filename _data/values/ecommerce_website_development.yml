@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experienced Professionals
+  description: Our team of skilled developers and designers have extensive experience in developing custom ecommerce websites across various industries. Equipped with the latest technologies and trends, we deliver visually appealing and highly functional online stores that keep you ahead of the competition.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Scalable Solutions
+  description: We recognise that businesses grow and evolve over time. Our scalable E-commerce solutions are designed to adapt and expand as your customer base and product offerings increase, ensuring consistent performance and an optimal user experience.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Seamless Integration
+  description: Our E-commerce platforms are built to integrate smoothly with essential business tools such as inventory management, payment gateways, and shipping providers. This seamless integration simplifies your operations and guarantees a hassle-free shopping experience for your customers.
+  image: assets/img/values/img70.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Responsive Design
+  description: E-commerce has rapidly transformed into a mobile-driven world, which is why making certain that your online store is accessible across various devices is crucial. We at Sanmark Solutions guarantee the adaptability of your E-commerce website on different platforms namely smartphones, tablets, or desktops, creating an unparalleled browsing and purchasing experience for each user.
+  image: assets/img/values/img84.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Personalisation and Customisation
+  description: We believe that every business is unique, and your E-commerce website should reflect that. Our tailored solutions incorporate personalised content, custom features, and product recommendations to engage and retain customers, creating a truly distinctive online shopping experience.
+  image: assets/img/values/img45.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Data Security and Compliance
+  description: We understand the importance of protecting sensitive customer information and adhere to strict Australian privacy and data security regulations. Our E-commerce websites are built with robust security measures to safeguard customer data and maintain compliance with local regulations.
+  image: assets/img/values/img20.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: SEO and Performance Optimisation
+  description: Our E-commerce websites are designed with search engine optimisation (SEO) and performance in mind. We ensure your online store ranks well in search results, attracts more visitors, and loads quickly to provide an enjoyable and efficient shopping experience.
+  image: assets/img/values/img85.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Ongoing Support and Maintenance
+  description: Beyond the debut of your e-commerce website, we remain dedicated to your success. To keep your online store safe, current, and optimised for maximum performance and growth, we offer ongoing support, updates, and maintenance.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customer Satisfaction
+  description: Your satisfaction is our top focus. We work directly with you throughout the whole web design and development process to ensure the final product exceeds your expectations and helps your business succeed in the competitive online market.
+  image: assets/img/values/img74.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective Solutions
+  description: Businesses of any size can benefit from our reasonably priced solutions and customisable packages. With our commitment to supplying quality services, there's no need to sacrifice features or functionality when selecting a cost-effective option for your online store. Choosing one of our economical plans can enhance the value you receive while setting up a foundation for enduring success.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left

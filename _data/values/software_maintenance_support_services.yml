@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Reduced Downtime
+  description: We work hard to keep your business operations running smoothly by providing timely and dependable support services.
+  image: assets/img/values/img118.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Enhanced Productivity
+  description: We help you in enhancing productivity and efficiency by maintaining the functionality of your software programs.
+  image: assets/img/values/img101.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cost Savings
+  description: Our adaptable support and maintenance agreements are intended to help you in reducing expenses and remain within your budget.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img51.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Customised Solutions
+  description: We provide solutions that are specifically designed to address the requirements of your company, ensuring that you get the proper assistance and maintenance.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Expertise
+  description: We are able to offer complete support and maintenance services because of the broad understanding of a wide range of software programs and technologies that our team of knowledgeable specialists has.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Software that is Up to Date
+  description: Our routine updates and patches ensure that your software applications are always relevant and safe, shielding your company from security risks and weaknesses.
+  image: assets/img/values/img119.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Proactive Maintenance
+  description: Our proactive maintenance and monitoring services assist you in seeing possible issues and resolving them before they turn into significant concerns.
+  image: assets/img/values/img120.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: 24/7 Availability
+  description: To ensure that your business's operations can continue without interruption, our team is available 24/7 to provide rapid and dependable service.
+  image: assets/img/values/img121.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Competitive Advantage
+  description: We help you stay ahead of the competition and maintain flexibility in today's fast-paced marketplace by keeping your software applications updated and functional.
+  image: assets/img/values/img80.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Price Transparency
+  description: We provide price transparency and customisable contracts, allowing you to choose the amount of maintenance and support that best meets your requirements and budget.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

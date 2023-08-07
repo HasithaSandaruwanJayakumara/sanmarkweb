@@ -1,0 +1,44 @@
+- image: "/assets/img/happy_clients/unnamed-1.webp"
+  title: "ENGAGING.IO"
+  content: "Engaging Communications Pty Ltd, or “Engaging.io” is an IT solutions company based in Sydney, Australia. Sanmark has been providing dedicated software development services for Engaging.io since 2020 June. With Engaging.io, Sanmark utilizes numerous technologies to implement various technical solutions as required."
+
+- image: "/assets/img/happy_clients/unnamed-3.webp"
+  title: "DORIAN SOLUTIONS"
+  content: "Dorian Solutions is an IT services company in Crystal Lake, Illinois, USA. Sanmark has been working with Dorian Solutions since early 2016. Sanmark provides white label development services to Dorian Solutions for various projects that they undertake.
+            The primary tech stack used to serve Dorian Solutions is REST APIs implemented using Laravel PHP framework and front-ends for them implemented using Angular. Products are typically delivered using Docker infrastructure."
+
+- image: "/assets/img/happy_clients/Angele-Miller-150x150.webp"
+  title: "ANGELE MILLER"
+  content: "Ms. Angele Miller specializes in marketing various natural consumer products in Canada. She has been using the services of Sanmark since about 2011 to produce websites for various brands she markets. Here are some brand websites that the company made for her:<a href='https://premiumcanadanaturals.com'>https://premiumcanadanaturals.com</a>, <a href='https://slimsecrets.co'>https://slimsecrets.co</a>, <a href='https://incaglow.com'>https://incaglow.com</a>."
+  status: "img-width"
+
+- image: "/assets/img/happy_clients/unnamed-4.webp"
+  title: "ROYAL DAIRY LANKA PVT LTD"
+  content: "Royal Dairy Lanka PVT LTD is a popular dairy products manufacturer based in Ambalangoda in southern Sri Lanka. The amount of paperwork necessary to keep track of collecting milk from milk farmers, paying them, providing veterinary medication for cattle, production, storage, and distribution was too much; so they needed a computerized system to help manage their business.
+            Sanmark provided easy-to-use solutions to Royal Dairy Lanka PVT LTD’s requirements so that their staff can begin using the system almost immediately. All the previous paperwork is now done through PCs and smart devices so that the data can be entered without any delay. The provided data is saved in overseas servers through the Internet, and instantly available to generate crucial reports that are required to keep the company going."
+  status: "img-width"
+
+- image: "/assets/img/happy_clients/unnamed-5-150x150.webp"
+  title: "TIMOTHY CURCHOD"
+  content: "We developed a couple of projects using Node.js, Javascript, Typescript, and MongoDB for Timothy. Those applications operates in the art collection industry, and enables customers to import art details from static documents into a database driven software system and manage them."
+  status: "img-width"
+
+- image: "/assets/img/happy_clients/unnamed-6.webp"
+  title: "PEAK PODIATRY"
+  content: "Peak Podiatry is a podiatry clinic in Perth, Western Australia. Sanmark provides a full range of IT services to them ranging from an initial revamping of their website, to continue maintaining it and the associated blog, and sending out their monthly newsletters."
+
+- image: "/assets/img/happy_clients/unnamed-7.webp"
+  title: "LOGICAL INCREMENTS"
+  content: "Logical Increments <a href='https://www.logicalincrements.com'>(https://www.logicalincrements.com)</a> is an online service focused on helping people build better PCs for high demanding purposes like gaming. They are using Laravel and Angular for their system and wanted to hire dedicated developers from Sanmark to expand their team. Sanmark has been providing dedicated developer service for them since 2018."
+
+- image: "/assets/img/happy_clients/unnamed-8-300x74.webp"
+  title: "LOGICAL POSITION"
+  content: "Logical Position is a company providing expert search engine optimization and content preparation services for various businesses. They were introduced to Sanmark by Dorian Solutions (Mentioned above.). Sanmark created the internal system they used to manage their workflows."
+
+- image: "/assets/img/happy_clients/unnamed-9.webp"
+  title: "AI-MEDIA"
+  content: "Ai-Media is a company with branches around the world, that provides various services to media companies. Sanmark is providing Angular dedicated developer services to them for building their internal systems."
+
+- image: "/assets/img/happy_clients/unnamed-10.webp"
+  title: "MEDLINK SERVICES. INC."
+  content: "Medlink Services. Inc. is a financial services company specializing in providing services to medical professionals. Sanmark built a tool for them to allow their potential clients to analyze their financial status and decide whether to take Medlink Services. Inc.’s services."

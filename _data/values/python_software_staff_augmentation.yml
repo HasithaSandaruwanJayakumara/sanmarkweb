@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Top-Quality Talent
+  description: At Sanmark Solutions. We take great care in selecting our developers by implementing a thorough screening and hiring process.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective
+  description:  With our staff augmentation services, you can save time and money while still accessing the top talent in the industry.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Experience
+  description:  For a variety of industries, including real estate, hospitality, healthcare, education, and retail, our Python software developers have experience creating custom solutions.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Efficient Project Completion
+  description: Our developers can help your business complete your Python software projects more efficiently and effectively, ensuring timely delivery and quality results.
+  image: assets/img/values/img41.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Flexibility
+  description: Our staff augmentation services offer flexibility in terms of the number of developers needed, the project's duration, and the specific skill sets required.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels that allow you to stay in touch with your dedicated Python developers throughout the engagement.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Knowledge Transfer
+  description: Our developers can provide knowledge transfer to your existing team members, helping them to develop their Python software development skills and expertise.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Seamless Integration
+  description: Our developers can seamlessly integrate with your existing team, ensuring a smooth and efficient collaboration process.
+  image: assets/img/values/img69.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proven Track Record
+  description: Our clients range across various sizes and types of businesses, who have nothing but satisfaction with our work.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Competitive Advantage
+  description: By partnering with Sanmark Solutions for your Python software staff augmentation needs, you can gain a competitive advantage by leveraging the latest technologies and top talent in the industry.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left

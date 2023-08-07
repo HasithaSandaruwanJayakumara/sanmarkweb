@@ -1,0 +1,85 @@
+<div>
+<style>
+
+    .intro-button{
+        background: none;
+        color: #000000;
+        text-align: left;
+        border: none;
+        outline-style: none;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-weight: 500;
+    }
+
+    .intro-button:not(.collapsed){
+        color: #104cba !important;
+    }
+
+    .my-icon:not(.collapsed){
+        transform: rotate(-180deg);
+    }
+   
+    .my-faq{
+        border-bottom: 1px solid rgba(0,0,0,.125);
+        align-items: center;
+    }
+   
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    label {
+        display: block;
+        cursor: pointer;
+        color: #000000;
+    }
+
+    #ul-ul-li {
+        padding: 10px;
+        color: #6E716B;
+    }
+</style>
+    <ul id="accordion">
+        {% for details in include.link %}
+        <li>
+            <div class="d-flex justify-content-between my-faq">
+                <div style="width: 100%;">
+                    <h2 style="font-size: medium;">
+                        <button style="width: 100%;" type="button" class="intro-button collapsed" data-toggle="collapse" data-target="#{{details.id}}" aria-expanded="false" aria-controls="{{details.id}}">
+                            {{details.title}}
+                        </button>
+                    </h2>
+                </div>
+                
+                <div>
+                    <button type="button" class="intro-button collapsed my-icon" data-toggle="collapse" data-target="#{{details.id}}" aria-expanded="false" aria-controls="{{details.id}}">
+                        <i class="icofont-simple-down" style="font-size:20px"></i>
+                    </button>
+                </div>
+            </div>
+
+            {%if details.list == nil%}
+            <div>
+            <ul style=" list-style-type: none;" id="{{details.id}}" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                <li id="ul-ul-li" style="font-size: 16px; font-weight: 500;">{{details.description}}</li>
+                <li id="ul-ul-li" style=" list-style-type: none; font-size: 16px; font-weight: 500">{{details.description_two}}</li>
+            </ul>
+        </div>
+            {% else %}
+            <div>
+            <ul class="a" id="{{details.id}}" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                <li id="ul-ul-li" style=" list-style-type: none; font-size: 16px; font-weight: 500">{{details.description}}</li>
+                {% for details_list in details.list %}
+                <li id="ul-ul-li" style=" list-style-type: disc !important; list-style-position: inside !important; font-weight: 500">{{details_list.text}}</li>
+                {%endfor%}
+                <li id="ul-ul-li" style=" list-style-type: none; font-size: 16px; font-weight: 500">{{details.description_two}}</li>
+            </ul>
+        </div>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</div>

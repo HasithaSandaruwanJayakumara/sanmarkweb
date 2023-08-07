@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Industry Expertise
+  description: Sanmark Solutions combines technical prowess with deep industry knowledge to deliver software solutions that meet the specific needs of the real estate industry.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 14px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Custom Solutions
+  description: We understand that every real estate business is unique. That's why we provide tailored solutions that perfectly align with your business operations and goals.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Global Reach, Local Focus
+  description: We've successfully served clients in Melbourne, Sydney, and beyond, demonstrating our ability to understand and cater to different markets.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img130.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Comprehensive Suite of Tools
+  description: Our range of services includes everything from property and land development to financial management providing you with a complete package that meets all your needs.
+  image: assets/img/values/img131.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Secure and Reliable
+  description: Our real estate software solutions incorporate effective security features that guarantee the safety of your valuable business information and protect it against unauthorised intrusion.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Proven Track Record
+  description: We have a history of delivering successful software projects for real estate businesses, demonstrating our reliability and commitment to excellence.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Continuous Support
+  description: We offer exceptional after-sales service and technical support. Our team is always ready to assist, ensuring your software runs smoothly and efficiently.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Innovation-Driven
+  description: Sanmark Solutions is always coming up with new ideas and utilising the most recent trends and technologies to provide you with the most cutting-edge and efficient software solutions.
+  image: assets/img/values/img38.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data-Driven Decision Making
+  description: Our software solutions are equipped with advanced analytics and reporting features, enabling you to make informed and data-driven decisions.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Long-Term Partnership
+  description: With our clients, we aim to create long-lasting connections. When you choose Sanmark, you're not just getting a software provider, but a strategic partner committed to supporting your business growth.
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

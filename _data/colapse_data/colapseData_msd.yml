@@ -1,0 +1,19 @@
+- title: "What is Microservice Software Development?"
+  description: "Microservice Software Development is a method of building and organising software systems that allow for independent and parallel development of small, single-function modules. This approach allows for faster development, easier maintenance, and greater scalability."
+  id: "list-item-1"
+- title: "Does Microservice Software Development differ from traditional monolithic architecture?"
+  description: "Yes, In conventional monolithic architecture, a software system's functionality is built into a single, large codebase. With Microservice Software Development, the functionality is broken down into small, modular services that can be independently developed, deployed, and scaled."
+  id: "list-item-2"
+- title: "Does using Microservice Software Development increase the cost of development?"
+  description: "No. While some additional costs may be associated with setting up and maintaining the infrastructure required for Microservice Software Development, the benefits of faster development, easier maintenance, and greater scalability often outweigh the costs."
+  id: "list-item-3"
+- title: "Can Microservice Software Development be used for both new and existing applications?"
+  description: "Yes, you can use Microservice Software Development for both new and existing applications. Even if an existing application is not built on microservice architecture, it can be refactored and broken down into microservices."
+  id: "list-item-4"
+- title: "Does Sanmark Solutions offer support for legacy systems integration with microservices?"
+  description: "Yes, Sanmark Solutions has extensive experience integrating legacy systems with microservice, allowing businesses to gradually transition to a microservice architecture while utilising existing systems and infrastructure. We use the latest technologies and strategies to ensure seamless integration and minimal disruption to existing systems."
+  id: "list-item-5"
+
+
+
+

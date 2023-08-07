@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Stripe Integration
+  description: Sanmark Solutions has a team of experienced developers who are experts in integrating Stripe payment gateway solutions with various platforms.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: We understand that every business has unique requirements, and we offer customised Stripe integration solutions to meet those requirements.
+  image: assets/img/values/img34.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Fast and Secure Payment Processing
+  description: With our Stripe integration services, businesses can ensure fast and secure customer payment processing.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img4.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Hassle-free Integration
+  description: Our team ensures a smooth and hassle-free integration process, minimising downtime and potential errors during the setup.
+  image: assets/img/values/img64.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Competitive Pricing
+  description: We offer competitive pricing for our Stripe integration services, ensuring businesses can maximise their returns without breaking the bank.
+  image: assets/img/values/img65.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Timely Support
+  description: We provide timely and effective support to our clients, ensuring that any issues or concerns are addressed promptly.
+  image: assets/img/values/img66.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Focus on User Experience
+  description: Our Stripe integration solutions enhance the user experience, improve the overall checkout process, and reduce cart abandonment rates.
+  image: assets/img/values/img67.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Compatibility with Multiple Platforms
+  description: Our Stripe integration solutions are compatible with various platforms, including eCommerce websites, mobile apps, and custom software applications.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Seamless Integration with Existing Systems
+  description: Our developers ensure seamless integration with existing systems, avoiding disruptions to the existing business processes.
+  image: assets/img/values/img68.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Responsive Customer Support
+  description: We understand that you may have questions or concerns throughout the integration process or after implementation. That's why we provide responsive customer support to address your issues promptly and efficiently.
+  image: assets/img/values/img69.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

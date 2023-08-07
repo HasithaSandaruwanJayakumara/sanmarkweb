@@ -1,0 +1,21 @@
+- title: "ERP Solutions."
+  id: one
+  side: "left"
+- title: "Booking/Reservations Systems."
+  id: two
+  side: "right"
+- title: "HRM Solutions."
+  id: one
+  side: "left"
+- title: "CRM Solutions."
+  id: two
+  side: "right"
+- title: "BPM Solutions."
+  id: one
+  side: "left"
+- title: "Supply Chain Solutions."
+  id: two
+  side: "right"
+- title: "POS Systems"
+  id: one
+  side: "left"

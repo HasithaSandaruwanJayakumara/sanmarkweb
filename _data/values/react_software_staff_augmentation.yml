@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experienced React Developers
+  description: We are skilled in the latest React technologies and development best practices, ensuring that your projects are built with the latest and most effective techniques.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Flexibility in Resource Allocation
+  description:  With our React staff augmentation services, you have the flexibility to scale your development capabilities as needed.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Cost-Effective Solutions
+  description:  We offer the expertise of experienced developers at an affordable cost. Keeping your finances in check while ensuring that your projects are completed within deadlines.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Quick Turnaround Time
+  description: Our team of developers can easily join your current team and get to work on your projects right away.
+  image: assets/img/values/img41.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Quality Assurance
+  description: Our commitment to excellence has resulted in the establishment of rigorous quality assurance measures that uphold industry standards while ensuring on time project delivery within budgets.
+  image: assets/img/values/img80.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Transparent Communication
+  description: With our clients, we value open communication. As the project moves further, our team of developers will keep you informed and collaborate closely with you to meet your needs.
+  image: assets/img/values/img36.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customer Satisfaction Guaranteed
+  description: We aim for perfection while collaborating alongside you every step of the way- ensuring that all project deadlines are met efficaciously.
+  image: assets/img/values/img74.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Collaborative Approach
+  description: Our React developers work closely with your team to ensure everyone is on the same page and that your project is completed to the highest standards.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Competitive Pricing
+  description: We offer competitive pricing for our React staff augmentation services, without compromising on quality or expertise.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Knowledge transfer
+  description: Our developers can provide knowledge transfer to your existing team members, helping them to develop their React software development skills and expertise.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left

@@ -1,0 +1,121 @@
+- image: "/assets/img/careers/graphic-designer.webp"
+  title: "Trainee Graphic Designer"
+  discription:
+    item: "sdfsdfs"
+    item: "sdfsdfsd"
+  content: "<li>Proven graphic designing experience (attach your previous works/projects with the CV)</li>
+            <li>Excellent IT skills, especially with design and photo-editing software.</li>
+            <li>Exceptional creativity, innovation, time management, and organizational skills.</li>
+            <li>Accuracy and attention to detail.</li>
+            <li>An understanding of the latest trends and their roles in the software industry.</li>"
+
+- image: "/assets/img/careers/Software-Engineer-650x650.webp"
+  title: "Software Engineer"
+  content: "<span class='bullet_ltr'><li>Minimum 2 years of experience in web engineering.</li>
+            <li>Experience in a PHP Framework (Eg: Laravel, CodeIgniter, etc.).</li>
+            <li>Experience in a Javascript framework (Eg: AngularJS, etc.).</li>
+            <li>Experience in Version Control Systems (Eg: Git, etc.).</li>
+            <li>Experience in Linux OS (Special consideration if you use Linux as your personal OS!).</li>
+            <li>Experience in DevOps (Design, Build, Deliver, and Maintain applications on your own.).</li>
+            <li>Experience in Content Management Systems (Eg: WordPress, Joomla!, etc.).</li>
+            <li>Experience in E-commerce platforms (Eg: Prestashop, Magento, WooCommerce, etc.).</li>
+            <li>Excellent communication skills in English language.</li></span>"
+
+- image: "/assets/img/careers/Front-End-Quality-Analyst-650x650.webp"
+  title: "Front End Quality Analyst"
+  content: "<li>Excellent communication skills in English language.</li>
+            <li>Attention to detail.</li>
+            <li>Familiarity with web technologies.</li>
+            <li>Ability to work in a well structured manner.</li>
+            <li>Being a heavy Internet user with a sense for latest trends.</li>"
+
+- image: "/assets/img/careers/marketing-manager-650x650.webp"
+  title: "Marketing Officer"
+  content: "<span class='bullet_ltr'><li>BSc / BA. In marketing or relevant field (CIM or SLIM)</li>
+            <li>Good analytics skills, flexibility, and proactive thinking.</li>
+            <li>Processing strong communication and negotiation skills.</li>
+            <li>Knowledge in Social Media Marketing.</li>
+            <li>Excellent use of MS Office including word, excel, and PowerPoint.</li></span>"
+
+- image: "/assets/img/careers/Software-Quality-Assurance-Engineer-650x650.webp"
+  title: "Software Quality Assurance Engineer"
+  content: "<li>3+ years of industry experience.</li>
+            <li>A bachelor’s degree in software engineering or equivalent in a related field.</li>
+            <li>Strong knowledge of software testing processes, practices, and test design techniques.</li>
+            <li>Experience in testing web applications (APIs and UIs.).</li>
+            <li>Experience in test automation and CI/CD.</li>
+            <li>Strong knowledge of PHP, Java, Javascript, OOP Concepts, and coding standards.</li>
+            <li>Knows the basics of: Laravel, Springboot, Git, Docker, Node.js, Angular, Flutter, React, React Native.</li>
+            <li>Excellent command in English language (You will be communicating with clients from all around the world.).</li>"
+
+- image: "/assets/img/careers/Associate-Software-Engineer-650x650.webp"
+  title: "Associate Software Engineer"
+  content: "<span class='bullet_ltr'><li>Degree in Information Technology/ Computer Science, Computer Engineering, Electronics, Electrical Engineering, or relevant disciplines</li>
+            <li>Knowledge in Linux/Unix is essential.</li>
+            <li>Knowledge in database such as SQL server, MySQL, PostgreSQL ,Oracle.</li>
+            <li>Knowledge in Data model language</li>
+            <li>Good command of written and spoken in English</li>
+            <li>Responsible for the software development activities including develop, verify and manage the change requests for one component of a project solution.</li>
+            <li>Responsible for the Design of the software architecture and interfaces for the component to meet functional and performances requirements</li>
+            <li>Responsible for testing software functional, design and quality requirements for the components</li><span>"
+
+- image: "/assets/img/careers/UIUX-Designer-650x650.webp"
+  title: "UI/UX Designer"
+  content: "<li>Have a degree/diploma in Design, Fine Arts, Engineering or related field</li>
+            <li>Have prior experience as a UI/UX Designer as well as a strong portfolio of related projects</li>
+            <li>Proficient in prototyping tools such as Sketch, In Vision, etc. and Basic HTML5, CSS3, and JavaScript skills are a plus</li>
+            <li>Pay strong attention to detail and have a keen eye for aesthetics</li>
+            <li>Have excellent communication skills and can clearly articulate your ideas, designs, and suggestions</li>
+            <li>A strong team player who can collaborate effectively with different stakeholders</li>"
+
+- image: "/assets/img/careers/Human-Resource-Officer-650x650.webp"
+  title: "Human Resource Officer"
+  content: "<span class='bullet_ltr'><li>Two or more years of experience.</li>
+            <li>Qualified Human Resources Degree, Diploma or any other equivalent qualifications..</li>
+            <li>Excellent knowledge of various HR functions such as pay & benefits, recruitment, onboarding, evaluation, training & development etc.</li>
+            <li>Good understanding of labor laws.</li>
+            <li>Proficient in computer litaracy.</li>
+            <li>Outstanding organizational and time-management skills.</li>
+            <li>Excellent communication and interpersonal skills.</li>
+            <li>Problem-solver and team player.</li>
+            <li>Good decision-making skills.</li>
+            <li>Strong ethical standards.</li></span>"
+
+- image: "/assets/img/careers/Business-Development-Officer--650x650.webp"
+  title: "Business Development Officer"
+  content: "<li>Fresh out of education (Show your qualifications and prove how they help work on responsibilities).</li>
+            <li>Excellent command in English language (You will be communicating with clients from all around the world.).</li>
+            <li>Creative, fun, enthusiastic, and energetic.</li>
+            <li>Takes pride in delivering results.</li>
+            <li>Has done real world activities related to the career during education.</li>
+            <li>Has a basic knowledge of the software development industry (We can help you get comfortable with this one, if you know the ABCs.).</li>
+            <li>Able to integrate with a young, energetic, casual, result oriented, fun, liberal, progressive group of tech people. Maybe drink a glass (If you do.), finish the bites (Even if you don’t drink.), sing a song, discuss the movies, TV series, gadgets, tech, world news, and the world and universe in general; generally be part of the team during work and after work.</li>"
+
+- image: "/assets/img/careers/Laravel-Developer-650x650.webp"
+  title: "Laravel Developer"
+  content: "<span class='bullet_ltr'><li>3 years of working experience.</li>
+            <li>Required experience: Laravel, Git, Docker.</li>
+            <li>Good to have experience: Node.js, Angular, Flutter, React, React Native.</li>
+            <li>Excellent command in English language (You will be communicating with clients from all around the world.).</li>
+            <li>Creative, fun, enthusiastic, and energetic.</li>
+            <li>Takes pride in delivering results.</li><span>"
+
+- image: "/assets/img/careers/Digital-Marketing-Executive-650x650.webp"
+  title: "Digital Marketing Executive"
+  content: "<li>3+ years of experience in the digital marketing field.</li>
+            <li>A bachelor’s degree in marketing or equivalent in a related field.</li>
+            <li>In-depth knowledge of digital marketing strategies, social media, paid advertising, and over marketing field.</li>
+            <li>Sound analytical and problem solving skills.</li>
+            <li>Excellent command of the English language and interpersonal skills.</li>
+            <li>Ability to multi-task and manage multiple projects simultaneously.</li>
+            <li>Able to integrate with a young, energetic, casual, result oriented, fun, liberal, progressive group of people.</li>"
+
+- image: "/assets/img/careers/Internship-Trainees-650x650.webp"
+  title: "Internship / Trainees"
+  content: "<span class='bullet_ltr'><li>Computer Science, Information Technology, or Management Information Systems major</li>
+            <li>Minimum GPA of 3.0</li>
+            <li>Familiar with Java, .NET, JavaScript or HTML/DHTML and Microsoft Office Suite</li>
+            <li>Strong verbal and written communication</li>
+            <li>Excellent analytical and problem-solving skills</li>
+            <li>Ability to work well in teams</li>
+            <li>Strong work ethic and attention to detail</li><span>"

@@ -1,0 +1,18 @@
+- title: "What is web application development?"
+  description: "Web application development refers to the process of building, deploying and maintaining software applications that run on the web. These applications provide a user-friendly interface for users to interact with and can range from simple, single-page applications to complex, multi-page systems."
+  id: "list-item-1"
+- title: "Is it expensive to develop a web application?"
+  description: "The web app development cost depends on your requirements, the resources occupied, and the app's complexity. You cannot determine a specific cost, but you can get an estimation or an idea about it. Contact our team to share the details regarding your project or unique idea. Once you provide all the project-related information, the nature of the app or a website, functions you want to include designs, and other needs, we can give you a ballpark figure based on it."
+  id: "list-item-2"
+- title: "Will you provide a full-time dedicated developer?"
+  description: "Yes. We provide our clients with dedicated developers based on their project requirements and demands. Alongside developers, clients can also utilise our other resources as well to eliminate any workflow interruptions."
+  id: "list-item-3"
+- title: "How long does it take a developer to build a web application?"
+  description: "The duration of the web application development cycle depends on your requirements and priorities. A front-end app and back-end infrastructure require an average of 4.5 months to develop. However, if the scope is quite large, it may take many months longer. The project may be completed and modified in 3.5 months if the team has specific ready-made components. Contact us to get an estimation of the duration."
+  id: "list-item-4"
+- title: "Do you offer any maintenance or updates for web app dev after launch?"
+  description: "Yes, at Sanmark Solutions, we provide ongoing maintenance and updates for web app dev after they are launched. It is essential to keep your app up-to-date and well-maintained to ensure that it continues to function as intended and meets the needs of your users."
+  id: "list-item-5"
+
+
+

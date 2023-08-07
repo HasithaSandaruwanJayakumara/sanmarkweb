@@ -1,0 +1,54 @@
+---
+layout: default  
+---
+{% include header.html %}
+{% include slider.html %}
+<div style="margin-top:-50px; background-color:{{page.background_color}};" >
+    <div style="height:50px"></div>
+    </div>
+{% include careers.html %}
+{% include testimonials.html %}
+{% include contact.html %}
+
+<script>
+
+    $(document).ready(function () {
+        var owl = $('.owl-carousel');
+        owl.owlCarousel();
+        $('.customNextBtn').click(function () {
+            owl.trigger('next.owl.carousel');
+        })
+        $('.customPrevBtn').click(function () {
+            owl.trigger('prev.owl.carousel', [300]);
+        })
+    });
+
+    $(document).ready(function() {
+ 
+ $("#owl-demo").owlCarousel({
+
+     autoPlay: 3000, //Set AutoPlay to 3 seconds
+
+     items : 4,
+     itemsDesktop : [1199,3],
+     itemsDesktopSmall : [979,3]
+
+ });
+
+});
+</script>
+
+<style>
+    @media screen and (max-width: 991px) {
+
+  .slider-area{
+    height: 180px;
+  }
+}
+@media screen and (max-width: 367px) {
+        
+        .slider-area{
+          height: 220px;
+        }
+      }
+</style>

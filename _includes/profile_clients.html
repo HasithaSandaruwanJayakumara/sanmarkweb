@@ -1,0 +1,78 @@
+<section class="pb-60 pt-100">
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xl-12 text-center mb-40">
+                <div class="section-title service-main-title">
+                    <h2 class="">{{ include.title }}​</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-12 text-center mb-40">
+                <div class="clients-title">
+                    <h3 class="font-weight-bold pb-20">{{ include.hedding }}</h3>
+                </div>
+            </div>
+        </div>
+
+        {% if page.status %}
+            {% case include.status %}
+                {% when "image_para" %}
+                    <div class="row">
+                        <div class="col-xl-12 text-center mb-40">
+                            <div>
+                                <img src="{{ include.main_image | relative_url }}" class="img-fluid" width="768" height="576" alt="process_image">
+                            </div>
+                        </div>
+            
+                        <div class="col-xl-12 text-center mb-40 pb-30">
+                            <div>
+                                <p style="font-size:18px; font-weight:800px;">{{ include.main_paragraph }}</p>
+                            </div>
+                        </div>
+                    </div>
+            {% endcase %}
+        {% endif %}
+
+    </div>
+
+    <div>
+        {% for link in include.links %}
+        <div class="container">
+            <div class="row {% cycle 'odd', 'even' %}" data-aos="fade-in" data-aos-delay="50" data-aos-once="true">
+                <div class="col-lg-6 text-center">
+                    <div class="relative">
+                        <div class="profile-client-img">
+                            {% if link.status == "img-width" %}
+                                <img  src="{{link.image | relative_url }}" class="img-fluid" alt="" width="170" height="264"/>
+                            {% else %}
+                                <img  src="{{link.image | relative_url }}" class="img-fluid" alt="" width="300" height="264"/>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 {%if include.name%}profile-client-para{%endif%}">
+                   <h4>{{ link.title }}</h4>
+                    <p>{{ link.content }}</p>
+                </div>
+            </div>
+                <br>
+        </div>
+        {% endfor %}
+    </div>
+
+    <script>
+        var oddElements = document.getElementsByClassName('odd');
+    for (var i = 0; i < oddElements.length; i++) {
+        oddElements[i].style.direction = "ltr";
+    }
+
+    var evenElements = document.getElementsByClassName('even');
+    for (var j = 0; j < evenElements.length; j++) {
+        evenElements[j].style.direction = "rtl";
+    }
+    </script>
+
+</section>

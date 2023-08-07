@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Extensive Industry Expertise
+  description: Benefit from our deep industry knowledge and experience in supply chain software development.
+  image: assets/img/values/img96.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions for Local Market
+  description: Get tailored supply chain software solutions aligned with local regulations and industry standards.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proven Track Record of Success
+  description: Trust our track record of delivering successful supply chain software projects on time and within budget.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img52.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Collaborative Approach
+  description: We work closely with you, ensuring your requirements are met throughout the development process.
+  image: assets/img/values/img107.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Cutting-Edge Technology
+  description: Leverage our use of advanced technologies for innovative supply chain software solutions.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Scalable Solutions for Business Growth
+  description: Our software solutions are designed to accommodate your business growth without disruptions.
+  image: assets/img/values/img88.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Data Security and Privacy
+  description: Rest assured knowing that your supply chain data is secure and protected.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Collaboration Tools and Integration Capabilities
+  description: Connect stakeholders and enable seamless communication across your supply chain network.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Client Satisfaction and Long-Term Partnerships
+  description: We prioritise client satisfaction and building lasting relationships through exceptional service.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Agile Development Methodology
+  description: Our agile approach ensures flexibility, adaptability, and efficient project management.
+  image: assets/img/values/img77.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experience
+  description: Sanmark Solutions has been working with Laravel since 2014, starting with Laravel 4.2. We have stayed up to date with the latest developments in the framework and have a wealth of experience working with it.
+  image: assets/img/values/project_management_values/experience.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Quality
+  description: At Sanmark Solutions, we take pride in the quality of our work. We use best practices and follow industry standards to ensure that our Laravel apps are reliable, scalable, and maintainable.
+  image: assets/img/values/img1.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customer service
+  description: We understand that building a web application is a big investment, and we are committed to providing excellent customer service to our clients. Our team is responsive and communicative, and we work closely with our clients to ensure their needs are met.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Results
+  description: We have generated incredible results for our clients using Laravel. Our team has the skills and expertise to help you build a web application that meets your business needs and delivers the desired results.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(255, 63, 0, 0.1)
+  title: Wide Range of Services
+  description: We offer a wide range of Laravel app development services, including custom web application development, REST API development, and more. No matter what your needs are, we have the expertise to help.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(255, 63, 0, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Flexible engagement models
+  description: We offer flexible engagement models to meet the needs of businesses of all sizes. We can accommodate you if you need a full-time development team or just a few hours of support.
+  image: assets/img/values/img7.webp
+  image_bg_color: rgba(136, 108, 255, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Timely delivery
+  description: We understand that time is of the essence in web application development. We are committed to delivering projects on time and within budget.
+  image: assets/img/values/img2.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 17px 17px 17px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Competitive Pricing
+  description: We offer competitive pricing for our Laravel app development services without sacrificing quality. We believe businesses of all sizes should have access to top-notch web application development services.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Ongoing support
+  description: We don't just build and forget. We offer ongoing support to our clients to ensure that their applications perform at their best.
+  image: assets/img/values/img13.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Satisfaction guarantee
+  description:  We are confident in the quality of our work and offer a satisfaction guarantee. If you are not satisfied with our work, we will work with you to make it right.
+  image: assets/img/values/custom_software_development_values/value_9.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

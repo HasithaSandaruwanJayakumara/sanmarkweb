@@ -1,0 +1,23 @@
+- background-image: assets/img/our_services/card1_bg.webp
+  icon: assets/img/our_services/card1_icon.webp
+  title: CUSTOM SOFTWARE DEVELOPMENT
+  description: Tailor-made software systems will boost productivity and support you in growing your business to your dream level. 
+  url: /custom-software-development/
+
+- background-image: assets/img/our_services/card2_bg.webp
+  icon: assets/img/our_services/card2_icon.webp
+  title: DEDICATED ENGINEERS
+  description: Hire dedicated software developers to join your team, or Start building a team with one or more of our software engineers. 
+  url: /software-staff-augmentation/
+
+- background-image: assets/img/our_services/card3_bg.webp
+  icon: assets/img/our_services/card3_icon.webp
+  title: SOFTWARE TEAMS FOR HIRE
+  description: Let us take care of putting together your software team so you are free to focus on your idea. 
+  url: /software-teams-for-hire/
+
+- background-image: assets/img/our_services/card4_bg.webp
+  icon: assets/img/our_services/card4_icon.webp
+  title: E-COMMERCE AND WEB DEVELOPMENT
+  description: Reach your business' online goals with a future-ready website or an e-commerce platform. 
+  url: /web-development/

@@ -1,0 +1,20 @@
+- title: "<b>Laravel allows for rapid development: </b> With Laravel, we can develop your web application faster and more efficiently. This means you can get your application up and running sooner and start seeing results faster."
+  id: one
+- title: "<b>Laravel is perfect for REST APIs:</b> If you need to build a REST API for your web application front ends or mobile apps, Laravel is an excellent choice. Laravel makes building and maintaining APIs easy, which can help you create more powerful and flexible applications."
+  id: one
+- title: "<b>Laravel is easy to work with:</b> If your business requires working with Laravel but you don't have personnel with the expertise to work on the framework, Sanmark Solutions can help you. Our team has years of experience with Laravel and can provide the knowledge and support you need to get the most out of the framework."
+  id: one
+- title: "<b>Laravel is scalable:</b>  Laravel is a powerful framework that can easily handle large-scale projects. This means you can confidently build applications that grow and evolve with your business. "
+  id: one
+- title: "<b>Laravel has a large community:</b>  Laravel has a large and active community of developers and users, which means you can get help and support when needed. There are also many online resources, such as tutorials, documentation, and forums, where you can learn more about Laravel and find solutions to problems."
+  id: one
+- title: "<b>Laravel has built-in security features:</b>  Laravel includes many security features, such as protection against cross-site scripting (XSS) attacks and cross-site request forgery (CSRF). These features help keep your application and users safe, reducing the risk of security breaches and protecting your business's reputation."
+  id: one
+- title: "<b>Laravel integrates with other tools and services:</b>  Laravel can be easily integrated with various tools and services, such as databases, cloud storage, and payment processors. This allows you to build more powerful and flexible applications to meet your business's needs."
+  id: one
+- title: "<b>Laravel can automate repetitive tasks:</b>  Laravel's task scheduler allows you to automate repetitive tasks, such as sending emails or generating weekly or monthly reports. This can save you time and effort and allow you to focus on more important tasks."
+  id: one
+- title: "<b>Laravel can defer time-consuming tasks to the background:</b>  Your customers don’t have to wait for time-consuming tasks to finish. Laravel can send time-consuming tasks to the background to be processed so that your application will be more responsive, and your customers can proceed to other tasks, keeping them happy."
+  id: one
+- title: "<b>Laravel has a strong track record:</b>  Laravel has been around for over a decade and has a strong track record of success. This means that you can trust in the stability and reliability of the framework and build applications with confidence."
+  id: one

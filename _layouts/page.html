@@ -1,0 +1,30 @@
+---
+layout: default
+title: Blog
+
+
+
+hero_button_url: https://sanmarksolutions.com/contact/
+
+---
+{% include header.html %}
+<main>
+  <style>
+    @media screen and (max-width: 386px) {
+      .slider-area {
+        height: 300px !important;
+      }
+    }
+    @media screen and (max-width: 991px) {
+      .slider-area {
+        height: 200px;
+      }
+    }
+  </style>
+  {% include slider.html %}
+  <div style="margin-top:-50px; background-color:{{page.background_color}};">
+    <div style="height:50px"></div>
+  </div>
+
+  {{content}}
+</main>

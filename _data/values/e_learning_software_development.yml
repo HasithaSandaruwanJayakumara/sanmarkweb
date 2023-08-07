@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Tailored Solutions
+  description: We deliver e-learning software that is customised to meet your specific business needs in Melbourne and Sydney.
+  image: assets/img/values/img100.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Experienced Team
+  description: Our expert team leverages their extensive industry knowledge to develop technologically sound and effective e-learning software.
+  image: assets/img/values/img96.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Data Security
+  description: Our e-learning software solutions prioritise robust security measures to protect your business and learners' data.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img92.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: User-Centric Design
+  description: We ensure an engaging, intuitive, and positive learning experience with our user-focused design.
+  image: assets/img/values/img95.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalable Solutions
+  description: Our e-learning software are designed to adapt and grow with your business, catering to your evolving needs.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Performance Tracking Tools
+  description: Track and assess learner performance with our advanced tools, gaining valuable insights into your e-learning program's effectiveness.
+  image: assets/img/values/img101.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Ongoing Support
+  description: Beyond delivering software, we offer responsive, round-the-clock support for smooth e-learning software operation.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Quality Assurance
+  description: We ensure optimal performance and issue-free e-learning software through rigorous testing and quality checks.
+  image: assets/img/values/img102.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Timely Delivery
+  description: We're committed to delivering your e-learning software on schedule, ensuring seamless implementation.
+  image: assets/img/values/img103.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective Solutions
+  description: Get high-quality e-learning software at competitive prices, ensuring maximum value for your investment.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

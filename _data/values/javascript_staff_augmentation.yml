@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: High-Quality Talent
+  description: Our JavaScript development team boasts an impressive history of providing superior software solutions that have catered to businesses operating across different sectors.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective Staffing
+  description: Our software staff augmentation services are designed to be cost-effective for businesses of all sizes.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Dedicated Resource Allocation
+  description: When you hire JavaScript developers through our staff augmentation services, we ensure that they work exclusively on your project.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img41.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Collaborative Approach
+  description: We prioritise a cooperative and customised strategy for staff augmentation at our organisation.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Flexible Staff Augmentation Options
+  description: We offer agile staff augmentation options designed for quick and easy scalability - no matter what the project demands may be.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Expertise
+  description: Our team of developers have extensive experience in a wide range of programming languages, including JavaScript.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels. We can accommodate your needs by using internationally popular communication tools.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Customer Satisfaction
+  description: We take pleasure in what we do and are dedicated to giving our clients the greatest results.
+  image: assets/img/values/img11.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparent Pricing
+  description: We offer competitive rates for our staff augmentation services and will provide you with precise hourly or monthly rates before starting any work.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Access to a Diverse Skill Set
+  description: Our developers can bring fresh ideas and insights to your project and can help you solve complex technical challenges.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

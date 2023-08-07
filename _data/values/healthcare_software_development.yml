@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Proven Track Record
+  description: We have a proven track record of successful healthcare software development projects. Our satisfied clients in Melbourne and Sydney can vouch for the quality and effectiveness of our solutions.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Tailored Solutions for Melbourne and Sydney
+  description: Our software solutions are uniquely crafted to satisfy the particular needs of medical practises in Sydney and Melbourne.
+  image: assets/img/values/img100.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Local Expertise
+  description: Our team of experts stays up-to-date with industry trends, regulations, and best practices. We bring local expertise to ensure our software solutions align with Australian healthcare requirements.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img80.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Comprehensive Feature Set
+  description: Sanmark Solutions offers a comprehensive range of features in our healthcare software solutions. Our software covers all aspects of your medical practice's operations.
+  image: assets/img/values/img126.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Data Security and Compliance
+  description: Our healthcare software adheres to strict data security standards and compliance requirements, including HIPAA regulations, ensuring your patient's sensitive information is protected.
+  image: assets/img/values/img92.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 1px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Scalability and Flexibility
+  description: Our innovative software is specifically crafted to cater to the ever-evolving requirements of your esteemed medical establishment.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Exceptional Customer Support
+  description: We are always accessible to help you with questions, problems, or technical assistance to make using our healthcare software solutions a simple experience.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 8px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: User-Friendly Interface
+  description: Our software solutions feature a user-friendly interface, making it easy for your staff to navigate and utilise the system effectively.
+  image: assets/img/values/img44.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Continuous Innovation
+  description: We keep you at the forefront of market innovations by incorporating the most recent technologies and best practices into our solutions.
+  image: assets/img/values/img98.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Long-Term Partnership
+  description: As your trusted healthcare software development partner, we provide ongoing support, updates, and innovative solutions to ensure your medical practice's success.
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

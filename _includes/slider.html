@@ -1,0 +1,153 @@
+<section class="slider-area slider-bg"
+    style="background-image:url({%if page.hero_background_image %} {{ page.hero_background_image | relative_url }}{%endif%});  width:auto; left:0;">
+    <div style="background-color:{% if page.hero_background_color %}{{ page.hero_background_color }}{%else%}#8A92A9{%endif%}; width:100%; height:100%;" class="slider-flex">
+        <div class="single-slider d-flex align-items-center">
+            <div class="container">
+                <div class="row align-center">
+                    <div class="col-lg-6 mt-5 mb-50">
+                        <div class="slider-content align-middle " id="{{ page.hero_other_slider_content }}">
+                            <style>
+                                .hedding-animation {
+                                    animation: fadeInAnimation ease 1s;
+                                    animation-iteration-count: 1;
+                                    animation-fill-mode: forwards;
+                                }
+
+                                @keyframes fadeInAnimation {
+                                    0% {
+                                        opacity: 0;
+                                    }
+
+                                    100% {
+                                        opacity: 1;
+                                    }
+                                }
+
+                                .hero_second_image-animation {
+                                    animation: fadeInAnimation ease 5s;
+                                    animation-iteration-count: 1;
+                                    animation-fill-mode: forwards;
+                                }
+
+                                @keyframes fadeInAnimation {
+                                    0% {
+                                        opacity: 0;
+                                    }
+
+                                    100% {
+                                        opacity: 1;
+                                    }
+                                }
+                            </style>
+
+                            {% assign page_status = page.status %}
+                            {% case page_status %}
+
+                                {% when 'breadcrumb' %}  
+
+                                    {%if page.hero_hedding_one%}
+                                        <div class="other_slider_hedding" id="{{ page.hero_id }}"  data-aos="fade-in" data-aos-delay="100" data-aos-easing="ease-in-out" data-aos-once="true">
+                                        <h1 id="slider-heading" style="font-size:{{ page.hero_hedding_one_font_size }};">{{ page.hero_hedding_one }}</h1>
+                                        </div>
+                                    {%else%}
+                                        <h1> {{ page.hero_hedding_one }}</h1>
+                                    {%endif%}
+
+                                    {%if page.hero_hedding_two%}
+                                        <h2 style="font-size:{{ page.hero_hedding_two_font_size }}" data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" data-aos-easing="ease-in-out" data-aos-once="true"> {{ page.hero_hedding_two }} <strong>{{ page.hero_hedding_two_strong }}</strong>
+                                        </h2>
+                                    {%endif%}
+
+                                    {%if page.hero_paragraph%}
+                                    <p data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" data-aos-easing="ease-in-out" data-aos-once="true"> {{ page.hero_paragraph }}</p>
+                                    {%endif%}
+                                    {%if page.hero_paragraph_two%}
+                                    <p data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" data-aos-easing="ease-in-out" data-aos-once="true"> {{ page.hero_paragraph_two }}</p>
+                                    {%endif%}
+
+                                    {%if page.hero_button %}
+                                        <a href="{{ page.hero_button_url | relative_url }}" class="slider-btn">{{ page.hero_button }}</a>
+                                    {%endif%}
+                                        
+                                {% when nil %}
+
+                                    {%if page.hero_hedding_one %}
+
+                                        <h1>
+                                            {{ page.hero_hedding_one }}
+                                        </h1>
+                                        <h2> {{ page.hero_hedding_two }} <strong>{{ page.hero_hedding_two_strong }}</strong>
+                                        </h2>
+                                        <p> {{ page.hero_paragraph }}</p>
+                                        <p> {{ page.hero_paragraph_two }}</p>
+                                        <a href="{{ page.hero_button_url | relative_url }}" class="slider-btn">{{ page.hero_button }}</a>
+
+
+                                    {%else%}
+                                        {% assign hero_hedding_one = page.title %}
+                                        {% case hero_hedding_one %}
+                                            {% when site.categories %}
+
+                                                {% for category in site.categories %}
+                                                    {% assign category_name = category[0] %}
+
+                                                    {% if category_name == page.title %}
+                                                        {% assign hero_hedding_one = category_name %}
+                                                    {% endif %}
+                                                {% endfor %}
+
+                                            {% when site.tags %}
+
+                                                {% for tags in site.tags %}
+                                                    {% assign tag_name = tags[0] %}
+
+                                                    {% if tag_name == page.title %}
+                                                        {% assign hero_hedding_one = tag_name %}
+                                                    {% endif %}
+                                                {% endfor %}
+                                            {% when site.date %}
+
+                                            {% assign hero_hedding_one = page.date | date: "%B %Y" %}
+                                        {% endcase %}
+                                        <div class="other_slider_hedding" data-aos="fade-in" data-aos-delay="200" data-aos-easing="ease-in-out" data-aos-once="true" style="">
+
+                                        <h1 style="font-size:48px;">
+                                            <strong {%if page.hero_hedding_one==nil%}style="color: #FFFFFF;font-family: 'Yantramanav', Sans-serif; font-size: 56px !important;
+                                            font-weight: 600;
+                                            line-height: 56px;
+                                            text-shadow: 4px 4px 10px rgb(0 5 50 / 60%);" {%endif%}>{{ hero_hedding_one |
+                                                capitalize}} - Sanmark Solutions</strong>
+                                        </h1>
+                                        </div>
+                                    {%endif%}
+                            {% endcase %}
+                        </div>
+                    </div>
+                    <div class="col-lg-6 d-flex align-items-center">
+                        {% if page.status == "breadcrumb" %}
+                            <div class="hero_second_image" data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" data-aos-easing="ease-in-out" data-aos-once="true">
+                                <img src="{%if page.hero_second_image%}{{ page.hero_second_image | relative_url }}{%else%}{{ site.baseurl }}/assets/img/slider/hero-second-image.webp{%endif%}"
+                                    width="463" height="463" alt="Sanmark Solutions">
+                            </div>
+                        {% else %}
+                            <div class="hero_second_image">
+                                <img src="{%if page.hero_second_image%}{{ page.hero_second_image | relative_url }}{%else%}{{ site.baseurl }}/assets/img/slider/hero-second-image.webp{%endif%}"
+                                    width="463" height="463" alt="Sanmark Solutions">
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<svg style="bottom: 40px; height: 44px; max-width: auto; position: relative; width: 100%; padding:0px; overflow: hidden;" id="wave"
+    xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 1289 34">
+    <path fill="{% if page.background_color %}{{ page.background_color }}{%else%}#ffffff{%endif%}"
+    d="M0,16.4c189.6,21.9,423.1,21.9,700.5,0s423.1-21.9,700.5,0s189.6,21.9,700.5,0s423.1-21.9,700.5,0
+    c189.6,21.9,423.1,21.9,700.5,0V34H0V16.4z">
+    </path>
+</svg>

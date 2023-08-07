@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experienced and Skilled Developers
+  description: Our team has extensive serverless development experience and a deep understanding of cloud computing technologies.
+  image: assets/img/values/img22.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: We use the latest technologies and frameworks to meet your requirements and to ensure that our solutions are reliable, secure, and easy to maintain.
+  image: assets/img/values/img23.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Seamless Integration
+  description: Our developers have experience integrating serverless applications with existing systems, making the transition to serverless seamless.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img28.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Ongoing Support and Maintenance
+  description: Our serverless development services include ongoing maintenance and support to ensure that your solutions are up-to-date and running at optimal performance.
+  image: assets/img/values/img26.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Committed to Quality
+  description: At Sanmark Solutions, we are committed to delivering high-quality serverless development services that meet the unique needs of your business.
+  image: assets/img/values/img12.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Cost-Effectiveness
+  description: At Sanmark Solutions, we work with you to understand your budget constraints and deliver solutions that fit within your budget.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Scalability and Flexibility
+  description: Our serverless solutions are designed to scale with your business, allowing you to adapt quickly to changing business needs.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Faster Time-to-Market
+  description: With Sanmark Solutions, you'll get your serverless backend up and running quickly, allowing your business to start reaping the benefits sooner.
+  image: assets/img/values/img19.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proven Track Record
+  description: We have a proven track record of delivering successful serverless projects for clients in Melbourne and Sydney.
+  image: assets/img/values/img27.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Industry-Leading Tools and Technologies
+  description: We stay ahead of the curve by using the latest tools and technologies in serverless development, ensuring that your project is cutting-edge and future-proof.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

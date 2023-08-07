@@ -1,0 +1,18 @@
+- title: "What is Java software development?"
+  description: "Java software development uses the Java programming language to create software applications. Java is a popular choice for software development due to its platform independence, object-oriented programming, security, and large community of developers."
+  id: "list-item-1"
+- title: "Why should I choose Sanmark Solutions for my Java software development needs?"
+  description: "Sanmark Solutions offers a comprehensive range of Java software development services. Our team of experienced Java software developers has the expertise and experience to deliver high-quality solutions that meet your unique needs. In addition, we have a proven track record of success and excellent communication and project management skills."
+  id: "list-item-2"
+- title: "Can you provide post-delivery support for the software solutions you develop?"
+  description: "Yes, we offer post-delivery support to ensure that our software solutions continue to meet your needs and expectations. Our team of experts will be available to provide support and make any necessary updates to the software."
+  id: "list-item-3"
+- title: "How long does developing a custom Java software solution take?"
+  description: "The development time for a custom Java software solution depends on the project's complexity and the business's specific requirements. We work closely with our clients to provide an accurate timeline for development and ensure that all deadlines are met."
+  id: "list-item-4"
+- title: "How do you ensure the security of the software solutions you develop?"
+  description: "At Sanmark Solutions, we take the security of our client's software solutions very seriously. We ensure that all software solutions we develop are thoroughly tested and incorporate the latest security features to prevent unauthorised access and protect sensitive data."
+  id: "list-item-5"
+
+
+

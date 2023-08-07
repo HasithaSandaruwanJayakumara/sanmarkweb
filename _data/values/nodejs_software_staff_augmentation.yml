@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expertise in Node.js Development
+  description: Our team of expert Node.js developers has extensive experience working on a range of projects across various industries.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Flexible Engagement Models
+  description: We offer flexible engagement models that allow you to adjust your team size and composition as needed to meet your specific project needs.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Streamlined Onboarding Process
+  description: Our streamlined onboarding process ensures that our developers can seamlessly integrate with your existing team.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Cost-Effective Solutions
+  description: By choosing Sanmark Solutions for your Node.js staff augmentation needs, you can save significant costs compared to recruiting and hiring new employees for your development team.
+  image: assets/img/values/img88.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Cutting-Edge Development Tools And Technologies
+  description: We use the latest development tools and technologies to ensure that your projects are built using the latest best practices.
+  image: assets/img/values/img25.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Dedicated Resource Allocation
+  description: When you hire Node.js developers through our staff augmentation services, we ensure that they work exclusively on your project.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Collaborative Approach
+  description: We believe working closely with our clients is important to understand their unique needs and goals.
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Communication Channels
+  description: We offer flexible communication channels that allow you to stay in touch with your dedicated Node.js developers throughout the engagement.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Customer Satisfaction Guarantee
+  description: At Sanmark Solutions, we pride ourselves on our commitment to customer satisfaction. We're not happy unless you're completely satisfied with the work we've done for you.
+  image: assets/img/values/img28.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 13px 13px 13px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Transparent Pricing
+  description:  We offer competitive rates for our software staff augmentation services and will provide you with clear hourly or monthly rates before starting any work.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

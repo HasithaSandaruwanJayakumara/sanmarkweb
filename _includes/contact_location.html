@@ -1,0 +1,84 @@
+<section class="pb-60 pt-10" style="background-color: rgb(231,237,248); overflow-x: hidden;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-xl-6 location-div d-flex justify-content-center align-items-center">
+              <img src="{{page.location_image | relative_url}}" alt="location image"  width="100%" height="0">
+            </div>
+
+                <div class="col-12 col-xl-6" data-aos="{{ page.contact.form_animation }}" data-aos-delay="{{ page.contact.form_animation_delay }}">
+                    <div class="contact-us-form h-100">
+                      <form action="" class="row" style="width: 100%">
+                        <div class="col-12 contact-form-title">
+                            <h2><span>Contact us</span></h2>
+                          </div>
+                        <div class="col-12">
+                          <h3>Have Questions<br> Get in Touch!</h3>
+                        </div>
+                        <div class="col-12">
+                          <input type="text" name="name" placeholder="Name" id="" />
+                        </div>
+                        <div class="col-12 col-md-12 col-lg-6">
+                          <input type="email" name="email" placeholder="Email Address" id="" />
+                        </div>
+                        <div class="col-12 col-md-12 col-lg-1 pt-10 text-center text-white">
+                                OR
+                        </div>
+                        <div class="col-12 col-md-12 col-lg-5">
+                          <input type="text" name="contact" placeholder="Phone" id="" />
+                        </div>
+                        <div class="col-12 col-md-12 col-lg-6" style="text-decoration: none;">
+                            <select id="dropdown" onchange="toggleCustomOption(this)">
+                              <option value="">-Select Service-</option>
+                              <option value="other">Other</option>
+                              <option value="option1">Custom Software Development</option>
+                              <option value="option2">Dedicated Engineers</option>
+                              <option value="option3">Software Teams for Hire</option>
+                            </select>
+                        </div>
+                        
+                        <div id="customOption" class="fade col-12 col-md-12 col-lg-6 customOption" style="height: 0;">
+                          <input placeholder="What can we do for you?" type="text" id="otherInput">
+                        </div>
+
+                        <script>
+                          function toggleCustomOption(dropdown) {
+                            var customOption = document.getElementById("customOption");
+
+                            if (dropdown.value === "other") {
+                                customOption.classList.add("show");
+                            } else {
+                                customOption.classList.remove("show");
+                            }
+                          }
+                        </script>
+                        <div class="col-12">
+                          <textarea
+                            name="messege"
+                            placeholder="Let us know what exciting challenge we can help you with!"
+                            id=""
+                            cols="4"
+                            rows="2"
+                          ></textarea>
+                        </div>
+                        <div class="col-12">
+                          <p>
+                            <span class="custom-text"
+                              >We hate spam too, and we never share your data and protect
+                              them securely.</span
+                            >
+                          </p>
+                        </div>
+                        <div class="col-12 d-flex justify-content-center">
+                          <button>
+                            Let's Talk
+                            <span class="button-custom-text"
+                              >to Kick-start Your Success</span
+                            >
+                          </button>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+        </div>
+    </div>
+</section>

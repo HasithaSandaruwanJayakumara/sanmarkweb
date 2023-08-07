@@ -1,0 +1,86 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Expert Angular Developers
+  description: Our staff can provide high-quality work to match your company's objectives because we have years of expertise developing custom web applications. We use industry best practises and standards to make sure your application is dependable, safe, and scalable.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Stay ahead of the Curve
+  description:  Regarding contemporary updates like Angular 12, we are experts constantly evolving with industry standards and advancements related to the same technology. Our developers frequently attend enthusiast-led training so that all clients receive adaptable solutions tailored to their demands.
+  image: assets/img/values/img81.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Flexible Hiring Model
+  description:  Depending on your company's needs, you may recruit Angular developers on a full-time, part-time, or project basis using our flexible hiring approach. Your staff can be scaled up or down without additional overhead expenditures.
+  image: assets/img/values/img48.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Proven Track Record
+  description: Sanmark has a proven track record of providing high-quality Angular software staff augmentation solutions to businesses across various industries. With years of experience, we have delivered successful projects that have helped our clients achieve their business objectives.
+  image: assets/img/values/img52.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: End-To-End Development Services
+  description: Our respected organisation proudly provides a range of Angular development services that are second to none. Our end-to-end solutions incorporate extensive experience in application development paired with an eye for UI/UX design.
+  image: assets/img/values/img41.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Collaborative Approach
+  description: By closely collaborating with you to comprehend your company's aims and goals, we ensure that your project is completed on time and under budget by engaging with you at every stage. Our priority is creating enduring connections with our clients.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Transparency
+  description: We strongly focus on customer satisfaction and provide regular progress updates and transparent communication to ensure you are always in the loop. We offer the materials and tools needed to keep tabs on development, offer criticism, and monitor progress.
+  image: assets/img/values/img9.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Competitive Rates
+  description: Our rates are competitive, and we offer flexible hiring models to help you stay within your budget. Our goal is to provide high-quality Angular development services at affordable rates.
+  image: assets/img/values/img51.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px 
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Scalable Solutions
+  description: We are committed to providing scalable Angular software staff augmentation solutions that help businesses in Melbourne and Sydney drive growth and stay ahead of the competition. We can help you scale your team and resources as your business grows.
+  image: assets/img/values/img82.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Customer-focused
+  description: Our team remains wholly committed to delivering elite staff augmentation solutions for Angular software development that cater precisely to individual business goals, from start to end engagements. Customer satisfaction remains paramount - guiding us daily as we strive to help our clients reach greater heights of achievement.
+  image: assets/img/values/img83.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 12px
+  aos_animation: fade-left
+
+
+
+
+
+
+

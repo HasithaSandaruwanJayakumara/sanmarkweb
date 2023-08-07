@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Unmatched Expertise
+  description: Enjoy complete peace of mind knowing that our team of experienced professionals possesses an unmatched command over all aspects related to DNS management. Your website will always be completely secure, quick, and dependable because of our attention to detail.
+  image: assets/img/values/img96.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Tailored Solutions
+  description: Since we are aware that every business has different needs, we provide specialised DNS management services that are tailored to your requirements, ensuring the best outcomes for your online presence.
+  image: assets/img/values/img100.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Proactive Security
+  description: At Sanmark Solutions, we prioritise the security of your website by employing advanced security measures, including protection against DDoS attacks, DNS spoofing, and cache poisoning, keeping your online presence safeguarded at all times.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img92.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Reliable Performance
+  description: Our DNS administration services are made to improve the functionality of your website, resulting in quicker load times, a better user experience, and possibly even improved search engine rankings.
+  image: assets/img/values/img74.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalable Solutions
+  description: Your company's needs for DNS administration expand along with it. Our services are built to scale with your company, making sure that as you grow, your online presence stays optimised and safe.
+  image: assets/img/values/img71.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Strong Partnerships
+  description: We are able to offer cutting-edge DNS management services because of our experience using services from sector giants like GoDaddy, Cloudflare, and Google, giving you a dependable and secure online experience.
+  image: assets/img/values/img69.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Exceptional Support
+  description: Our dedicated team of experts is available to assist you with any questions or concerns related to your DNS and domain management, ensuring you receive the guidance and support you need.
+  image: assets/img/values/img79.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Cost-Effective Services
+  description: By outsourcing your DNS maintenance to Sanmark Solutions, you can focus on expanding your business while saving time and resources. You will get the highest return on your investment thanks to our reasonable pricing.
+  image: assets/img/values/img50.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Seamless Integration with Existing Systems
+  description: Our DNS management services are designed to easily integrate with your existing infrastructure and platforms, ensuring a smooth transition and minimal disruption to your operations.
+  image: assets/img/values/img43.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Proven Track Record
+  description: Sanmark Solutions has a history of delivering exceptional DNS management services to our clients. By choosing us for your DNS management needs, you can have peace of mind knowing that your website is in the hands of experienced professionals.
+  image: assets/img/values/img87.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

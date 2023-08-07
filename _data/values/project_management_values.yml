@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experience
+  description: We are well-experienced in the software development industry creating software solutions for diverse industries, using many different technologies and methodologies. 
+  image: assets/img/values/project_management_values/experience.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Core Values
+  description: The heart of our collaborations lie in transparency, shared values and a focus on your success.
+  image: assets/img/values/project_management_values/core-values.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 20px 19px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Proven Workflow
+  description: We follow a proven workflow from project conception to completion, that ensures efficiency and on-time delivery.
+  image: assets/img/values/project_management_values/Workflow.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 19px 19px 21px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Transparency
+  description: Our projects are transparent throughout and we are always open to communication.
+  image: assets/img/values/custom_software_development_values/value_5.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(255, 63, 0, 0.1)
+  title: Accountable
+  description: We take our responsibilities seriously and ensure accountability both from our end and from the team members.
+  image: assets/img/values/project_management_values/accountable.webp
+  image_bg_color: rgba(255, 63, 0, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Competitive Pricing
+  description: We offer highly competitive, unbeatable pricing for software project management solutions.
+  image: assets/img/values/custom_software_development_values/value_6.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Expertise & Skills
+  description: Our team is up to date on the latest technologies and developments when it comes to software development and project management, and offer a high level of expertise and skill.
+  image: assets/img/values/custom_software_development_values/value_7.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Latest Technology & Tools
+  description: We use the latest innovations when it comes to project management software packages.
+  image: assets/img/values/project_management_values/latest-technology .webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Happy Clients
+  description: We have completed hundreds of projects and are proud to have many happy clients behind us.
+  image: assets/img/values/custom_software_development_values/value_8.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 12px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Long Term Commitment
+  description: We are a company that is growing and developing every day, and we are in it for the long run!
+  image: assets/img/values/custom_software_development_values/value_9.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left

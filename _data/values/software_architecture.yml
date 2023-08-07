@@ -1,0 +1,79 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experienced Experts
+  description: Our team of software architecture experts has years of experience and expertise, ensuring that your project is in good hands.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 20px 18px 19px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Customised Solutions
+  description: We tailor our services to meet the specific needs of each client, ensuring that you get a solution that works for you.
+  image: assets/img/values/img34.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Collaboration
+  description: We believe in working closely with our clients throughout the software architecture process, providing ongoing guidance and support to ensure success.
+  image_bg_color: rgba(0, 129, 245, 1)
+  image: assets/img/values/img59.webp
+  image_padding: 12px 12px 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Innovative Approaches
+  description: We stay on top of the latest software architecture trends and techniques, providing innovative solutions that drive results.
+  image: assets/img/values/img60.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Scalability
+  description: Our software architecture designs are built with scalability in mind, ensuring that your solution can grow and adapt over time.
+  image: assets/img/values/img33.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Attention to Detail
+  description: We pay attention to every detail, ensuring that no aspect of your software architecture design is overlooked or neglected.
+  image: assets/img/values/img61.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 11px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Cost-Effective
+  description: We offer cost-effective solutions that deliver value for money, providing high-quality results without breaking the bank.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px 12px 12px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Transparent Communication
+  description: We believe in open and transparent communication with our clients, keeping you informed and involved throughout the process.
+  image: assets/img/values/img13.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 13px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Timely Delivery
+  description: We pride ourselves on delivering results on time and within budget, ensuring that your solution is delivered when you need it.
+  image: assets/img/values/img62.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 11px 11px 11px 11px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Quality Results
+  description: At Sanmark Solutions, we are committed to delivering high-quality, successful software solutions that meet and exceed our client's expectations.
+  image: assets/img/values/img63.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 11px
+  aos_animation: fade-left

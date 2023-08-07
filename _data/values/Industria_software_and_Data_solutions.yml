@@ -1,0 +1,95 @@
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Experience
+  description: We are well-experienced in the software development industry creating software solutions for diverse industries, using many different technologies and methodologies.
+  image: assets/img/values/img5.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Creative
+  description: Our designers are creative and know what will attract customers in your specific industry.
+  image: assets/img/values/img57.webp
+  image_bg_color: rgba(136, 108, 255, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Core Values
+  description:  The heart of our collaborations lie in transparency, shared values and a focus on your success.
+  image: assets/img/values/img32.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(136, 108, 255, 0.1)
+  title: Proven Workflow
+  description: We follow a proven workflow from project conception to completion, that ensures efficiency and on-time delivery.
+  image: assets/img/values/img15.webp
+  image_bg_color: rgba(136, 108, 255, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Transparency
+  description: Our projects are transparent throughout and we are always open to communication.
+  image: assets/img/values/img53.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(191, 101, 22, 0.1)
+  title: Competitive Pricing
+  description: We offer highly competitive, unbeatable pricing for all our software development solutions.
+  image: assets/img/values/img4.webp
+  image_bg_color: rgba(191, 101, 22, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(255, 63, 0, 0.1)
+  title: Expertise & Skills
+  description: Our team is up to date on the latest technologies and developments in software development and project management, and offer a high level of expertise and skill. In addition, we are also aware of developments in specific industries, which gives us an edge over other development companies.
+  image: assets/img/values/img29.webp
+  image_bg_color: rgba(255, 63, 0, 1)
+  image_padding: 12px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(221, 182, 33, 0.1)
+  title: Latest Technology & Tools
+  description: We use the latest innovations and tools to provide you with the best and most suitable industrial solution that addresses your specific business needs.
+  image: assets/img/values/img58.webp
+  image_bg_color: rgba(221, 182, 33, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(245, 84, 152, 0.1)
+  title: Software Implementation & Maintenance
+  description: We will not only create an innovative software solution for you, but we will also help you implement it within your organisational structure and maintain and upgrade it over time.
+  image: assets/img/values/img18.webp
+  image_bg_color: rgba(245, 84, 152, 1)
+  image_padding: 13px 
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 129, 245, 0.1)
+  title: Staff Training
+  description: We will train your staff on how to use the new software applications efficiently and effectively.
+  image: assets/img/values/img16.webp
+  image_bg_color: rgba(0, 129, 245, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
+
+- card_bg_color: rgba(25, 82, 77, 0.1)
+  title: Happy Clients
+  description: We have completed hundreds of projects and are proud to have many happy clients behind us.
+  image: assets/img/values/img28.webp
+  image_bg_color: rgba(25, 82, 77, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-right
+
+- card_bg_color: rgba(0, 211, 98, 0.1)
+  title: Long Term Commitment
+  description: We are a company that is growing and developing every day, and we are in it for the long run!
+  image: assets/img/values/img30.webp
+  image_bg_color: rgba(0, 211, 98, 1)
+  image_padding: 16px 15px 16px 16px
+  aos_animation: fade-left
